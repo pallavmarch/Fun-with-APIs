@@ -1,0 +1,1303 @@
+Name,Height,Weight,Base Experience,Abilities,Types
+Bulbasaur,7,69,64,"overgrow, chlorophyll","grass, poison"
+Ivysaur,10,130,142,"overgrow, chlorophyll","grass, poison"
+Venusaur,20,1000,236,"overgrow, chlorophyll","grass, poison"
+Charmander,6,85,62,"blaze, solar-power",fire
+Charmeleon,11,190,142,"blaze, solar-power",fire
+Charizard,17,905,240,"blaze, solar-power","fire, flying"
+Squirtle,5,90,63,"torrent, rain-dish",water
+Wartortle,10,225,142,"torrent, rain-dish",water
+Blastoise,16,855,239,"torrent, rain-dish",water
+Caterpie,3,29,39,"shield-dust, run-away",bug
+Metapod,7,99,72,shed-skin,bug
+Butterfree,11,320,178,"compound-eyes, tinted-lens","bug, flying"
+Weedle,3,32,39,"shield-dust, run-away","bug, poison"
+Kakuna,6,100,72,shed-skin,"bug, poison"
+Beedrill,10,295,178,"swarm, sniper","bug, poison"
+Pidgey,3,18,50,"keen-eye, tangled-feet, big-pecks","normal, flying"
+Pidgeotto,11,300,122,"keen-eye, tangled-feet, big-pecks","normal, flying"
+Pidgeot,15,395,216,"keen-eye, tangled-feet, big-pecks","normal, flying"
+Rattata,3,35,51,"run-away, guts, hustle",normal
+Raticate,7,185,145,"run-away, guts, hustle",normal
+Spearow,3,20,52,"keen-eye, sniper","normal, flying"
+Fearow,12,380,155,"keen-eye, sniper","normal, flying"
+Ekans,20,69,58,"intimidate, shed-skin, unnerve",poison
+Arbok,35,650,157,"intimidate, shed-skin, unnerve",poison
+Pikachu,4,60,112,"static, lightning-rod",electric
+Raichu,8,300,218,"static, lightning-rod",electric
+Sandshrew,6,120,60,"sand-veil, sand-rush",ground
+Sandslash,10,295,158,"sand-veil, sand-rush",ground
+Nidoran-F,4,70,55,"poison-point, rivalry, hustle",poison
+Nidorina,8,200,128,"poison-point, rivalry, hustle",poison
+Nidoqueen,13,600,227,"poison-point, rivalry, sheer-force","poison, ground"
+Nidoran-M,5,90,55,"poison-point, rivalry, hustle",poison
+Nidorino,9,195,128,"poison-point, rivalry, hustle",poison
+Nidoking,14,620,227,"poison-point, rivalry, sheer-force","poison, ground"
+Clefairy,6,75,113,"cute-charm, magic-guard, friend-guard",fairy
+Clefable,13,400,217,"cute-charm, magic-guard, unaware",fairy
+Vulpix,6,99,60,"flash-fire, drought",fire
+Ninetales,11,199,177,"flash-fire, drought",fire
+Jigglypuff,5,55,95,"cute-charm, competitive, friend-guard","normal, fairy"
+Wigglytuff,10,120,196,"cute-charm, competitive, frisk","normal, fairy"
+Zubat,8,75,49,"inner-focus, infiltrator","poison, flying"
+Golbat,16,550,159,"inner-focus, infiltrator","poison, flying"
+Oddish,5,54,64,"chlorophyll, run-away","grass, poison"
+Gloom,8,86,138,"chlorophyll, stench","grass, poison"
+Vileplume,12,186,221,"chlorophyll, effect-spore","grass, poison"
+Paras,3,54,57,"effect-spore, dry-skin, damp","bug, grass"
+Parasect,10,295,142,"effect-spore, dry-skin, damp","bug, grass"
+Venonat,10,300,61,"compound-eyes, tinted-lens, run-away","bug, poison"
+Venomoth,15,125,158,"shield-dust, tinted-lens, wonder-skin","bug, poison"
+Diglett,2,8,53,"sand-veil, arena-trap, sand-force",ground
+Dugtrio,7,333,149,"sand-veil, arena-trap, sand-force",ground
+Meowth,4,42,58,"pickup, technician, unnerve",normal
+Persian,10,320,154,"limber, technician, unnerve",normal
+Psyduck,8,196,64,"damp, cloud-nine, swift-swim",water
+Golduck,17,766,175,"damp, cloud-nine, swift-swim",water
+Mankey,5,280,61,"vital-spirit, anger-point, defiant",fighting
+Primeape,10,320,159,"vital-spirit, anger-point, defiant",fighting
+Growlithe,7,190,70,"intimidate, flash-fire, justified",fire
+Arcanine,19,1550,194,"intimidate, flash-fire, justified",fire
+Poliwag,6,124,60,"water-absorb, damp, swift-swim",water
+Poliwhirl,10,200,135,"water-absorb, damp, swift-swim",water
+Poliwrath,13,540,230,"water-absorb, damp, swift-swim","water, fighting"
+Abra,9,195,62,"synchronize, inner-focus, magic-guard",psychic
+Kadabra,13,565,140,"synchronize, inner-focus, magic-guard",psychic
+Alakazam,15,480,225,"synchronize, inner-focus, magic-guard",psychic
+Machop,8,195,61,"guts, no-guard, steadfast",fighting
+Machoke,15,705,142,"guts, no-guard, steadfast",fighting
+Machamp,16,1300,227,"guts, no-guard, steadfast",fighting
+Bellsprout,7,40,60,"chlorophyll, gluttony","grass, poison"
+Weepinbell,10,64,137,"chlorophyll, gluttony","grass, poison"
+Victreebel,17,155,221,"chlorophyll, gluttony","grass, poison"
+Tentacool,9,455,67,"clear-body, liquid-ooze, rain-dish","water, poison"
+Tentacruel,16,550,180,"clear-body, liquid-ooze, rain-dish","water, poison"
+Geodude,4,200,60,"rock-head, sturdy, sand-veil","rock, ground"
+Graveler,10,1050,137,"rock-head, sturdy, sand-veil","rock, ground"
+Golem,14,3000,223,"rock-head, sturdy, sand-veil","rock, ground"
+Ponyta,10,300,82,"run-away, flash-fire, flame-body",fire
+Rapidash,17,950,175,"run-away, flash-fire, flame-body",fire
+Slowpoke,12,360,63,"oblivious, own-tempo, regenerator","water, psychic"
+Slowbro,16,785,172,"oblivious, own-tempo, regenerator","water, psychic"
+Magnemite,3,60,65,"magnet-pull, sturdy, analytic","electric, steel"
+Magneton,10,600,163,"magnet-pull, sturdy, analytic","electric, steel"
+Farfetchd,8,150,132,"keen-eye, inner-focus, defiant","normal, flying"
+Doduo,14,392,62,"run-away, early-bird, tangled-feet","normal, flying"
+Dodrio,18,852,165,"run-away, early-bird, tangled-feet","normal, flying"
+Seel,11,900,65,"thick-fat, hydration, ice-body",water
+Dewgong,17,1200,166,"thick-fat, hydration, ice-body","water, ice"
+Grimer,9,300,65,"stench, sticky-hold, poison-touch",poison
+Muk,12,300,175,"stench, sticky-hold, poison-touch",poison
+Shellder,3,40,61,"shell-armor, skill-link, overcoat",water
+Cloyster,15,1325,184,"shell-armor, skill-link, overcoat","water, ice"
+Gastly,13,1,62,levitate,"ghost, poison"
+Haunter,16,1,142,levitate,"ghost, poison"
+Gengar,15,405,225,cursed-body,"ghost, poison"
+Onix,88,2100,77,"rock-head, sturdy, weak-armor","rock, ground"
+Drowzee,10,324,66,"insomnia, forewarn, inner-focus",psychic
+Hypno,16,756,169,"insomnia, forewarn, inner-focus",psychic
+Krabby,4,65,65,"hyper-cutter, shell-armor, sheer-force",water
+Kingler,13,600,166,"hyper-cutter, shell-armor, sheer-force",water
+Voltorb,5,104,66,"soundproof, static, aftermath",electric
+Electrode,12,666,172,"soundproof, static, aftermath",electric
+Exeggcute,4,25,65,"chlorophyll, harvest","grass, psychic"
+Exeggutor,20,1200,186,"chlorophyll, harvest","grass, psychic"
+Cubone,4,65,64,"rock-head, lightning-rod, battle-armor",ground
+Marowak,10,450,149,"rock-head, lightning-rod, battle-armor",ground
+Hitmonlee,15,498,159,"limber, reckless, unburden",fighting
+Hitmonchan,14,502,159,"keen-eye, iron-fist, inner-focus",fighting
+Lickitung,12,655,77,"own-tempo, oblivious, cloud-nine",normal
+Koffing,6,10,68,"levitate, neutralizing-gas, stench",poison
+Weezing,12,95,172,"levitate, neutralizing-gas, stench",poison
+Rhyhorn,10,1150,69,"lightning-rod, rock-head, reckless","ground, rock"
+Rhydon,19,1200,170,"lightning-rod, rock-head, reckless","ground, rock"
+Chansey,11,346,395,"natural-cure, serene-grace, healer",normal
+Tangela,10,350,87,"chlorophyll, leaf-guard, regenerator",grass
+Kangaskhan,22,800,172,"early-bird, scrappy, inner-focus",normal
+Horsea,4,80,59,"swift-swim, sniper, damp",water
+Seadra,12,250,154,"poison-point, sniper, damp",water
+Goldeen,6,150,64,"swift-swim, water-veil, lightning-rod",water
+Seaking,13,390,158,"swift-swim, water-veil, lightning-rod",water
+Staryu,8,345,68,"illuminate, natural-cure, analytic",water
+Starmie,11,800,182,"illuminate, natural-cure, analytic","water, psychic"
+Mr-Mime,13,545,161,"soundproof, filter, technician","psychic, fairy"
+Scyther,15,560,100,"swarm, technician, steadfast","bug, flying"
+Jynx,14,406,159,"oblivious, forewarn, dry-skin","ice, psychic"
+Electabuzz,11,300,172,"static, vital-spirit",electric
+Magmar,13,445,173,"flame-body, vital-spirit",fire
+Pinsir,15,550,175,"hyper-cutter, mold-breaker, moxie",bug
+Tauros,14,884,172,"intimidate, anger-point, sheer-force",normal
+Magikarp,9,100,40,"swift-swim, rattled",water
+Gyarados,65,2350,189,"intimidate, moxie","water, flying"
+Lapras,25,2200,187,"water-absorb, shell-armor, hydration","water, ice"
+Ditto,3,40,101,"limber, imposter",normal
+Eevee,3,65,65,"run-away, adaptability, anticipation",normal
+Vaporeon,10,290,184,"water-absorb, hydration",water
+Jolteon,8,245,184,"volt-absorb, quick-feet",electric
+Flareon,9,250,184,"flash-fire, guts",fire
+Porygon,8,365,79,"trace, download, analytic",normal
+Omanyte,4,75,71,"swift-swim, shell-armor, weak-armor","rock, water"
+Omastar,10,350,173,"swift-swim, shell-armor, weak-armor","rock, water"
+Kabuto,5,115,71,"swift-swim, battle-armor, weak-armor","rock, water"
+Kabutops,13,405,173,"swift-swim, battle-armor, weak-armor","rock, water"
+Aerodactyl,18,590,180,"rock-head, pressure, unnerve","rock, flying"
+Snorlax,21,4600,189,"immunity, thick-fat, gluttony",normal
+Articuno,17,554,261,"pressure, snow-cloak","ice, flying"
+Zapdos,16,526,261,"pressure, static","electric, flying"
+Moltres,20,600,261,"pressure, flame-body","fire, flying"
+Dratini,18,33,60,"shed-skin, marvel-scale",dragon
+Dragonair,40,165,147,"shed-skin, marvel-scale",dragon
+Dragonite,22,2100,270,"inner-focus, multiscale","dragon, flying"
+Mewtwo,20,1220,306,"pressure, unnerve",psychic
+Mew,4,40,270,synchronize,psychic
+Chikorita,9,64,64,"overgrow, leaf-guard",grass
+Bayleef,12,158,142,"overgrow, leaf-guard",grass
+Meganium,18,1005,236,"overgrow, leaf-guard",grass
+Cyndaquil,5,79,62,"blaze, flash-fire",fire
+Quilava,9,190,142,"blaze, flash-fire",fire
+Typhlosion,17,795,240,"blaze, flash-fire",fire
+Totodile,6,95,63,"torrent, sheer-force",water
+Croconaw,11,250,142,"torrent, sheer-force",water
+Feraligatr,23,888,239,"torrent, sheer-force",water
+Sentret,8,60,43,"run-away, keen-eye, frisk",normal
+Furret,18,325,145,"run-away, keen-eye, frisk",normal
+Hoothoot,7,212,52,"insomnia, keen-eye, tinted-lens","normal, flying"
+Noctowl,16,408,158,"insomnia, keen-eye, tinted-lens","normal, flying"
+Ledyba,10,108,53,"swarm, early-bird, rattled","bug, flying"
+Ledian,14,356,137,"swarm, early-bird, iron-fist","bug, flying"
+Spinarak,5,85,50,"swarm, insomnia, sniper","bug, poison"
+Ariados,11,335,140,"swarm, insomnia, sniper","bug, poison"
+Crobat,18,750,241,"inner-focus, infiltrator","poison, flying"
+Chinchou,5,120,66,"volt-absorb, illuminate, water-absorb","water, electric"
+Lanturn,12,225,161,"volt-absorb, illuminate, water-absorb","water, electric"
+Pichu,3,20,41,"static, lightning-rod",electric
+Cleffa,3,30,44,"cute-charm, magic-guard, friend-guard",fairy
+Igglybuff,3,10,42,"cute-charm, competitive, friend-guard","normal, fairy"
+Togepi,3,15,49,"hustle, serene-grace, super-luck",fairy
+Togetic,6,32,142,"hustle, serene-grace, super-luck","fairy, flying"
+Natu,2,20,64,"synchronize, early-bird, magic-bounce","psychic, flying"
+Xatu,15,150,165,"synchronize, early-bird, magic-bounce","psychic, flying"
+Mareep,6,78,56,"static, plus",electric
+Flaaffy,8,133,128,"static, plus",electric
+Ampharos,14,615,230,"static, plus",electric
+Bellossom,4,58,221,"chlorophyll, healer",grass
+Marill,4,85,88,"thick-fat, huge-power, sap-sipper","water, fairy"
+Azumarill,8,285,189,"thick-fat, huge-power, sap-sipper","water, fairy"
+Sudowoodo,12,380,144,"sturdy, rock-head, rattled",rock
+Politoed,11,339,225,"water-absorb, damp, drizzle",water
+Hoppip,4,5,50,"chlorophyll, leaf-guard, infiltrator","grass, flying"
+Skiploom,6,10,119,"chlorophyll, leaf-guard, infiltrator","grass, flying"
+Jumpluff,8,30,207,"chlorophyll, leaf-guard, infiltrator","grass, flying"
+Aipom,8,115,72,"run-away, pickup, skill-link",normal
+Sunkern,3,18,36,"chlorophyll, solar-power, early-bird",grass
+Sunflora,8,85,149,"chlorophyll, solar-power, early-bird",grass
+Yanma,12,380,78,"speed-boost, compound-eyes, frisk","bug, flying"
+Wooper,4,85,42,"damp, water-absorb, unaware","water, ground"
+Quagsire,14,750,151,"damp, water-absorb, unaware","water, ground"
+Espeon,9,265,184,"synchronize, magic-bounce",psychic
+Umbreon,10,270,184,"synchronize, inner-focus",dark
+Murkrow,5,21,81,"insomnia, super-luck, prankster","dark, flying"
+Slowking,20,795,172,"oblivious, own-tempo, regenerator","water, psychic"
+Misdreavus,7,10,87,levitate,ghost
+Unown,5,50,118,levitate,psychic
+Wobbuffet,13,285,142,"shadow-tag, telepathy",psychic
+Girafarig,15,415,159,"inner-focus, early-bird, sap-sipper","normal, psychic"
+Pineco,6,72,58,"sturdy, overcoat",bug
+Forretress,12,1258,163,"sturdy, overcoat","bug, steel"
+Dunsparce,15,140,145,"serene-grace, run-away, rattled",normal
+Gligar,11,648,86,"hyper-cutter, sand-veil, immunity","ground, flying"
+Steelix,92,4000,179,"rock-head, sturdy, sheer-force","steel, ground"
+Snubbull,6,78,60,"intimidate, run-away, rattled",fairy
+Granbull,14,487,158,"intimidate, quick-feet, rattled",fairy
+Qwilfish,5,39,88,"poison-point, swift-swim, intimidate","water, poison"
+Scizor,18,1180,175,"swarm, technician, light-metal","bug, steel"
+Shuckle,6,205,177,"sturdy, gluttony, contrary","bug, rock"
+Heracross,15,540,175,"swarm, guts, moxie","bug, fighting"
+Sneasel,9,280,86,"inner-focus, keen-eye, pickpocket","dark, ice"
+Teddiursa,6,88,66,"pickup, quick-feet, honey-gather",normal
+Ursaring,18,1258,175,"guts, quick-feet, unnerve",normal
+Slugma,7,350,50,"magma-armor, flame-body, weak-armor",fire
+Magcargo,8,550,151,"magma-armor, flame-body, weak-armor","fire, rock"
+Swinub,4,65,50,"oblivious, snow-cloak, thick-fat","ice, ground"
+Piloswine,11,558,158,"oblivious, snow-cloak, thick-fat","ice, ground"
+Corsola,6,50,144,"hustle, natural-cure, regenerator","water, rock"
+Remoraid,6,120,60,"hustle, sniper, moody",water
+Octillery,9,285,168,"suction-cups, sniper, moody",water
+Delibird,9,160,116,"vital-spirit, hustle, insomnia","ice, flying"
+Mantine,21,2200,170,"swift-swim, water-absorb, water-veil","water, flying"
+Skarmory,17,505,163,"keen-eye, sturdy, weak-armor","steel, flying"
+Houndour,6,108,66,"early-bird, flash-fire, unnerve","dark, fire"
+Houndoom,14,350,175,"early-bird, flash-fire, unnerve","dark, fire"
+Kingdra,18,1520,243,"swift-swim, sniper, damp","water, dragon"
+Phanpy,5,335,66,"pickup, sand-veil",ground
+Donphan,11,1200,175,"sturdy, sand-veil",ground
+Porygon2,6,325,180,"trace, download, analytic",normal
+Stantler,14,712,163,"intimidate, frisk, sap-sipper",normal
+Smeargle,12,580,88,"own-tempo, technician, moody",normal
+Tyrogue,7,210,42,"guts, steadfast, vital-spirit",fighting
+Hitmontop,14,480,159,"intimidate, technician, steadfast",fighting
+Smoochum,4,60,61,"oblivious, forewarn, hydration","ice, psychic"
+Elekid,6,235,72,"static, vital-spirit",electric
+Magby,7,214,73,"flame-body, vital-spirit",fire
+Miltank,12,755,172,"thick-fat, scrappy, sap-sipper",normal
+Blissey,15,468,608,"natural-cure, serene-grace, healer",normal
+Raikou,19,1780,261,"pressure, inner-focus",electric
+Entei,21,1980,261,"pressure, inner-focus",fire
+Suicune,20,1870,261,"pressure, inner-focus",water
+Larvitar,6,720,60,"guts, sand-veil","rock, ground"
+Pupitar,12,1520,144,shed-skin,"rock, ground"
+Tyranitar,20,2020,270,"sand-stream, unnerve","rock, dark"
+Lugia,52,2160,306,"pressure, multiscale","psychic, flying"
+Ho-Oh,38,1990,306,"pressure, regenerator","fire, flying"
+Celebi,6,50,270,natural-cure,"psychic, grass"
+Treecko,5,50,62,"overgrow, unburden",grass
+Grovyle,9,216,142,"overgrow, unburden",grass
+Sceptile,17,522,239,"overgrow, unburden",grass
+Torchic,4,25,62,"blaze, speed-boost",fire
+Combusken,9,195,142,"blaze, speed-boost","fire, fighting"
+Blaziken,19,520,239,"blaze, speed-boost","fire, fighting"
+Mudkip,4,76,62,"torrent, damp",water
+Marshtomp,7,280,142,"torrent, damp","water, ground"
+Swampert,15,819,241,"torrent, damp","water, ground"
+Poochyena,5,136,56,"run-away, quick-feet, rattled",dark
+Mightyena,10,370,147,"intimidate, quick-feet, moxie",dark
+Zigzagoon,4,175,56,"pickup, gluttony, quick-feet",normal
+Linoone,5,325,147,"pickup, gluttony, quick-feet",normal
+Wurmple,3,36,56,"shield-dust, run-away",bug
+Silcoon,6,100,72,shed-skin,bug
+Beautifly,10,284,178,"swarm, rivalry","bug, flying"
+Cascoon,7,115,72,shed-skin,bug
+Dustox,12,316,173,"shield-dust, compound-eyes","bug, poison"
+Lotad,5,26,44,"swift-swim, rain-dish, own-tempo","water, grass"
+Lombre,12,325,119,"swift-swim, rain-dish, own-tempo","water, grass"
+Ludicolo,15,550,216,"swift-swim, rain-dish, own-tempo","water, grass"
+Seedot,5,40,44,"chlorophyll, early-bird, pickpocket",grass
+Nuzleaf,10,280,119,"chlorophyll, early-bird, pickpocket","grass, dark"
+Shiftry,13,596,216,"chlorophyll, wind-rider, pickpocket","grass, dark"
+Taillow,3,23,54,"guts, scrappy","normal, flying"
+Swellow,7,198,159,"guts, scrappy","normal, flying"
+Wingull,6,95,54,"keen-eye, hydration, rain-dish","water, flying"
+Pelipper,12,280,154,"keen-eye, drizzle, rain-dish","water, flying"
+Ralts,4,66,40,"synchronize, trace, telepathy","psychic, fairy"
+Kirlia,8,202,97,"synchronize, trace, telepathy","psychic, fairy"
+Gardevoir,16,484,233,"synchronize, trace, telepathy","psychic, fairy"
+Surskit,5,17,54,"swift-swim, rain-dish","bug, water"
+Masquerain,8,36,159,"intimidate, unnerve","bug, flying"
+Shroomish,4,45,59,"effect-spore, poison-heal, quick-feet",grass
+Breloom,12,392,161,"effect-spore, poison-heal, technician","grass, fighting"
+Slakoth,8,240,56,truant,normal
+Vigoroth,14,465,154,vital-spirit,normal
+Slaking,20,1305,252,truant,normal
+Nincada,5,55,53,"compound-eyes, run-away","bug, ground"
+Ninjask,8,120,160,"speed-boost, infiltrator","bug, flying"
+Shedinja,8,12,83,wonder-guard,"bug, ghost"
+Whismur,6,163,48,"soundproof, rattled",normal
+Loudred,10,405,126,"soundproof, scrappy",normal
+Exploud,15,840,221,"soundproof, scrappy",normal
+Makuhita,10,864,47,"thick-fat, guts, sheer-force",fighting
+Hariyama,23,2538,166,"thick-fat, guts, sheer-force",fighting
+Azurill,2,20,38,"thick-fat, huge-power, sap-sipper","normal, fairy"
+Nosepass,10,970,75,"sturdy, magnet-pull, sand-force",rock
+Skitty,6,110,52,"cute-charm, normalize, wonder-skin",normal
+Delcatty,11,326,140,"cute-charm, normalize, wonder-skin",normal
+Sableye,5,110,133,"keen-eye, stall, prankster","dark, ghost"
+Mawile,6,115,133,"hyper-cutter, intimidate, sheer-force","steel, fairy"
+Aron,4,600,66,"sturdy, rock-head, heavy-metal","steel, rock"
+Lairon,9,1200,151,"sturdy, rock-head, heavy-metal","steel, rock"
+Aggron,21,3600,239,"sturdy, rock-head, heavy-metal","steel, rock"
+Meditite,6,112,56,"pure-power, telepathy","fighting, psychic"
+Medicham,13,315,144,"pure-power, telepathy","fighting, psychic"
+Electrike,6,152,59,"static, lightning-rod, minus",electric
+Manectric,15,402,166,"static, lightning-rod, minus",electric
+Plusle,4,42,142,"plus, lightning-rod",electric
+Minun,4,42,142,"minus, volt-absorb",electric
+Volbeat,7,177,151,"illuminate, swarm, prankster",bug
+Illumise,6,177,151,"oblivious, tinted-lens, prankster",bug
+Roselia,3,20,140,"natural-cure, poison-point, leaf-guard","grass, poison"
+Gulpin,4,103,60,"liquid-ooze, sticky-hold, gluttony",poison
+Swalot,17,800,163,"liquid-ooze, sticky-hold, gluttony",poison
+Carvanha,8,208,61,"rough-skin, speed-boost","water, dark"
+Sharpedo,18,888,161,"rough-skin, speed-boost","water, dark"
+Wailmer,20,1300,80,"water-veil, oblivious, pressure",water
+Wailord,145,3980,175,"water-veil, oblivious, pressure",water
+Numel,7,240,61,"oblivious, simple, own-tempo","fire, ground"
+Camerupt,19,2200,161,"magma-armor, solid-rock, anger-point","fire, ground"
+Torkoal,5,804,165,"white-smoke, drought, shell-armor",fire
+Spoink,7,306,66,"thick-fat, own-tempo, gluttony",psychic
+Grumpig,9,715,165,"thick-fat, own-tempo, gluttony",psychic
+Spinda,11,50,126,"own-tempo, tangled-feet, contrary",normal
+Trapinch,7,150,58,"hyper-cutter, arena-trap, sheer-force",ground
+Vibrava,11,153,119,levitate,"ground, dragon"
+Flygon,20,820,234,levitate,"ground, dragon"
+Cacnea,4,513,67,"sand-veil, water-absorb",grass
+Cacturne,13,774,166,"sand-veil, water-absorb","grass, dark"
+Swablu,4,12,62,"natural-cure, cloud-nine","normal, flying"
+Altaria,11,206,172,"natural-cure, cloud-nine","dragon, flying"
+Zangoose,13,403,160,"immunity, toxic-boost",normal
+Seviper,27,525,160,"shed-skin, infiltrator",poison
+Lunatone,10,1680,161,levitate,"rock, psychic"
+Solrock,12,1540,161,levitate,"rock, psychic"
+Barboach,4,19,58,"oblivious, anticipation, hydration","water, ground"
+Whiscash,9,236,164,"oblivious, anticipation, hydration","water, ground"
+Corphish,6,115,62,"hyper-cutter, shell-armor, adaptability",water
+Crawdaunt,11,328,164,"hyper-cutter, shell-armor, adaptability","water, dark"
+Baltoy,5,215,60,levitate,"ground, psychic"
+Claydol,15,1080,175,levitate,"ground, psychic"
+Lileep,10,238,71,"suction-cups, storm-drain","rock, grass"
+Cradily,15,604,173,"suction-cups, storm-drain","rock, grass"
+Anorith,7,125,71,"battle-armor, swift-swim","rock, bug"
+Armaldo,15,682,173,"battle-armor, swift-swim","rock, bug"
+Feebas,6,74,40,"swift-swim, oblivious, adaptability",water
+Milotic,62,1620,189,"marvel-scale, competitive, cute-charm",water
+Castform,3,8,147,forecast,normal
+Kecleon,10,220,154,"color-change, protean",normal
+Shuppet,6,23,59,"insomnia, frisk, cursed-body",ghost
+Banette,11,125,159,"insomnia, frisk, cursed-body",ghost
+Duskull,8,150,59,"levitate, frisk",ghost
+Dusclops,16,306,159,"pressure, frisk",ghost
+Tropius,20,1000,161,"chlorophyll, solar-power, harvest","grass, flying"
+Chimecho,6,10,159,levitate,psychic
+Absol,12,470,163,"pressure, super-luck, justified",dark
+Wynaut,6,140,52,"shadow-tag, telepathy",psychic
+Snorunt,7,168,60,"inner-focus, ice-body, moody",ice
+Glalie,15,2565,168,"inner-focus, ice-body, moody",ice
+Spheal,8,395,58,"thick-fat, ice-body, oblivious","ice, water"
+Sealeo,11,876,144,"thick-fat, ice-body, oblivious","ice, water"
+Walrein,14,1506,239,"thick-fat, ice-body, oblivious","ice, water"
+Clamperl,4,525,69,"shell-armor, rattled",water
+Huntail,17,270,170,"swift-swim, water-veil",water
+Gorebyss,18,226,170,"swift-swim, hydration",water
+Relicanth,10,234,170,"swift-swim, rock-head, sturdy","water, rock"
+Luvdisc,6,87,116,"swift-swim, hydration",water
+Bagon,6,421,60,"rock-head, sheer-force",dragon
+Shelgon,11,1105,147,"rock-head, overcoat",dragon
+Salamence,15,1026,270,"intimidate, moxie","dragon, flying"
+Beldum,6,952,60,"clear-body, light-metal","steel, psychic"
+Metang,12,2025,147,"clear-body, light-metal","steel, psychic"
+Metagross,16,5500,270,"clear-body, light-metal","steel, psychic"
+Regirock,17,2300,261,"clear-body, sturdy",rock
+Regice,18,1750,261,"clear-body, ice-body",ice
+Registeel,19,2050,261,"clear-body, light-metal",steel
+Latias,14,400,270,levitate,"dragon, psychic"
+Latios,20,600,270,levitate,"dragon, psychic"
+Kyogre,45,3520,302,drizzle,water
+Groudon,35,9500,302,drought,ground
+Rayquaza,70,2065,306,air-lock,"dragon, flying"
+Jirachi,3,11,270,serene-grace,"steel, psychic"
+Deoxys-Normal,17,608,270,pressure,psychic
+Turtwig,4,102,64,"overgrow, shell-armor",grass
+Grotle,11,970,142,"overgrow, shell-armor",grass
+Torterra,22,3100,236,"overgrow, shell-armor","grass, ground"
+Chimchar,5,62,62,"blaze, iron-fist",fire
+Monferno,9,220,142,"blaze, iron-fist","fire, fighting"
+Infernape,12,550,240,"blaze, iron-fist","fire, fighting"
+Piplup,4,52,63,"torrent, competitive",water
+Prinplup,8,230,142,"torrent, competitive",water
+Empoleon,17,845,239,"torrent, competitive","water, steel"
+Starly,3,20,49,"keen-eye, reckless","normal, flying"
+Staravia,6,155,119,"intimidate, reckless","normal, flying"
+Staraptor,12,249,218,"intimidate, reckless","normal, flying"
+Bidoof,5,200,50,"simple, unaware, moody",normal
+Bibarel,10,315,144,"simple, unaware, moody","normal, water"
+Kricketot,3,22,39,"shed-skin, run-away",bug
+Kricketune,10,255,134,"swarm, technician",bug
+Shinx,5,95,53,"rivalry, intimidate, guts",electric
+Luxio,9,305,127,"rivalry, intimidate, guts",electric
+Luxray,14,420,235,"rivalry, intimidate, guts",electric
+Budew,2,12,56,"natural-cure, poison-point, leaf-guard","grass, poison"
+Roserade,9,145,232,"natural-cure, poison-point, technician","grass, poison"
+Cranidos,9,315,70,"mold-breaker, sheer-force",rock
+Rampardos,16,1025,173,"mold-breaker, sheer-force",rock
+Shieldon,5,570,70,"sturdy, soundproof","rock, steel"
+Bastiodon,13,1495,173,"sturdy, soundproof","rock, steel"
+Burmy,2,34,45,"shed-skin, overcoat",bug
+Wormadam-Plant,5,65,148,"anticipation, overcoat","bug, grass"
+Mothim,9,233,148,"swarm, tinted-lens","bug, flying"
+Combee,3,55,49,"honey-gather, hustle","bug, flying"
+Vespiquen,12,385,166,"pressure, unnerve","bug, flying"
+Pachirisu,4,39,142,"run-away, pickup, volt-absorb",electric
+Buizel,7,295,66,"swift-swim, water-veil",water
+Floatzel,11,335,173,"swift-swim, water-veil",water
+Cherubi,4,33,55,chlorophyll,grass
+Cherrim,5,93,158,flower-gift,grass
+Shellos,3,63,65,"sticky-hold, storm-drain, sand-force",water
+Gastrodon,9,299,166,"sticky-hold, storm-drain, sand-force","water, ground"
+Ambipom,12,203,169,"technician, pickup, skill-link",normal
+Drifloon,4,12,70,"aftermath, unburden, flare-boost","ghost, flying"
+Drifblim,12,150,174,"aftermath, unburden, flare-boost","ghost, flying"
+Buneary,4,55,70,"run-away, klutz, limber",normal
+Lopunny,12,333,168,"cute-charm, klutz, limber",normal
+Mismagius,9,44,173,levitate,ghost
+Honchkrow,9,273,177,"insomnia, super-luck, moxie","dark, flying"
+Glameow,5,39,62,"limber, own-tempo, keen-eye",normal
+Purugly,10,438,158,"thick-fat, own-tempo, defiant",normal
+Chingling,2,6,57,levitate,psychic
+Stunky,4,192,66,"stench, aftermath, keen-eye","poison, dark"
+Skuntank,10,380,168,"stench, aftermath, keen-eye","poison, dark"
+Bronzor,5,605,60,"levitate, heatproof, heavy-metal","steel, psychic"
+Bronzong,13,1870,175,"levitate, heatproof, heavy-metal","steel, psychic"
+Bonsly,5,150,58,"sturdy, rock-head, rattled",rock
+Mime-Jr,6,130,62,"soundproof, filter, technician","psychic, fairy"
+Happiny,6,244,110,"natural-cure, serene-grace, friend-guard",normal
+Chatot,5,19,144,"keen-eye, tangled-feet, big-pecks","normal, flying"
+Spiritomb,10,1080,170,"pressure, infiltrator","ghost, dark"
+Gible,7,205,60,"sand-veil, rough-skin","dragon, ground"
+Gabite,14,560,144,"sand-veil, rough-skin","dragon, ground"
+Garchomp,19,950,270,"sand-veil, rough-skin","dragon, ground"
+Munchlax,6,1050,78,"pickup, thick-fat, gluttony",normal
+Riolu,7,202,57,"steadfast, inner-focus, prankster",fighting
+Lucario,12,540,184,"steadfast, inner-focus, justified","fighting, steel"
+Hippopotas,8,495,66,"sand-stream, sand-force",ground
+Hippowdon,20,3000,184,"sand-stream, sand-force",ground
+Skorupi,8,120,66,"battle-armor, sniper, keen-eye","poison, bug"
+Drapion,13,615,175,"battle-armor, sniper, keen-eye","poison, dark"
+Croagunk,7,230,60,"anticipation, dry-skin, poison-touch","poison, fighting"
+Toxicroak,13,444,172,"anticipation, dry-skin, poison-touch","poison, fighting"
+Carnivine,14,270,159,levitate,grass
+Finneon,4,70,66,"swift-swim, storm-drain, water-veil",water
+Lumineon,12,240,161,"swift-swim, storm-drain, water-veil",water
+Mantyke,10,650,69,"swift-swim, water-absorb, water-veil","water, flying"
+Snover,10,505,67,"snow-warning, soundproof","grass, ice"
+Abomasnow,22,1355,173,"snow-warning, soundproof","grass, ice"
+Weavile,11,340,179,"pressure, pickpocket","dark, ice"
+Magnezone,12,1800,241,"magnet-pull, sturdy, analytic","electric, steel"
+Lickilicky,17,1400,180,"own-tempo, oblivious, cloud-nine",normal
+Rhyperior,24,2828,241,"lightning-rod, solid-rock, reckless","ground, rock"
+Tangrowth,20,1286,187,"chlorophyll, leaf-guard, regenerator",grass
+Electivire,18,1386,243,"motor-drive, vital-spirit",electric
+Magmortar,16,680,243,"flame-body, vital-spirit",fire
+Togekiss,15,380,245,"hustle, serene-grace, super-luck","fairy, flying"
+Yanmega,19,515,180,"speed-boost, tinted-lens, frisk","bug, flying"
+Leafeon,10,255,184,"leaf-guard, chlorophyll",grass
+Glaceon,8,259,184,"snow-cloak, ice-body",ice
+Gliscor,20,425,179,"hyper-cutter, sand-veil, poison-heal","ground, flying"
+Mamoswine,25,2910,239,"oblivious, snow-cloak, thick-fat","ice, ground"
+Porygon-Z,9,340,241,"adaptability, download, analytic",normal
+Gallade,16,520,233,"steadfast, sharpness, justified","psychic, fighting"
+Probopass,14,3400,184,"sturdy, magnet-pull, sand-force","rock, steel"
+Dusknoir,22,1066,236,"pressure, frisk",ghost
+Froslass,13,266,168,"snow-cloak, cursed-body","ice, ghost"
+Rotom,3,3,154,levitate,"electric, ghost"
+Uxie,3,3,261,levitate,psychic
+Mesprit,3,3,261,levitate,psychic
+Azelf,3,3,261,levitate,psychic
+Dialga,54,6830,306,"pressure, telepathy","steel, dragon"
+Palkia,42,3360,306,"pressure, telepathy","water, dragon"
+Heatran,17,4300,270,"flash-fire, flame-body","fire, steel"
+Regigigas,37,4200,302,slow-start,normal
+Giratina-Altered,45,7500,306,"pressure, telepathy","ghost, dragon"
+Cresselia,15,856,270,levitate,psychic
+Phione,4,31,216,hydration,water
+Manaphy,3,14,270,hydration,water
+Darkrai,15,505,270,bad-dreams,dark
+Shaymin-Land,2,21,270,natural-cure,grass
+Arceus,32,3200,324,multitype,normal
+Victini,4,40,270,victory-star,"psychic, fire"
+Snivy,6,81,62,"overgrow, contrary",grass
+Servine,8,160,145,"overgrow, contrary",grass
+Serperior,33,630,238,"overgrow, contrary",grass
+Tepig,5,99,62,"blaze, thick-fat",fire
+Pignite,10,555,146,"blaze, thick-fat","fire, fighting"
+Emboar,16,1500,238,"blaze, reckless","fire, fighting"
+Oshawott,5,59,62,"torrent, shell-armor",water
+Dewott,8,245,145,"torrent, shell-armor",water
+Samurott,15,946,238,"torrent, shell-armor",water
+Patrat,5,116,51,"run-away, keen-eye, analytic",normal
+Watchog,11,270,147,"illuminate, keen-eye, analytic",normal
+Lillipup,4,41,55,"vital-spirit, pickup, run-away",normal
+Herdier,9,147,130,"intimidate, sand-rush, scrappy",normal
+Stoutland,12,610,225,"intimidate, sand-rush, scrappy",normal
+Purrloin,4,101,56,"limber, unburden, prankster",dark
+Liepard,11,375,156,"limber, unburden, prankster",dark
+Pansage,6,105,63,"gluttony, overgrow",grass
+Simisage,11,305,174,"gluttony, overgrow",grass
+Pansear,6,110,63,"gluttony, blaze",fire
+Simisear,10,280,174,"gluttony, blaze",fire
+Panpour,6,135,63,"gluttony, torrent",water
+Simipour,10,290,174,"gluttony, torrent",water
+Munna,6,233,58,"forewarn, synchronize, telepathy",psychic
+Musharna,11,605,170,"forewarn, synchronize, telepathy",psychic
+Pidove,3,21,53,"big-pecks, super-luck, rivalry","normal, flying"
+Tranquill,6,150,125,"big-pecks, super-luck, rivalry","normal, flying"
+Unfezant,12,290,220,"big-pecks, super-luck, rivalry","normal, flying"
+Blitzle,8,298,59,"lightning-rod, motor-drive, sap-sipper",electric
+Zebstrika,16,795,174,"lightning-rod, motor-drive, sap-sipper",electric
+Roggenrola,4,180,56,"sturdy, weak-armor, sand-force",rock
+Boldore,9,1020,137,"sturdy, weak-armor, sand-force",rock
+Gigalith,17,2600,232,"sturdy, sand-stream, sand-force",rock
+Woobat,4,21,65,"unaware, klutz, simple","psychic, flying"
+Swoobat,9,105,149,"unaware, klutz, simple","psychic, flying"
+Drilbur,3,85,66,"sand-rush, sand-force, mold-breaker",ground
+Excadrill,7,404,178,"sand-rush, sand-force, mold-breaker","ground, steel"
+Audino,11,310,390,"healer, regenerator, klutz",normal
+Timburr,6,125,61,"guts, sheer-force, iron-fist",fighting
+Gurdurr,12,400,142,"guts, sheer-force, iron-fist",fighting
+Conkeldurr,14,870,227,"guts, sheer-force, iron-fist",fighting
+Tympole,5,45,59,"swift-swim, hydration, water-absorb",water
+Palpitoad,8,170,134,"swift-swim, hydration, water-absorb","water, ground"
+Seismitoad,15,620,229,"swift-swim, poison-touch, water-absorb","water, ground"
+Throh,13,555,163,"guts, inner-focus, mold-breaker",fighting
+Sawk,14,510,163,"sturdy, inner-focus, mold-breaker",fighting
+Sewaddle,3,25,62,"swarm, chlorophyll, overcoat","bug, grass"
+Swadloon,5,73,133,"leaf-guard, chlorophyll, overcoat","bug, grass"
+Leavanny,12,205,225,"swarm, chlorophyll, overcoat","bug, grass"
+Venipede,4,53,52,"poison-point, swarm, speed-boost","bug, poison"
+Whirlipede,12,585,126,"poison-point, swarm, speed-boost","bug, poison"
+Scolipede,25,2005,218,"poison-point, swarm, speed-boost","bug, poison"
+Cottonee,3,6,56,"prankster, infiltrator, chlorophyll","grass, fairy"
+Whimsicott,7,66,168,"prankster, infiltrator, chlorophyll","grass, fairy"
+Petilil,5,66,56,"chlorophyll, own-tempo, leaf-guard",grass
+Lilligant,11,163,168,"chlorophyll, own-tempo, leaf-guard",grass
+Basculin-Red-Striped,10,180,161,"reckless, adaptability, mold-breaker",water
+Sandile,7,152,58,"intimidate, moxie, anger-point","ground, dark"
+Krokorok,10,334,123,"intimidate, moxie, anger-point","ground, dark"
+Krookodile,15,963,234,"intimidate, moxie, anger-point","ground, dark"
+Darumaka,6,375,63,"hustle, inner-focus",fire
+Darmanitan-Standard,13,929,168,"sheer-force, zen-mode",fire
+Maractus,10,280,161,"water-absorb, chlorophyll, storm-drain",grass
+Dwebble,3,145,65,"sturdy, shell-armor, weak-armor","bug, rock"
+Crustle,14,2000,170,"sturdy, shell-armor, weak-armor","bug, rock"
+Scraggy,6,118,70,"shed-skin, moxie, intimidate","dark, fighting"
+Scrafty,11,300,171,"shed-skin, moxie, intimidate","dark, fighting"
+Sigilyph,14,140,172,"wonder-skin, magic-guard, tinted-lens","psychic, flying"
+Yamask,5,15,61,mummy,ghost
+Cofagrigus,17,765,169,mummy,ghost
+Tirtouga,7,165,71,"solid-rock, sturdy, swift-swim","water, rock"
+Carracosta,12,810,173,"solid-rock, sturdy, swift-swim","water, rock"
+Archen,5,95,71,defeatist,"rock, flying"
+Archeops,14,320,177,defeatist,"rock, flying"
+Trubbish,6,310,66,"stench, sticky-hold, aftermath",poison
+Garbodor,19,1073,166,"stench, weak-armor, aftermath",poison
+Zorua,7,125,66,illusion,dark
+Zoroark,16,811,179,illusion,dark
+Minccino,4,58,60,"cute-charm, technician, skill-link",normal
+Cinccino,5,75,165,"cute-charm, technician, skill-link",normal
+Gothita,4,58,58,"frisk, competitive, shadow-tag",psychic
+Gothorita,7,180,137,"frisk, competitive, shadow-tag",psychic
+Gothitelle,15,440,221,"frisk, competitive, shadow-tag",psychic
+Solosis,3,10,58,"overcoat, magic-guard, regenerator",psychic
+Duosion,6,80,130,"overcoat, magic-guard, regenerator",psychic
+Reuniclus,10,201,221,"overcoat, magic-guard, regenerator",psychic
+Ducklett,5,55,61,"keen-eye, big-pecks, hydration","water, flying"
+Swanna,13,242,166,"keen-eye, big-pecks, hydration","water, flying"
+Vanillite,4,57,61,"ice-body, snow-cloak, weak-armor",ice
+Vanillish,11,410,138,"ice-body, snow-cloak, weak-armor",ice
+Vanilluxe,13,575,241,"ice-body, snow-warning, weak-armor",ice
+Deerling,6,195,67,"chlorophyll, sap-sipper, serene-grace","normal, grass"
+Sawsbuck,19,925,166,"chlorophyll, sap-sipper, serene-grace","normal, grass"
+Emolga,4,50,150,"static, motor-drive","electric, flying"
+Karrablast,5,59,63,"swarm, shed-skin, no-guard",bug
+Escavalier,10,330,173,"swarm, shell-armor, overcoat","bug, steel"
+Foongus,2,10,59,"effect-spore, regenerator","grass, poison"
+Amoonguss,6,105,162,"effect-spore, regenerator","grass, poison"
+Frillish,12,330,67,"water-absorb, cursed-body, damp","water, ghost"
+Jellicent,22,1350,168,"water-absorb, cursed-body, damp","water, ghost"
+Alomomola,12,316,165,"healer, hydration, regenerator",water
+Joltik,1,6,64,"compound-eyes, unnerve, swarm","bug, electric"
+Galvantula,8,143,165,"compound-eyes, unnerve, swarm","bug, electric"
+Ferroseed,6,188,61,iron-barbs,"grass, steel"
+Ferrothorn,10,1100,171,"iron-barbs, anticipation","grass, steel"
+Klink,3,210,60,"plus, minus, clear-body",steel
+Klang,6,510,154,"plus, minus, clear-body",steel
+Klinklang,6,810,234,"plus, minus, clear-body",steel
+Tynamo,2,3,55,levitate,electric
+Eelektrik,12,220,142,levitate,electric
+Eelektross,21,805,232,levitate,electric
+Elgyem,5,90,67,"telepathy, synchronize, analytic",psychic
+Beheeyem,10,345,170,"telepathy, synchronize, analytic",psychic
+Litwick,3,31,55,"flash-fire, flame-body, infiltrator","ghost, fire"
+Lampent,6,130,130,"flash-fire, flame-body, infiltrator","ghost, fire"
+Chandelure,10,343,234,"flash-fire, flame-body, infiltrator","ghost, fire"
+Axew,6,180,64,"rivalry, mold-breaker, unnerve",dragon
+Fraxure,10,360,144,"rivalry, mold-breaker, unnerve",dragon
+Haxorus,18,1055,243,"rivalry, mold-breaker, unnerve",dragon
+Cubchoo,5,85,61,"snow-cloak, slush-rush, rattled",ice
+Beartic,26,2600,177,"snow-cloak, slush-rush, swift-swim",ice
+Cryogonal,11,1480,180,levitate,ice
+Shelmet,4,77,61,"hydration, shell-armor, overcoat",bug
+Accelgor,8,253,173,"hydration, sticky-hold, unburden",bug
+Stunfisk,7,110,165,"static, limber, sand-veil","ground, electric"
+Mienfoo,9,200,70,"inner-focus, regenerator, reckless",fighting
+Mienshao,14,355,179,"inner-focus, regenerator, reckless",fighting
+Druddigon,16,1390,170,"rough-skin, sheer-force, mold-breaker",dragon
+Golett,10,920,61,"iron-fist, klutz, no-guard","ground, ghost"
+Golurk,28,3300,169,"iron-fist, klutz, no-guard","ground, ghost"
+Pawniard,5,102,68,"defiant, inner-focus, pressure","dark, steel"
+Bisharp,16,700,172,"defiant, inner-focus, pressure","dark, steel"
+Bouffalant,16,946,172,"reckless, sap-sipper, soundproof",normal
+Rufflet,5,105,70,"keen-eye, sheer-force, hustle","normal, flying"
+Braviary,15,410,179,"keen-eye, sheer-force, defiant","normal, flying"
+Vullaby,5,90,74,"big-pecks, overcoat, weak-armor","dark, flying"
+Mandibuzz,12,395,179,"big-pecks, overcoat, weak-armor","dark, flying"
+Heatmor,14,580,169,"gluttony, flash-fire, white-smoke",fire
+Durant,3,330,169,"swarm, hustle, truant","bug, steel"
+Deino,8,173,60,hustle,"dark, dragon"
+Zweilous,14,500,147,hustle,"dark, dragon"
+Hydreigon,18,1600,270,levitate,"dark, dragon"
+Larvesta,11,288,72,"flame-body, swarm","bug, fire"
+Volcarona,16,460,248,"flame-body, swarm","bug, fire"
+Cobalion,21,2500,261,justified,"steel, fighting"
+Terrakion,19,2600,261,justified,"rock, fighting"
+Virizion,20,2000,261,justified,"grass, fighting"
+Tornadus-Incarnate,15,630,261,"prankster, defiant",flying
+Thundurus-Incarnate,15,610,261,"prankster, defiant","electric, flying"
+Reshiram,32,3300,306,turboblaze,"dragon, fire"
+Zekrom,29,3450,306,teravolt,"dragon, electric"
+Landorus-Incarnate,15,680,270,"sand-force, sheer-force","ground, flying"
+Kyurem,30,3250,297,pressure,"dragon, ice"
+Keldeo-Ordinary,14,485,261,justified,"water, fighting"
+Meloetta-Aria,6,65,270,serene-grace,"normal, psychic"
+Genesect,15,825,270,download,"bug, steel"
+Chespin,4,90,63,"overgrow, bulletproof",grass
+Quilladin,7,290,142,"overgrow, bulletproof",grass
+Chesnaught,16,900,239,"overgrow, bulletproof","grass, fighting"
+Fennekin,4,94,61,"blaze, magician",fire
+Braixen,10,145,143,"blaze, magician",fire
+Delphox,15,390,240,"blaze, magician","fire, psychic"
+Froakie,3,70,63,"torrent, protean",water
+Frogadier,6,109,142,"torrent, protean",water
+Greninja,15,400,239,"torrent, protean","water, dark"
+Bunnelby,4,50,47,"pickup, cheek-pouch, huge-power",normal
+Diggersby,10,424,148,"pickup, cheek-pouch, huge-power","normal, ground"
+Fletchling,3,17,56,"big-pecks, gale-wings","normal, flying"
+Fletchinder,7,160,134,"flame-body, gale-wings","fire, flying"
+Talonflame,12,245,175,"flame-body, gale-wings","fire, flying"
+Scatterbug,3,25,40,"shield-dust, compound-eyes, friend-guard",bug
+Spewpa,3,84,75,"shed-skin, friend-guard",bug
+Vivillon,12,170,185,"shield-dust, compound-eyes, friend-guard","bug, flying"
+Litleo,6,135,74,"rivalry, unnerve, moxie","fire, normal"
+Pyroar,15,815,177,"rivalry, unnerve, moxie","fire, normal"
+Flabebe,1,1,61,"flower-veil, symbiosis",fairy
+Floette,2,9,130,"flower-veil, symbiosis",fairy
+Florges,11,100,248,"flower-veil, symbiosis",fairy
+Skiddo,9,310,70,"sap-sipper, grass-pelt",grass
+Gogoat,17,910,186,"sap-sipper, grass-pelt",grass
+Pancham,6,80,70,"iron-fist, mold-breaker, scrappy",fighting
+Pangoro,21,1360,173,"iron-fist, mold-breaker, scrappy","fighting, dark"
+Furfrou,12,280,165,fur-coat,normal
+Espurr,3,35,71,"keen-eye, infiltrator, own-tempo",psychic
+Meowstic-Male,6,85,163,"keen-eye, infiltrator, prankster",psychic
+Honedge,8,20,65,no-guard,"steel, ghost"
+Doublade,8,45,157,no-guard,"steel, ghost"
+Aegislash-Shield,17,530,234,stance-change,"steel, ghost"
+Spritzee,2,5,68,"healer, aroma-veil",fairy
+Aromatisse,8,155,162,"healer, aroma-veil",fairy
+Swirlix,4,35,68,"sweet-veil, unburden",fairy
+Slurpuff,8,50,168,"sweet-veil, unburden",fairy
+Inkay,4,35,58,"contrary, suction-cups, infiltrator","dark, psychic"
+Malamar,15,470,169,"contrary, suction-cups, infiltrator","dark, psychic"
+Binacle,5,310,61,"tough-claws, sniper, pickpocket","rock, water"
+Barbaracle,13,960,175,"tough-claws, sniper, pickpocket","rock, water"
+Skrelp,5,73,64,"poison-point, poison-touch, adaptability","poison, water"
+Dragalge,18,815,173,"poison-point, poison-touch, adaptability","poison, dragon"
+Clauncher,5,83,66,mega-launcher,water
+Clawitzer,13,353,100,mega-launcher,water
+Helioptile,5,60,58,"dry-skin, sand-veil, solar-power","electric, normal"
+Heliolisk,10,210,168,"dry-skin, sand-veil, solar-power","electric, normal"
+Tyrunt,8,260,72,"strong-jaw, sturdy","rock, dragon"
+Tyrantrum,25,2700,182,"strong-jaw, rock-head","rock, dragon"
+Amaura,13,252,72,"refrigerate, snow-warning","rock, ice"
+Aurorus,27,2250,104,"refrigerate, snow-warning","rock, ice"
+Sylveon,10,235,184,"cute-charm, pixilate",fairy
+Hawlucha,8,215,175,"limber, unburden, mold-breaker","fighting, flying"
+Dedenne,2,22,151,"cheek-pouch, pickup, plus","electric, fairy"
+Carbink,3,57,100,"clear-body, sturdy","rock, fairy"
+Goomy,3,28,60,"sap-sipper, hydration, gooey",dragon
+Sliggoo,8,175,158,"sap-sipper, hydration, gooey",dragon
+Goodra,20,1505,270,"sap-sipper, hydration, gooey",dragon
+Klefki,2,30,165,"prankster, magician","steel, fairy"
+Phantump,4,70,62,"natural-cure, frisk, harvest","ghost, grass"
+Trevenant,15,710,166,"natural-cure, frisk, harvest","ghost, grass"
+Pumpkaboo-Average,4,50,67,"pickup, frisk, insomnia","ghost, grass"
+Gourgeist-Average,9,125,173,"pickup, frisk, insomnia","ghost, grass"
+Bergmite,10,995,61,"own-tempo, ice-body, sturdy",ice
+Avalugg,20,5050,180,"own-tempo, ice-body, sturdy",ice
+Noibat,5,80,49,"frisk, infiltrator, telepathy","flying, dragon"
+Noivern,15,850,187,"frisk, infiltrator, telepathy","flying, dragon"
+Xerneas,30,2150,306,fairy-aura,fairy
+Yveltal,58,2030,306,dark-aura,"dark, flying"
+Zygarde-50,50,3050,270,aura-break,"dragon, ground"
+Diancie,7,88,270,clear-body,"rock, fairy"
+Hoopa,5,90,270,magician,"psychic, ghost"
+Volcanion,17,1950,270,water-absorb,"fire, water"
+Rowlet,3,15,64,"overgrow, long-reach","grass, flying"
+Dartrix,7,160,147,"overgrow, long-reach","grass, flying"
+Decidueye,16,366,239,"overgrow, long-reach","grass, ghost"
+Litten,4,43,64,"blaze, intimidate",fire
+Torracat,7,250,147,"blaze, intimidate",fire
+Incineroar,18,830,239,"blaze, intimidate","fire, dark"
+Popplio,4,75,64,"torrent, liquid-voice",water
+Brionne,6,175,147,"torrent, liquid-voice",water
+Primarina,18,440,239,"torrent, liquid-voice","water, fairy"
+Pikipek,3,12,53,"keen-eye, skill-link, pickup","normal, flying"
+Trumbeak,6,148,124,"keen-eye, skill-link, pickup","normal, flying"
+Toucannon,11,260,218,"keen-eye, skill-link, sheer-force","normal, flying"
+Yungoos,4,60,51,"stakeout, strong-jaw, adaptability",normal
+Gumshoos,7,142,146,"stakeout, strong-jaw, adaptability",normal
+Grubbin,4,44,60,swarm,bug
+Charjabug,5,105,140,battery,"bug, electric"
+Vikavolt,15,450,225,levitate,"bug, electric"
+Crabrawler,6,70,68,"hyper-cutter, iron-fist, anger-point",fighting
+Crabominable,17,1800,167,"hyper-cutter, iron-fist, anger-point","fighting, ice"
+Oricorio-Baile,6,34,167,dancer,"fire, flying"
+Cutiefly,1,2,61,"honey-gather, shield-dust, sweet-veil","bug, fairy"
+Ribombee,2,5,162,"honey-gather, shield-dust, sweet-veil","bug, fairy"
+Rockruff,5,92,56,"keen-eye, vital-spirit, steadfast",rock
+Lycanroc-Midday,8,250,170,"keen-eye, sand-rush, steadfast",rock
+Wishiwashi-Solo,2,3,61,schooling,water
+Mareanie,4,80,61,"merciless, limber, regenerator","poison, water"
+Toxapex,7,145,173,"merciless, limber, regenerator","poison, water"
+Mudbray,10,1100,77,"own-tempo, stamina, inner-focus",ground
+Mudsdale,25,9200,175,"own-tempo, stamina, inner-focus",ground
+Dewpider,3,40,54,"water-bubble, water-absorb","water, bug"
+Araquanid,18,820,159,"water-bubble, water-absorb","water, bug"
+Fomantis,3,15,50,"leaf-guard, contrary",grass
+Lurantis,9,185,168,"leaf-guard, contrary",grass
+Morelull,2,15,57,"illuminate, effect-spore, rain-dish","grass, fairy"
+Shiinotic,10,115,142,"illuminate, effect-spore, rain-dish","grass, fairy"
+Salandit,6,48,64,"corrosion, oblivious","poison, fire"
+Salazzle,12,222,168,"corrosion, oblivious","poison, fire"
+Stufful,5,68,68,"fluffy, klutz, cute-charm","normal, fighting"
+Bewear,21,1350,175,"fluffy, klutz, unnerve","normal, fighting"
+Bounsweet,3,32,42,"leaf-guard, oblivious, sweet-veil",grass
+Steenee,7,82,102,"leaf-guard, oblivious, sweet-veil",grass
+Tsareena,12,214,230,"leaf-guard, queenly-majesty, sweet-veil",grass
+Comfey,1,3,170,"flower-veil, triage, natural-cure",fairy
+Oranguru,15,760,172,"inner-focus, telepathy, symbiosis","normal, psychic"
+Passimian,20,828,172,"receiver, defiant",fighting
+Wimpod,5,120,46,wimp-out,"bug, water"
+Golisopod,20,1080,186,emergency-exit,"bug, water"
+Sandygast,5,700,64,"water-compaction, sand-veil","ghost, ground"
+Palossand,13,2500,168,"water-compaction, sand-veil","ghost, ground"
+Pyukumuku,3,12,144,"innards-out, unaware",water
+Type-Null,19,1205,107,battle-armor,normal
+Silvally,23,1005,257,rks-system,normal
+Minior-Red-Meteor,3,400,154,shields-down,"rock, flying"
+Komala,4,199,168,comatose,normal
+Turtonator,20,2120,170,shell-armor,"fire, dragon"
+Togedemaru,3,33,152,"iron-barbs, lightning-rod, sturdy","electric, steel"
+Mimikyu-Disguised,2,7,167,disguise,"ghost, fairy"
+Bruxish,9,190,166,"dazzling, strong-jaw, wonder-skin","water, psychic"
+Drampa,30,1850,170,"berserk, sap-sipper, cloud-nine","normal, dragon"
+Dhelmise,39,2100,181,steelworker,"ghost, grass"
+Jangmo-O,6,297,60,"bulletproof, soundproof, overcoat",dragon
+Hakamo-O,12,470,147,"bulletproof, soundproof, overcoat","dragon, fighting"
+Kommo-O,16,782,270,"bulletproof, soundproof, overcoat","dragon, fighting"
+Tapu-Koko,18,205,257,"electric-surge, telepathy","electric, fairy"
+Tapu-Lele,12,186,257,"psychic-surge, telepathy","psychic, fairy"
+Tapu-Bulu,19,455,257,"grassy-surge, telepathy","grass, fairy"
+Tapu-Fini,13,212,257,"misty-surge, telepathy","water, fairy"
+Cosmog,2,1,40,unaware,psychic
+Cosmoem,1,9999,140,sturdy,psychic
+Solgaleo,34,2300,306,full-metal-body,"psychic, steel"
+Lunala,40,1200,306,shadow-shield,"psychic, ghost"
+Nihilego,12,555,257,beast-boost,"rock, poison"
+Buzzwole,24,3336,257,beast-boost,"bug, fighting"
+Pheromosa,18,250,257,beast-boost,"bug, fighting"
+Xurkitree,38,1000,257,beast-boost,electric
+Celesteela,92,9999,257,beast-boost,"steel, flying"
+Kartana,3,1,257,beast-boost,"grass, steel"
+Guzzlord,55,8880,257,beast-boost,"dark, dragon"
+Necrozma,24,2300,270,prism-armor,psychic
+Magearna,10,805,270,soul-heart,"steel, fairy"
+Marshadow,7,222,270,technician,"fighting, ghost"
+Poipole,6,18,189,beast-boost,poison
+Naganadel,36,1500,243,beast-boost,"poison, dragon"
+Stakataka,55,8200,257,beast-boost,"rock, steel"
+Blacephalon,18,130,257,beast-boost,"fire, ghost"
+Zeraora,15,445,270,volt-absorb,electric
+Meltan,2,80,135,magnet-pull,steel
+Melmetal,25,8000,270,iron-fist,steel
+Grookey,3,50,62,"overgrow, grassy-surge",grass
+Thwackey,7,140,147,"overgrow, grassy-surge",grass
+Rillaboom,21,900,265,"overgrow, grassy-surge",grass
+Scorbunny,3,45,62,"blaze, libero",fire
+Raboot,6,90,147,"blaze, libero",fire
+Cinderace,14,330,265,"blaze, libero",fire
+Sobble,3,40,62,"torrent, sniper",water
+Drizzile,7,115,147,"torrent, sniper",water
+Inteleon,19,452,265,"torrent, sniper",water
+Skwovet,3,25,55,"cheek-pouch, gluttony",normal
+Greedent,6,60,161,"cheek-pouch, gluttony",normal
+Rookidee,2,18,49,"keen-eye, unnerve, big-pecks",flying
+Corvisquire,8,160,128,"keen-eye, unnerve, big-pecks",flying
+Corviknight,22,750,248,"pressure, unnerve, mirror-armor","flying, steel"
+Blipbug,4,80,36,"swarm, compound-eyes, telepathy",bug
+Dottler,4,195,117,"swarm, compound-eyes, telepathy","bug, psychic"
+Orbeetle,4,408,253,"swarm, frisk, telepathy","bug, psychic"
+Nickit,6,89,49,"run-away, unburden, stakeout",dark
+Thievul,12,199,159,"run-away, unburden, stakeout",dark
+Gossifleur,4,22,50,"cotton-down, regenerator, effect-spore",grass
+Eldegoss,5,25,161,"cotton-down, regenerator, effect-spore",grass
+Wooloo,6,60,122,"fluffy, run-away, bulletproof",normal
+Dubwool,13,430,172,"fluffy, steadfast, bulletproof",normal
+Chewtle,3,85,57,"strong-jaw, shell-armor, swift-swim",water
+Drednaw,10,1155,170,"strong-jaw, shell-armor, swift-swim","water, rock"
+Yamper,3,135,54,"ball-fetch, rattled",electric
+Boltund,10,340,172,"strong-jaw, competitive",electric
+Rolycoly,3,120,48,"steam-engine, heatproof, flash-fire",rock
+Carkol,11,780,144,"steam-engine, flame-body, flash-fire","rock, fire"
+Coalossal,28,3105,255,"steam-engine, flame-body, flash-fire","rock, fire"
+Applin,2,5,52,"ripen, gluttony, bulletproof","grass, dragon"
+Flapple,3,10,170,"ripen, gluttony, hustle","grass, dragon"
+Appletun,4,130,170,"ripen, gluttony, thick-fat","grass, dragon"
+Silicobra,22,76,63,"sand-spit, shed-skin, sand-veil",ground
+Sandaconda,38,655,179,"sand-spit, shed-skin, sand-veil",ground
+Cramorant,8,180,166,gulp-missile,"flying, water"
+Arrokuda,5,10,56,"swift-swim, propeller-tail",water
+Barraskewda,13,300,172,"swift-swim, propeller-tail",water
+Toxel,4,110,48,"rattled, static, klutz","electric, poison"
+Toxtricity-Amped,16,400,176,"punk-rock, plus, technician","electric, poison"
+Sizzlipede,7,10,61,"flash-fire, white-smoke, flame-body","fire, bug"
+Centiskorch,30,1200,184,"flash-fire, white-smoke, flame-body","fire, bug"
+Clobbopus,6,40,62,"limber, technician",fighting
+Grapploct,16,390,168,"limber, technician",fighting
+Sinistea,1,2,62,"weak-armor, cursed-body",ghost
+Polteageist,2,4,178,"weak-armor, cursed-body",ghost
+Hatenna,4,34,53,"healer, anticipation, magic-bounce",psychic
+Hattrem,6,48,130,"healer, anticipation, magic-bounce",psychic
+Hatterene,21,51,255,"healer, anticipation, magic-bounce","psychic, fairy"
+Impidimp,4,55,53,"prankster, frisk, pickpocket","dark, fairy"
+Morgrem,8,125,130,"prankster, frisk, pickpocket","dark, fairy"
+Grimmsnarl,15,610,255,"prankster, frisk, pickpocket","dark, fairy"
+Obstagoon,16,460,260,"reckless, guts, defiant","dark, normal"
+Perrserker,8,280,154,"battle-armor, tough-claws, steely-spirit",steel
+Cursola,10,4,179,"weak-armor, perish-body",ghost
+Sirfetchd,8,1170,177,"steadfast, scrappy",fighting
+Mr-Rime,15,582,182,"tangled-feet, screen-cleaner, ice-body","ice, psychic"
+Runerigus,16,666,169,wandering-spirit,"ground, ghost"
+Milcery,2,3,54,"sweet-veil, aroma-veil",fairy
+Alcremie,3,5,173,"sweet-veil, aroma-veil",fairy
+Falinks,30,620,165,"battle-armor, defiant",fighting
+Pincurchin,3,10,152,"lightning-rod, electric-surge",electric
+Snom,3,38,37,"shield-dust, ice-scales","ice, bug"
+Frosmoth,13,420,166,"shield-dust, ice-scales","ice, bug"
+Stonjourner,25,5200,165,power-spot,rock
+Eiscue-Ice,14,890,165,ice-face,ice
+Indeedee-Male,9,280,166,"inner-focus, synchronize, psychic-surge","psychic, normal"
+Morpeko-Full-Belly,3,30,153,hunger-switch,"electric, dark"
+Cufant,12,1000,66,"sheer-force, heavy-metal",steel
+Copperajah,30,6500,175,"sheer-force, heavy-metal",steel
+Dracozolt,18,1900,177,"volt-absorb, hustle, sand-rush","electric, dragon"
+Arctozolt,23,1500,177,"volt-absorb, static, slush-rush","electric, ice"
+Dracovish,23,2150,177,"water-absorb, strong-jaw, sand-rush","water, dragon"
+Arctovish,20,1750,177,"water-absorb, ice-body, slush-rush","water, ice"
+Duraludon,18,400,187,"light-metal, heavy-metal, stalwart","steel, dragon"
+Dreepy,5,20,54,"clear-body, infiltrator, cursed-body","dragon, ghost"
+Drakloak,14,110,144,"clear-body, infiltrator, cursed-body","dragon, ghost"
+Dragapult,30,500,300,"clear-body, infiltrator, cursed-body","dragon, ghost"
+Zacian,28,1100,335,intrepid-sword,fairy
+Zamazenta,29,2100,335,dauntless-shield,fighting
+Eternatus,200,9500,345,pressure,"poison, dragon"
+Kubfu,6,120,77,inner-focus,fighting
+Urshifu-Single-Strike,19,1050,275,unseen-fist,"fighting, dark"
+Zarude,18,700,300,leaf-guard,"dark, grass"
+Regieleki,12,1450,290,transistor,electric
+Regidrago,21,2000,290,dragons-maw,dragon
+Glastrier,22,8000,290,chilling-neigh,ice
+Spectrier,20,445,290,grim-neigh,ghost
+Calyrex,11,77,250,unnerve,"psychic, grass"
+Wyrdeer,18,951,263,"intimidate, frisk, sap-sipper","normal, psychic"
+Kleavor,18,890,175,"swarm, sheer-force, sharpness","bug, rock"
+Ursaluna,24,2900,275,"guts, bulletproof, unnerve","ground, normal"
+Basculegion-Male,30,1100,265,"swift-swim, adaptability, mold-breaker","water, ghost"
+Sneasler,13,430,102,"pressure, unburden, poison-touch","fighting, poison"
+Overqwil,25,605,179,"poison-point, swift-swim, intimidate","dark, poison"
+Enamorus-Incarnate,16,480,116,"cute-charm, contrary","fairy, flying"
+Sprigatito,4,41,62,"overgrow, protean",grass
+Floragato,9,122,144,"overgrow, protean",grass
+Meowscarada,15,312,265,"overgrow, protean","grass, dark"
+Fuecoco,4,98,62,"blaze, unaware",fire
+Crocalor,10,307,144,"blaze, unaware",fire
+Skeledirge,16,3265,265,"blaze, unaware","fire, ghost"
+Quaxly,5,61,62,"torrent, moxie",water
+Quaxwell,12,215,144,"torrent, moxie",water
+Quaquaval,18,619,265,"torrent, moxie","water, fighting"
+Lechonk,5,102,51,"aroma-veil, gluttony, thick-fat",normal
+Oinkologne-Male,10,1200,171,"lingering-aroma, gluttony, thick-fat",normal
+Tarountula,3,40,42,"insomnia, stakeout",bug
+Spidops,10,165,141,"insomnia, stakeout",bug
+Nymble,2,10,42,"swarm, tinted-lens",bug
+Lokix,10,175,158,"swarm, tinted-lens","bug, dark"
+Pawmi,3,25,48,"static, natural-cure, iron-fist",electric
+Pawmo,4,65,123,"volt-absorb, natural-cure, iron-fist","electric, fighting"
+Pawmot,9,410,245,"volt-absorb, natural-cure, iron-fist","electric, fighting"
+Tandemaus,3,18,61,"run-away, pickup, own-tempo",normal
+Maushold-Family-Of-Four,3,23,165,"friend-guard, cheek-pouch, technician",normal
+Fidough,3,109,62,"own-tempo, klutz",fairy
+Dachsbun,5,149,167,"well-baked-body, aroma-veil",fairy
+Smoliv,3,65,52,"early-bird, harvest","grass, normal"
+Dolliv,6,119,124,"early-bird, harvest","grass, normal"
+Arboliva,14,482,255,"seed-sower, harvest","grass, normal"
+Squawkabilly-Green-Plumage,6,24,146,"intimidate, hustle, guts","normal, flying"
+Nacli,4,160,56,"purifying-salt, sturdy, clear-body",rock
+Naclstack,6,1050,124,"purifying-salt, sturdy, clear-body",rock
+Garganacl,23,2400,250,"purifying-salt, sturdy, clear-body",rock
+Charcadet,6,105,51,"flash-fire, flame-body",fire
+Armarouge,15,850,263,"flash-fire, weak-armor","fire, psychic"
+Ceruledge,16,620,263,"flash-fire, weak-armor","fire, ghost"
+Tadbulb,3,4,54,"own-tempo, static, damp",electric
+Bellibolt,12,1130,173,"electromorphosis, static, damp",electric
+Wattrel,4,36,56,"wind-power, volt-absorb, competitive","electric, flying"
+Kilowattrel,14,386,172,"wind-power, volt-absorb, competitive","electric, flying"
+Maschiff,5,160,68,"intimidate, run-away, stakeout",dark
+Mabosstiff,11,610,177,"intimidate, guard-dog, stakeout",dark
+Shroodle,2,7,58,"unburden, pickpocket, prankster","poison, normal"
+Grafaiai,7,272,170,"unburden, poison-touch, prankster","poison, normal"
+Bramblin,6,6,55,"wind-rider, infiltrator","grass, ghost"
+Brambleghast,12,60,168,"wind-rider, infiltrator","grass, ghost"
+Toedscool,9,330,67,"mycelium-might, mycelium-might","ground, grass"
+Toedscruel,19,580,180,"mycelium-might, mycelium-might","ground, grass"
+Klawf,13,790,158,"anger-shell, shell-armor, regenerator",rock
+Capsakid,3,30,61,"chlorophyll, insomnia, klutz",grass
+Scovillain,9,150,170,"chlorophyll, insomnia, moody","grass, fire"
+Rellor,2,10,54,"compound-eyes, shed-skin",bug
+Rabsca,3,35,165,"synchronize, telepathy","bug, psychic"
+Flittle,2,15,51,"anticipation, frisk, speed-boost",psychic
+Espathra,19,900,168,"opportunist, frisk, speed-boost",psychic
+Tinkatink,4,89,59,"mold-breaker, own-tempo, pickpocket","fairy, steel"
+Tinkatuff,7,591,133,"mold-breaker, own-tempo, pickpocket","fairy, steel"
+Tinkaton,7,1128,253,"mold-breaker, own-tempo, pickpocket","fairy, steel"
+Wiglett,12,18,49,"gooey, rattled, sand-veil",water
+Wugtrio,12,54,149,"gooey, rattled, sand-veil",water
+Bombirdier,15,429,243,"big-pecks, keen-eye, rocky-payload","flying, dark"
+Finizen,13,602,63,"water-veil, water-veil",water
+Palafin-Zero,13,602,160,"zero-to-hero, zero-to-hero",water
+Varoom,10,350,60,"overcoat, slow-start","steel, poison"
+Revavroom,18,1200,175,"overcoat, filter","steel, poison"
+Cyclizar,16,630,175,"shed-skin, regenerator","dragon, normal"
+Orthworm,25,3100,240,"earth-eater, sand-veil",steel
+Glimmet,7,80,70,"toxic-debris, corrosion","rock, poison"
+Glimmora,15,450,184,"toxic-debris, corrosion","rock, poison"
+Greavard,6,350,58,"pickup, fluffy",ghost
+Houndstone,20,150,171,"sand-rush, fluffy",ghost
+Flamigo,16,370,175,"scrappy, tangled-feet, costar","flying, fighting"
+Cetoddle,12,450,67,"thick-fat, snow-cloak, sheer-force",ice
+Cetitan,45,7000,182,"thick-fat, slush-rush, sheer-force",ice
+Veluza,25,900,167,"mold-breaker, sharpness","water, psychic"
+Dondozo,120,2200,265,"unaware, oblivious, water-veil",water
+Tatsugiri-Curly,3,80,166,"commander, storm-drain","dragon, water"
+Annihilape,12,560,268,"vital-spirit, inner-focus, defiant","fighting, ghost"
+Clodsire,18,2230,151,"poison-point, water-absorb, unaware","poison, ground"
+Farigiraf,32,1600,260,"cud-chew, armor-tail, sap-sipper","normal, psychic"
+Dudunsparce-Two-Segment,36,392,182,"serene-grace, run-away, rattled",normal
+Kingambit,20,1200,275,"defiant, supreme-overlord, pressure","dark, steel"
+Great-Tusk,22,3200,285,protosynthesis,"ground, fighting"
+Scream-Tail,12,80,285,protosynthesis,"fairy, psychic"
+Brute-Bonnet,12,210,285,protosynthesis,"grass, dark"
+Flutter-Mane,14,40,285,protosynthesis,"ghost, fairy"
+Slither-Wing,32,920,285,protosynthesis,"bug, fighting"
+Sandy-Shocks,23,600,285,protosynthesis,"electric, ground"
+Iron-Treads,9,2400,285,quark-drive,"ground, steel"
+Iron-Bundle,6,110,285,quark-drive,"ice, water"
+Iron-Hands,18,3807,285,quark-drive,"fighting, electric"
+Iron-Jugulis,13,1110,285,quark-drive,"dark, flying"
+Iron-Moth,12,360,285,quark-drive,"fire, poison"
+Iron-Thorns,16,3030,285,quark-drive,"rock, electric"
+Frigibax,5,170,64,"thermal-exchange, ice-body","dragon, ice"
+Arctibax,8,300,148,"thermal-exchange, ice-body","dragon, ice"
+Baxcalibur,21,2100,300,"thermal-exchange, ice-body","dragon, ice"
+Gimmighoul,3,50,60,rattled,ghost
+Gholdengo,12,300,275,good-as-gold,"steel, ghost"
+Wo-Chien,15,742,285,tablets-of-ruin,"dark, grass"
+Chien-Pao,19,1522,285,sword-of-ruin,"dark, ice"
+Ting-Lu,27,6997,285,vessel-of-ruin,"dark, ground"
+Chi-Yu,4,49,285,beads-of-ruin,"dark, fire"
+Roaring-Moon,20,3800,295,protosynthesis,"dragon, dark"
+Iron-Valiant,14,350,295,quark-drive,"fairy, fighting"
+Koraidon,25,3030,335,orichalcum-pulse,"fighting, dragon"
+Miraidon,35,2400,335,hadron-engine,"electric, dragon"
+Walking-Wake,35,2800,295,protosynthesis,"water, dragon"
+Iron-Leaves,15,1250,295,quark-drive,"grass, psychic"
+Dipplin,4,97,170,"supersweet-syrup, gluttony, sticky-hold","grass, dragon"
+Poltchageist,1,11,62,"hospitality, heatproof","grass, ghost"
+Sinistcha,2,22,178,"hospitality, heatproof","grass, ghost"
+Okidogi,18,922,278,"toxic-chain, guard-dog","poison, fighting"
+Munkidori,10,122,278,"toxic-chain, frisk","poison, psychic"
+Fezandipiti,14,301,278,"toxic-chain, technician","poison, fairy"
+Ogerpon,12,398,275,defiant,grass
+Archaludon,20,600,300,"stamina, sturdy, stalwart","steel, dragon"
+Hydrapple,18,930,270,"supersweet-syrup, regenerator, sticky-hold","grass, dragon"
+Gouging-Fire,35,5900,295,protosynthesis,"fire, dragon"
+Raging-Bolt,52,4800,295,protosynthesis,"electric, dragon"
+Iron-Boulder,15,1625,295,quark-drive,"rock, psychic"
+Iron-Crown,16,1560,295,quark-drive,"steel, psychic"
+Terapagos,2,65,90,tera-shift,normal
+Pecharunt,3,3,300,poison-puppeteer,"poison, ghost"
+Deoxys-Attack,17,608,270,pressure,psychic
+Deoxys-Defense,17,608,270,pressure,psychic
+Deoxys-Speed,17,608,270,pressure,psychic
+Wormadam-Sandy,5,65,148,"anticipation, overcoat","bug, ground"
+Wormadam-Trash,5,65,148,"anticipation, overcoat","bug, steel"
+Shaymin-Sky,4,52,270,serene-grace,"grass, flying"
+Giratina-Origin,69,6500,340,levitate,"ghost, dragon"
+Rotom-Heat,3,3,182,levitate,"electric, fire"
+Rotom-Wash,3,3,182,levitate,"electric, water"
+Rotom-Frost,3,3,182,levitate,"electric, ice"
+Rotom-Fan,3,3,182,levitate,"electric, flying"
+Rotom-Mow,3,3,182,levitate,"electric, grass"
+Castform-Sunny,3,8,147,forecast,fire
+Castform-Rainy,3,8,147,forecast,water
+Castform-Snowy,3,8,147,forecast,ice
+Basculin-Blue-Striped,10,180,161,"rock-head, adaptability, mold-breaker",water
+Darmanitan-Zen,13,929,189,"sheer-force, zen-mode","fire, psychic"
+Meloetta-Pirouette,6,65,270,serene-grace,"normal, fighting"
+Tornadus-Therian,14,630,290,regenerator,flying
+Thundurus-Therian,30,610,290,volt-absorb,"electric, flying"
+Landorus-Therian,13,680,300,intimidate,"ground, flying"
+Kyurem-Black,33,3250,350,teravolt,"dragon, ice"
+Kyurem-White,36,3250,350,turboblaze,"dragon, ice"
+Keldeo-Resolute,14,485,290,justified,"water, fighting"
+Meowstic-Female,6,85,163,"keen-eye, infiltrator, competitive",psychic
+Aegislash-Blade,17,530,250,stance-change,"steel, ghost"
+Pumpkaboo-Small,3,35,67,"pickup, frisk, insomnia","ghost, grass"
+Pumpkaboo-Large,5,75,67,"pickup, frisk, insomnia","ghost, grass"
+Pumpkaboo-Super,8,150,67,"pickup, frisk, insomnia","ghost, grass"
+Gourgeist-Small,7,95,173,"pickup, frisk, insomnia","ghost, grass"
+Gourgeist-Large,11,140,173,"pickup, frisk, insomnia","ghost, grass"
+Gourgeist-Super,17,390,173,"pickup, frisk, insomnia","ghost, grass"
+Venusaur-Mega,24,1555,281,thick-fat,"grass, poison"
+Charizard-Mega-X,17,1105,285,tough-claws,"fire, dragon"
+Charizard-Mega-Y,17,1005,285,drought,"fire, flying"
+Blastoise-Mega,16,1011,284,mega-launcher,water
+Alakazam-Mega,12,480,270,trace,psychic
+Gengar-Mega,14,405,270,shadow-tag,"ghost, poison"
+Kangaskhan-Mega,22,1000,207,parental-bond,normal
+Pinsir-Mega,17,590,210,aerilate,"bug, flying"
+Gyarados-Mega,65,3050,224,mold-breaker,"water, dark"
+Aerodactyl-Mega,21,790,215,tough-claws,"rock, flying"
+Mewtwo-Mega-X,23,1270,351,steadfast,"psychic, fighting"
+Mewtwo-Mega-Y,15,330,351,insomnia,psychic
+Ampharos-Mega,14,615,275,mold-breaker,"electric, dragon"
+Scizor-Mega,20,1250,210,technician,"bug, steel"
+Heracross-Mega,17,625,210,skill-link,"bug, fighting"
+Houndoom-Mega,19,495,210,solar-power,"dark, fire"
+Tyranitar-Mega,25,2550,315,sand-stream,"rock, dark"
+Blaziken-Mega,19,520,284,speed-boost,"fire, fighting"
+Gardevoir-Mega,16,484,278,pixilate,"psychic, fairy"
+Mawile-Mega,10,235,168,huge-power,"steel, fairy"
+Aggron-Mega,22,3950,284,filter,steel
+Medicham-Mega,13,315,179,pure-power,"fighting, psychic"
+Manectric-Mega,18,440,201,intimidate,electric
+Banette-Mega,12,130,194,prankster,ghost
+Absol-Mega,12,490,198,magic-bounce,dark
+Garchomp-Mega,19,950,315,sand-force,"dragon, ground"
+Lucario-Mega,13,575,219,adaptability,"fighting, steel"
+Abomasnow-Mega,27,1850,208,snow-warning,"grass, ice"
+Floette-Eternal,2,9,243,"flower-veil, symbiosis",fairy
+Latias-Mega,18,520,315,levitate,"dragon, psychic"
+Latios-Mega,23,700,315,levitate,"dragon, psychic"
+Swampert-Mega,19,1020,286,swift-swim,"water, ground"
+Sceptile-Mega,19,552,284,lightning-rod,"grass, dragon"
+Sableye-Mega,5,1610,168,magic-bounce,"dark, ghost"
+Altaria-Mega,15,206,207,pixilate,"dragon, fairy"
+Gallade-Mega,16,564,278,inner-focus,"psychic, fighting"
+Audino-Mega,15,320,425,healer,"normal, fairy"
+Sharpedo-Mega,25,1303,196,strong-jaw,"water, dark"
+Slowbro-Mega,20,1200,207,shell-armor,"water, psychic"
+Steelix-Mega,105,7400,214,sand-force,"steel, ground"
+Pidgeot-Mega,22,505,261,no-guard,"normal, flying"
+Glalie-Mega,21,3502,203,refrigerate,ice
+Diancie-Mega,11,278,315,magic-bounce,"rock, fairy"
+Metagross-Mega,25,9429,315,tough-claws,"steel, psychic"
+Kyogre-Primal,98,4300,347,primordial-sea,water
+Groudon-Primal,50,9997,347,desolate-land,"ground, fire"
+Rayquaza-Mega,108,3920,351,delta-stream,"dragon, flying"
+Pikachu-Rock-Star,4,60,112,"static, lightning-rod",electric
+Pikachu-Belle,4,60,112,"static, lightning-rod",electric
+Pikachu-Pop-Star,4,60,112,"static, lightning-rod",electric
+Pikachu-Phd,4,60,112,"static, lightning-rod",electric
+Pikachu-Libre,4,60,112,"static, lightning-rod",electric
+Pikachu-Cosplay,4,60,112,"static, lightning-rod",electric
+Hoopa-Unbound,65,4900,306,magician,"psychic, dark"
+Camerupt-Mega,25,3205,196,sheer-force,"fire, ground"
+Lopunny-Mega,13,283,203,scrappy,"normal, fighting"
+Salamence-Mega,18,1126,315,aerilate,"dragon, flying"
+Beedrill-Mega,14,405,223,adaptability,"bug, poison"
+Rattata-Alola,3,38,51,"gluttony, hustle, thick-fat","dark, normal"
+Raticate-Alola,7,255,145,"gluttony, hustle, thick-fat","dark, normal"
+Raticate-Totem-Alola,14,1050,145,"gluttony, hustle, thick-fat","dark, normal"
+Pikachu-Original-Cap,4,60,112,"static, lightning-rod",electric
+Pikachu-Hoenn-Cap,4,60,112,"static, lightning-rod",electric
+Pikachu-Sinnoh-Cap,4,60,112,"static, lightning-rod",electric
+Pikachu-Unova-Cap,4,60,112,"static, lightning-rod",electric
+Pikachu-Kalos-Cap,4,60,112,"static, lightning-rod",electric
+Pikachu-Alola-Cap,4,60,112,"static, lightning-rod",electric
+Raichu-Alola,7,210,243,surge-surfer,"electric, psychic"
+Sandshrew-Alola,7,400,60,"snow-cloak, slush-rush","ice, steel"
+Sandslash-Alola,12,550,158,"snow-cloak, slush-rush","ice, steel"
+Vulpix-Alola,6,99,60,"snow-cloak, snow-warning",ice
+Ninetales-Alola,11,199,177,"snow-cloak, snow-warning","ice, fairy"
+Diglett-Alola,2,10,53,"sand-veil, tangling-hair, sand-force","ground, steel"
+Dugtrio-Alola,7,666,149,"sand-veil, tangling-hair, sand-force","ground, steel"
+Meowth-Alola,4,42,58,"pickup, technician, rattled",dark
+Persian-Alola,11,330,154,"fur-coat, technician, rattled",dark
+Geodude-Alola,4,203,60,"magnet-pull, sturdy, galvanize","rock, electric"
+Graveler-Alola,10,1100,137,"magnet-pull, sturdy, galvanize","rock, electric"
+Golem-Alola,17,3160,223,"magnet-pull, sturdy, galvanize","rock, electric"
+Grimer-Alola,7,420,65,"poison-touch, gluttony, power-of-alchemy","poison, dark"
+Muk-Alola,10,520,175,"poison-touch, gluttony, power-of-alchemy","poison, dark"
+Exeggutor-Alola,109,4156,186,"frisk, harvest","grass, dragon"
+Marowak-Alola,10,340,149,"cursed-body, lightning-rod, rock-head","fire, ghost"
+Greninja-Battle-Bond,15,400,239,battle-bond,"water, dark"
+Greninja-Ash,15,400,288,battle-bond,"water, dark"
+Zygarde-10-Power-Construct,12,335,243,power-construct,"dragon, ground"
+Zygarde-50-Power-Construct,50,3050,300,power-construct,"dragon, ground"
+Zygarde-Complete,45,6100,354,power-construct,"dragon, ground"
+Gumshoos-Totem,14,600,146,"stakeout, strong-jaw, adaptability",normal
+Vikavolt-Totem,26,1475,225,levitate,"bug, electric"
+Oricorio-Pom-Pom,6,34,167,dancer,"electric, flying"
+Oricorio-Pau,6,34,167,dancer,"psychic, flying"
+Oricorio-Sensu,6,34,167,dancer,"ghost, flying"
+Lycanroc-Midnight,11,250,170,"keen-eye, vital-spirit, no-guard",rock
+Wishiwashi-School,82,786,217,schooling,water
+Lurantis-Totem,15,580,168,"leaf-guard, contrary",grass
+Salazzle-Totem,21,810,168,"corrosion, oblivious","poison, fire"
+Minior-Orange-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Yellow-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Green-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Blue-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Indigo-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Violet-Meteor,3,400,154,shields-down,"rock, flying"
+Minior-Red,3,3,175,shields-down,"rock, flying"
+Minior-Orange,3,3,175,shields-down,"rock, flying"
+Minior-Yellow,3,3,175,shields-down,"rock, flying"
+Minior-Green,3,3,175,shields-down,"rock, flying"
+Minior-Blue,3,3,175,shields-down,"rock, flying"
+Minior-Indigo,3,3,175,shields-down,"rock, flying"
+Minior-Violet,3,3,175,shields-down,"rock, flying"
+Mimikyu-Busted,2,7,167,disguise,"ghost, fairy"
+Mimikyu-Totem-Disguised,4,28,167,disguise,"ghost, fairy"
+Mimikyu-Totem-Busted,4,28,167,disguise,"ghost, fairy"
+Kommo-O-Totem,24,2075,270,"bulletproof, soundproof, overcoat","dragon, fighting"
+Magearna-Original,10,805,300,soul-heart,"steel, fairy"
+Pikachu-Partner-Cap,4,60,112,"static, lightning-rod",electric
+Marowak-Totem,17,980,149,"cursed-body, lightning-rod, rock-head","fire, ghost"
+Ribombee-Totem,4,20,162,"honey-gather, shield-dust, sweet-veil","bug, fairy"
+Rockruff-Own-Tempo,5,92,56,own-tempo,rock
+Lycanroc-Dusk,8,250,170,tough-claws,rock
+Araquanid-Totem,31,2175,159,"water-bubble, water-absorb","water, bug"
+Togedemaru-Totem,6,130,152,"iron-barbs, lightning-rod, sturdy","electric, steel"
+Necrozma-Dusk,38,4600,340,prism-armor,"psychic, steel"
+Necrozma-Dawn,42,3500,340,prism-armor,"psychic, ghost"
+Necrozma-Ultra,75,2300,339,neuroforce,"psychic, dragon"
+Pikachu-Starter,4,60,86,"static, lightning-rod",electric
+Eevee-Starter,3,65,87,"run-away, adaptability, anticipation",normal
+Pikachu-World-Cap,4,60,112,"static, lightning-rod",electric
+Meowth-Galar,4,75,58,"pickup, tough-claws, unnerve",steel
+Ponyta-Galar,8,240,82,"run-away, pastel-veil, anticipation",psychic
+Rapidash-Galar,17,800,175,"run-away, pastel-veil, anticipation","psychic, fairy"
+Slowpoke-Galar,12,360,63,"gluttony, own-tempo, regenerator",psychic
+Slowbro-Galar,16,705,172,"quick-draw, own-tempo, regenerator","poison, psychic"
+Farfetchd-Galar,8,420,132,"steadfast, scrappy",fighting
+Weezing-Galar,30,160,172,"levitate, neutralizing-gas, misty-surge","poison, fairy"
+Mr-Mime-Galar,14,568,161,"vital-spirit, screen-cleaner, ice-body","ice, psychic"
+Articuno-Galar,17,509,290,competitive,"psychic, flying"
+Zapdos-Galar,16,582,290,defiant,"fighting, flying"
+Moltres-Galar,20,660,290,berserk,"dark, flying"
+Slowking-Galar,18,795,172,"curious-medicine, own-tempo, regenerator","poison, psychic"
+Corsola-Galar,6,5,144,"weak-armor, cursed-body",ghost
+Zigzagoon-Galar,4,175,56,"pickup, gluttony, quick-feet","dark, normal"
+Linoone-Galar,5,325,147,"pickup, gluttony, quick-feet","dark, normal"
+Darumaka-Galar,7,400,63,"hustle, inner-focus",ice
+Darmanitan-Galar-Standard,17,1200,168,"gorilla-tactics, zen-mode",ice
+Darmanitan-Galar-Zen,17,1200,189,"gorilla-tactics, zen-mode","ice, fire"
+Yamask-Galar,5,15,61,wandering-spirit,"ground, ghost"
+Stunfisk-Galar,7,205,165,mimicry,"ground, steel"
+Zygarde-10,12,335,243,aura-break,"dragon, ground"
+Cramorant-Gulping,8,180,166,gulp-missile,"flying, water"
+Cramorant-Gorging,8,180,166,gulp-missile,"flying, water"
+Toxtricity-Low-Key,16,400,176,"punk-rock, minus, technician","electric, poison"
+Eiscue-Noice,14,890,165,ice-face,ice
+Indeedee-Female,9,280,166,"own-tempo, synchronize, psychic-surge","psychic, normal"
+Morpeko-Hangry,3,30,153,hunger-switch,"electric, dark"
+Zacian-Crowned,28,3550,360,intrepid-sword,"fairy, steel"
+Zamazenta-Crowned,29,7850,360,dauntless-shield,"fighting, steel"
+Eternatus-Eternamax,1000,0,563,pressure,"poison, dragon"
+Urshifu-Rapid-Strike,19,1050,275,unseen-fist,"fighting, water"
+Zarude-Dada,18,700,300,leaf-guard,"dark, grass"
+Calyrex-Ice,24,8091,340,as-one-glastrier,"psychic, ice"
+Calyrex-Shadow,24,536,340,as-one-spectrier,"psychic, ghost"
+Venusaur-Gmax,240,10000,236,"overgrow, chlorophyll","grass, poison"
+Charizard-Gmax,280,10000,240,"blaze, solar-power","fire, flying"
+Blastoise-Gmax,250,10000,239,"torrent, rain-dish",water
+Butterfree-Gmax,170,10000,178,"compound-eyes, tinted-lens","bug, flying"
+Pikachu-Gmax,210,10000,112,"static, lightning-rod",electric
+Meowth-Gmax,330,10000,58,"pickup, technician, unnerve",normal
+Machamp-Gmax,250,10000,227,"guts, no-guard, steadfast",fighting
+Gengar-Gmax,200,10000,225,cursed-body,"ghost, poison"
+Kingler-Gmax,190,10000,166,"hyper-cutter, shell-armor, sheer-force",water
+Lapras-Gmax,240,10000,187,"water-absorb, shell-armor, hydration","water, ice"
+Eevee-Gmax,180,10000,65,"run-away, adaptability, anticipation",normal
+Snorlax-Gmax,350,10000,189,"immunity, thick-fat, gluttony",normal
+Garbodor-Gmax,210,10000,166,"stench, weak-armor, aftermath",poison
+Melmetal-Gmax,250,10000,270,iron-fist,steel
+Rillaboom-Gmax,280,10000,265,"overgrow, grassy-surge",grass
+Cinderace-Gmax,270,10000,265,"blaze, libero",fire
+Inteleon-Gmax,400,10000,265,"torrent, sniper",water
+Corviknight-Gmax,140,10000,248,"pressure, unnerve, mirror-armor","flying, steel"
+Orbeetle-Gmax,140,10000,253,"swarm, frisk, telepathy","bug, psychic"
+Drednaw-Gmax,240,10000,170,"strong-jaw, shell-armor, swift-swim","water, rock"
+Coalossal-Gmax,420,10000,255,"steam-engine, flame-body, flash-fire","rock, fire"
+Flapple-Gmax,240,10000,170,"ripen, gluttony, hustle","grass, dragon"
+Appletun-Gmax,240,10000,170,"ripen, gluttony, thick-fat","grass, dragon"
+Sandaconda-Gmax,220,10000,179,"sand-spit, shed-skin, sand-veil",ground
+Toxtricity-Amped-Gmax,240,10000,176,"punk-rock, plus, technician","electric, poison"
+Centiskorch-Gmax,750,10000,184,"flash-fire, white-smoke, flame-body","fire, bug"
+Hatterene-Gmax,260,10000,255,"healer, anticipation, magic-bounce","psychic, fairy"
+Grimmsnarl-Gmax,320,10000,255,"prankster, frisk, pickpocket","dark, fairy"
+Alcremie-Gmax,300,10000,173,"sweet-veil, aroma-veil",fairy
+Copperajah-Gmax,230,10000,175,"sheer-force, heavy-metal",steel
+Duraludon-Gmax,430,10000,187,"light-metal, heavy-metal, stalwart","steel, dragon"
+Urshifu-Single-Strike-Gmax,290,10000,275,unseen-fist,"fighting, dark"
+Urshifu-Rapid-Strike-Gmax,260,10000,275,unseen-fist,"fighting, water"
+Toxtricity-Low-Key-Gmax,240,10000,176,"punk-rock, minus, technician","electric, poison"
+Growlithe-Hisui,8,227,70,"intimidate, flash-fire, rock-head","fire, rock"
+Arcanine-Hisui,20,1680,194,"intimidate, flash-fire, rock-head","fire, rock"
+Voltorb-Hisui,5,130,66,"soundproof, static, aftermath","electric, grass"
+Electrode-Hisui,12,710,172,"soundproof, static, aftermath","electric, grass"
+Typhlosion-Hisui,16,698,240,"blaze, frisk","fire, ghost"
+Qwilfish-Hisui,5,39,88,"poison-point, swift-swim, intimidate","dark, poison"
+Sneasel-Hisui,9,270,86,"inner-focus, keen-eye, pickpocket","fighting, poison"
+Samurott-Hisui,15,582,238,"torrent, sharpness","water, dark"
+Lilligant-Hisui,12,192,168,"chlorophyll, hustle, leaf-guard","grass, fighting"
+Zorua-Hisui,7,125,66,illusion,"normal, ghost"
+Zoroark-Hisui,16,730,179,illusion,"normal, ghost"
+Braviary-Hisui,17,434,179,"keen-eye, sheer-force, tinted-lens","psychic, flying"
+Sliggoo-Hisui,7,685,158,"sap-sipper, shell-armor, gooey","steel, dragon"
+Goodra-Hisui,17,3341,270,"sap-sipper, shell-armor, gooey","steel, dragon"
+Avalugg-Hisui,14,2624,180,"strong-jaw, ice-body, sturdy","ice, rock"
+Decidueye-Hisui,16,370,239,"overgrow, scrappy","grass, fighting"
+Dialga-Origin,70,8487,306,"pressure, telepathy","steel, dragon"
+Palkia-Origin,63,6590,306,"pressure, telepathy","water, dragon"
+Basculin-White-Striped,10,180,161,"rattled, adaptability, mold-breaker",water
+Basculegion-Female,30,1100,265,"swift-swim, adaptability, mold-breaker","water, ghost"
+Enamorus-Therian,16,480,116,overcoat,"fairy, flying"
+Tauros-Paldea-Combat-Breed,14,1150,172,"intimidate, anger-point, cud-chew",fighting
+Tauros-Paldea-Blaze-Breed,14,850,172,"intimidate, anger-point, cud-chew","fighting, fire"
+Tauros-Paldea-Aqua-Breed,14,1100,172,"intimidate, anger-point, cud-chew","fighting, water"
+Wooper-Paldea,4,110,42,"poison-point, water-absorb, unaware","poison, ground"
+Oinkologne-Female,10,1200,171,"aroma-veil, gluttony, thick-fat",normal
+Dudunsparce-Three-Segment,45,474,182,"serene-grace, run-away, rattled",normal
+Palafin-Hero,18,974,160,"zero-to-hero, zero-to-hero",water
+Maushold-Family-Of-Three,3,28,165,"friend-guard, cheek-pouch, technician",normal
+Tatsugiri-Droopy,3,80,166,"commander, storm-drain","dragon, water"
+Tatsugiri-Stretchy,3,80,166,"commander, storm-drain","dragon, water"
+Squawkabilly-Blue-Plumage,6,24,146,"intimidate, hustle, guts","normal, flying"
+Squawkabilly-Yellow-Plumage,6,24,146,"intimidate, hustle, sheer-force","normal, flying"
+Squawkabilly-White-Plumage,6,24,146,"intimidate, hustle, sheer-force","normal, flying"
+Gimmighoul-Roaming,1,10,60,"run-away, run-away",ghost
+Koraidon-Limited-Build,35,3030,335,"orichalcum-pulse, orichalcum-pulse","fighting, dragon"
+Koraidon-Sprinting-Build,35,3030,335,"orichalcum-pulse, orichalcum-pulse","fighting, dragon"
+Koraidon-Swimming-Build,35,3030,335,"orichalcum-pulse, orichalcum-pulse","fighting, dragon"
+Koraidon-Gliding-Build,35,3030,335,"orichalcum-pulse, orichalcum-pulse","fighting, dragon"
+Miraidon-Low-Power-Mode,28,2400,335,"hadron-engine, hadron-engine","electric, dragon"
+Miraidon-Drive-Mode,28,2400,335,"hadron-engine, hadron-engine","electric, dragon"
+Miraidon-Aquatic-Mode,28,2400,335,"hadron-engine, hadron-engine","electric, dragon"
+Miraidon-Glide-Mode,28,2400,335,"hadron-engine, hadron-engine","electric, dragon"
+Ursaluna-Bloodmoon,24,2900,275,minds-eye,"ground, normal"
+Ogerpon-Wellspring-Mask,12,398,275,water-absorb,"grass, water"
+Ogerpon-Hearthflame-Mask,12,398,275,mold-breaker,"grass, fire"
+Ogerpon-Cornerstone-Mask,12,398,275,sturdy,"grass, rock"
+Terapagos-Terastal,3,160,90,tera-shell,normal
+Terapagos-Stellar,17,770,90,teraform-zero,normal
