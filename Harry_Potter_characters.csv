@@ -1,0 +1,2206 @@
+name,alternate_names,actor,species,gender,house,dateOfBirth,yearOfBirth,wizard,ancestry,eyeColour,hairColour,wand_wood,wand_core,wand_length,patronus,hogwartsStudent,hogwartsStaff,actor,alive
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,holly,phoenix tail feather,11.0,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,vine,dragon heartstring,10.75,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,willow,unicorn tail hair,14.0,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,hawthorn,unicorn tail hair,10.0,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,fir,dragon heartstring,9.5,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,ash,unicorn hair,12.25,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,oak,,16.0,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,cherry,unicorn tail hair,13.0,Non-Corporeal,True,False,Matthew Lewis,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,,,,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,,,,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,,,,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,,,,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,,,,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,,,,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,,,,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,,,,Non-Corporeal,True,False,Matthew Lewis,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,,,,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,,,,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,,,,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,,,,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,,,,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,,,,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,,,,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,,,,Non-Corporeal,True,False,Matthew Lewis,True
+Luna Lovegood,['Loony Lovegood'],Evanna Lynch,human,female,Ravenclaw,13-02-1981,1981.0,True,,silver,blonde,,,,hare,True,False,Evanna Lynch,True
+Ginny Weasley,[],Bonnie Wright,human,female,Gryffindor,11-08-1981,1981.0,True,pure-blood,brown,red,,,,horse,True,False,Bonnie Wright,True
+Sirius Black,"['Padfoot', 'Snuffles']",Gary Oldman,human,male,Gryffindor,03-11-1959,1959.0,True,pure-blood,grey,black,,,,hare,False,False,Gary Oldman,False
+Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",David Thewlis,werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,,,,wolf,False,True,David Thewlis,False
+Arthur Weasley,[],Mark Williams,human,male,Gryffindor,06-02-1950,1950.0,True,pure-blood,blue,red,,,,weasel,False,False,Mark Williams,True
+Bellatrix Lestrange,['Bella'],Helena Bonham Carter,human,female,Slytherin,,1951.0,True,pure-blood,brown,black,,,,,False,False,Helena Bonham Carter,False
+Lord Voldemort,"['Tom Riddle', 'Tom Marvolo Riddle', 'You-Know-Who', 'He Who Must Not Be Named', 'the Dark Lord', 'the Heir of Slytherin']",Ralph Fiennes,human,male,Slytherin,31-12-1926,1926.0,True,half-blood,Scarlet,bald,,,,,False,False,Ralph Fiennes,False
+Horace Slughorn,[],Jim Broadbent,human,male,Slytherin,,,True,pure-blood,green,blonde,,,,,False,True,Jim Broadbent,True
+Kingsley Shacklebolt,[],George Harris,human,male,,,,True,pure-blood,brown,brown,,,,lynx,False,False,George Harris,True
+Dolores Umbridge,[],Imelda Staunton,human,female,Slytherin,,,True,half-blood,brown,grey,,,,persian cat,False,True,Imelda Staunton,True
+Lucius Malfoy,[],Jason Isaacs,human,male,Slytherin,,1954.0,True,pure-blood,grey,blonde,,,,,False,False,Jason Isaacs,True
+Vincent Crabbe,[],Jamie Waylett,human,male,Slytherin,,,True,pure-blood,black,black,,,,,True,False,Jamie Waylett,False
+Mr Crabbe,[],Paschal Friel,human,male,,,,True,pure-blood,,,,,,,False,False,Paschal Friel,False
+Gregory Goyle,[],Josh Herdman,human,male,Slytherin,,,True,pure-blood,,brown,,,,,True,False,Josh Herdman,True
+Mr Goyle,[],Alex Palmer,human,male,,,,True,pure-blood,,,,,,,True,False,Alex Palmer,True
+Mrs Norris,[],"Maxime, Alanis and Tommy the cats",cat,female,,,,False,,yellow,brown,,,,,False,True,"Maxime, Alanis and Tommy the cats",True
+Argus Filch,[],David Bradley,human,male,,,,False,squib,,grey,,,,,False,True,David Bradley,True
+Vernon Dursley,[],Richard Griffiths,human,male,,,,False,muggle,,,,,,,False,False,Richard Griffiths,True
+Petunia Dursley,[],Fiona Shaw,human,female,,,,False,muggle,,blonde,,,,,False,False,Fiona Shaw,True
+Dudley Dursley,[],Harry Melling,human,male,,23-6-1980,1980.0,False,muggle,blue,blond,,,,,False,False,Harry Melling,True
+Boa constrictor,['A Brazilian Boa Constrictor'],,snake,,,,,False,,beady,,,,,,False,False,,True
+Lily Potter,[],Geraldine Somerville,human,female,Gryffindor,30-01-1960,1960.0,True,muggleborn,green,,,,,,False,False,Geraldine Somerville,False
+James Potter,['Prongs'],Adrian Rawlins,human,male,Gryffindor,27-03-1960,1960.0,True,pure-blood,,black,,,,stag,False,False,Adrian Rawlins,False
+Albus Dumbledore,['Professor Dumbledore'],Richard Harris,human,male,Gryffindor,,1881.0,True,half-blood,blue,silver,,,,Phoenix,False,True,Richard Harris,False
+Fawkes,[],,phoenix,male,,,,False,,black,red,,,,,False,False,,True
+Madam Pomfrey,['Poppy Pomfrey'],Gemma Jones,human,female,,,,True,,,,,,,,False,True,Gemma Jones,True
+Mrs Figg,['Arabella Doreen Figg'],Kathryn Hunter,human,female,,,,False,squib,,,,,,,False,False,Kathryn Hunter,True
+Marge Dursley,"['Marjorie Eileen Dursley', 'Aunt Marge', 'Auntie Marge', 'Margie']",Pam Ferris,human,female,,,,False,muggle,,,,,,,False,False,Pam Ferris,True
+Ripper,[],,dog,male,,,,False,,black,,,,,,False,False,,True
+Yvonne,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Piers Polkiss,[],Jason Boyd,human,male,,,,False,muggle,,,,,,,False,False,Jason Boyd,True
+Dennis,[],Christopher Rithin,human,male,,,,False,muggle,,,,,,,False,False,Christopher Rithin,True
+Malcolm,[],Richard Macklin,human,male,,,,False,muggle,,,,,,,False,False,Richard Macklin,True
+Gordon,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Miranda Gaushawk,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bathilda Bagshot,[],,human,female,,,,True,,,,,,,,False,False,,False
+Adalbert Waffling,[],,human,male,,,,True,,,,,,,,False,False,,False
+Emeric Switch,[],,human,male,,,,True,,,,,,,,False,False,,False
+Phyllida Spore,['Dame Phyllida Spore'],,human,female,,,,True,,,,,,,,False,False,,False
+Arsenius Jigger,[],,human,male,,,,True,,,,,,,,False,False,,False
+Newt Scamander,['Newton Artemis Fido Scamander'],Eddie Redmayne,human,male,Hufflepuff,24-02-1897,1897.0,True,,hazel,brown,,,,,False,False,Eddie Redmayne,True
+Quentin Trimble,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tom,[],Derek Deadman,human,male,,,,True,,,,,,,,False,False,Derek Deadman,True
+Doris Crockford,[],Nina Young,human,female,,,,True,,,,,,,,False,False,Nina Young,True
+Quirinus Quirrel,['Professor Quirrel'],Ian Hart,human,male,,,,True,,,,,,,,False,True,Ian Hart,False
+Griphook,[],Verne Troyer,goblin,male,,,,False,,,,,,,,False,False,Verne Troyer,False
+Madam Malkin,[],,human,female,,,,True,,,,,,,,False,False,,True
+Vindictus Viridian,[],,human,male,,,,True,,,,,,,,False,False,,False
+Garrick Ollivander,[],John Hurt,human,male,,,,True,,"pale, silvery",,,,,,False,False,John Hurt,True
+Hedwig,[],Gizmo,owl,female,,,,False,,amber,white,,,,,False,False,Gizmo,False
+Trevor,[],,toad,male,,,,False,,black,,,,,,False,False,,True
+Hermes,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Errol,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Pigwidgeon,"['Pig', 'Piggy']",,owl,male,,,,False,,,grey,,,,,False,False,,True
+Molly Weasley,"['Molly Prewett', 'Mollywabbles']",Julie Walters,human,female,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Julie Walters,True
+Percy Weasley,"['Perce', 'Percy Ignatius Weasley', 'Weatherby']",Chris Rankin,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Chris Rankin,True
+Fred Weasley,[],James Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,James Phelps,False
+George Weasley,[],Oliver Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Oliver Phelps,True
+Lee Jordan,[],Luke Youngblood,human,male,Gryffindor,,,True,,,,,,,,True,False,Luke Youngblood,True
+Bill Weasley,['William Arthur Weasley'],Richard Fish,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Richard Fish,True
+Charlie Weasley,['Charles Weasley'],Alex Crockford,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Alex Crockford,True
+Fat Friar,[],Simon Fisher-Becker,ghost,male,Hufflepuff,,,True,,,,,,,,False,False,Simon Fisher-Becker,False
+Peeves,[],,poltergeist,male,,,,True,,,,,,,,False,False,,False
+Hannah Abbott,[],Charlotte Skeoch,human,female,Hufflepuff,,,True,half-blood,,blonde,,,,,True,False,Charlotte Skeoch,True
+Susan Bones,[],Eleanor Columbus,human,female,Hufflepuff,,,True,,,,,,,,True,False,Eleanor Columbus,True
+Terry Boot,[],Kevin Lee Yi,human,male,Ravenclaw,,,True,,,,,,,,True,False,Kevin Lee Yi,True
+Mandy Brocklehurst,[],Christina Petrou,human,female,Ravenclaw,,,True,,,,,,,,True,False,Christina Petrou,True
+Lavender Brown,[],Kathleen Cauley,human,female,Gryffindor,,,True,,,,,,,,True,False,Kathleen Cauley,True
+Millicent Bulstrode,[],Helen Stuart,human,female,Slytherin,,,True,,,,,,,,True,False,Helen Stuart,True
+Justin Finch-Fletchley,[],Edward Randell,human,male,Hufflepuff,,,True,muggleborn,,,,,,,True,False,Edward Randell,True
+Seamus Finnigan,"[""O'Flaherty"", 'Seamus Finnegan']",Devon Murray,human,male,Gryffindor,,,True,half-blood,,sandy,,,,,True,False,Devon Murray,True
+Mrs Finnigan,[],,human,female,,,,True,,,sandy,,,,,False,False,,True
+Mr Finnigan,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Morag MacDougal,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lily Moon,[],,human,female,,,,True,,,,,,,,True,False,,True
+Theodore Nott,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Mr Nott,[],Philip Rham,human,male,,,,True,pure-blood,,,,,,,True,False,Philip Rham,True
+Pansy Parkinson,[],Genevieve Gaunt,human,female,Slytherin,,,True,,,,,,,,True,False,Genevieve Gaunt,True
+Parvati Patil,[],Sitara Shah,human,female,Gryffindor,,,True,,,,,,,,True,False,Sitara Shah,True
+Padma Patil,[],Sharon Sandhu,human,female,Ravenclaw,,,True,,,,,,,,True,False,Sharon Sandhu,True
+Sally-Anne Perks,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lisa Turpin,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Blaise Zabini,[],Louis Cordice,human,male,Slytherin,,,True,,,,,,,,True,False,Louis Cordice,True
+Nearly Headless Nick,"['Sir Nicholas de Mimsy-Porpington', 'Sir Nicholas', 'Nick']",John Cleese,ghost,male,Gryffindor,,,True,,,,,,,,False,False,John Cleese,False
+Bloody Baron,[],Terence Bayler,ghost,male,Slytherin,,,True,,,,,,,,False,False,Terence Bayler,False
+The Wailing Widow,[],,ghost,female,,,,True,,,,,,,,False,False,,False
+Fat Lady,[],Elizabeth Spriggs,human,female,,,,True,,,,,,,,False,False,Elizabeth Spriggs,False
+Pomona Sprout,['Professor Sprout'],Miriam Margolyes,human,female,Hufflepuff,,,True,,,,,,,,False,True,Miriam Margolyes,True
+Cuthbert Binns,['Professor Binns'],,ghost,male,,,,True,,,,,,,,False,True,,False
+Emeric the Evil,[],,human,male,,,,True,,,,,,,,False,False,,False
+Uric the Oddball,[],,human,male,,,,True,,,,,,,,False,False,,False
+Filius Flitwick,['Professor Flitwick'],Warwick Davis,human,male,Ravenclaw,,,True,,,,,,,,False,True,Warwick Davis,True
+Madam Hooch,['Rolanda Hooch'],Zoë Wanamaker,human,female,,,,True,,yellow,grey,,,,,False,True,Zoë Wanamaker,True
+Oliver Wood,[],Sean Biggerstaff,human,male,,,,True,,,,,,,,True,False,Sean Biggerstaff,True
+Gregory the Smarmy,[],,human,male,,,,True,,,,,,,,False,False,,False
+Wizard Baruffio,[],,human,male,,,,True,,,,,,,,False,False,,False
+Angelina Johnson,[],Danielle Tabor,human,female,Gryffindor,,,True,,,,,,,,True,False,Danielle Tabor,True
+Marcus Flint,[],Jamie Yeates,human,male,Slytherin,,,True,,,,,,,,True,False,Jamie Yeates,True
+Alicia Spinet,[],Leilah Sutherland,human,female,Gryffindor,,,True,,,,,,,,True,False,Leilah Sutherland,True
+Katie Bell,[],Emily Dale,human,female,Gryffindor,,,True,,,,,,,,True,False,Emily Dale,True
+Adrian Pucey,[],Scot Fearn,human,male,Slytherin,,,True,,,,,,,,True,False,Scot Fearn,True
+Miles Bletchley,[],David Churchyard,human,male,Slytherin,,,True,,,,,,,,True,False,David Churchyard,True
+Terence Higgs,[],Will Theakston,human,male,Slytherin,,,True,,,,,,,,True,False,Will Theakston,True
+Fang,[],Hugo,dog,male,,,,False,,,black,,,,,False,False,Hugo,True
+Fluffy,[],,three-headed dog,male,,,,False,,,,,,,,False,False,,True
+Nicolas Flamel,[],Brontis Jodorowsky,human,male,,,,True,,,,,,,,False,False,Brontis Jodorowsky,False
+Gellert Grindelwald,[],Jamie Campbell Bower,human,male,,,,True,,blue,blond,,,,,False,False,Jamie Campbell Bower,False
+Norberta,['Norbert'],,dragon,female,,,,False,,orange,,,,,,False,False,,True
+Ronan,[],,centaur,male,,,,False,,,red,,,,,False,False,,True
+Bane,[],Jason Piper,centaur,male,,,,False,,,,,,,,False,False,Jason Piper,True
+Firenze,['Professor Firenze'],Ray Fearon,centaur,male,,,,False,,blue,blond,,,,,False,True,Ray Fearon,True
+The Giant Squid,[],,cephalopod,,,,,False,,,,,,,,False,False,,True
+Murcus,['Merchieftainess Murcus'],,selkie,female,,,,False,,yellow,green,,,,,False,False,,True
+Elfrick the Eager,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Perenelle Flamel,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bertie Bott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dobby,[],Toby Jones,house-elf,male,,,,False,,green,,,,,,False,False,Toby Jones,False
+Kreacher,[],Timothy Bateson,house-elf,male,,,,False,,,white,,,,,False,False,Timothy Bateson,False
+Mr Mason,[],Jim Norton,human,male,,,,False,muggle,,,,,,,False,False,Jim Norton,True
+Mrs Mason,[],Veronica Clifford,human,female,,,,False,muggle,,,,,,,False,False,Veronica Clifford,True
+Perkins,[],,human,male,,,,True,,,white,,,,,False,False,,True
+Celestina Warbeck,[],,human,female,Gryffindor,,,True,half-blood,,,,,,,False,False,,True
+Gilderoy Lockhart,['Professor Lockhart'],Kenneth Branagh,human,male,,,,True,half-blood,blue,blond,,,,,False,True,Kenneth Branagh,True
+The Basilisk,[],,serpent,,,,,False,,yellow,,,,,,False,False,,False
+Mundungus Fletcher,['Dung'],Andy Linden,human,male,,,,True,,,ginger,,,,,False,False,Andy Linden,True
+Mr Borgin,[],Edward Tudor-Pole,human,male,,,,True,,,,,,,,False,False,Edward Tudor-Pole,True
+Mr Granger,['Wendell Wilkins'],Tom Knight,human,male,,,,False,muggle,,,,,,,False,False,Tom Knight,True
+Mrs Granger,['Monica Wilkins'],Heather Bleasdale,human,female,,,,False,muggle,,,,,,,False,False,Heather Bleasdale,True
+Dr Filibuster,[],,human,male,,,,True,,,,,,,,False,False,,True
+Colin Creevey,[],Hugh Mitchell,human,male,Gryffindor,,,True,muggleborn,,,,,,,True,False,Hugh Mitchell,False
+Gladys Gudgeon,[],,human,female,,,,True,,,,,,,,False,False,,True
+Veronica Smethley,[],,human,female,,,,True,,,,,,,,False,False,,True
+Patrick Delaney-Podmore,['Sir Patrick Delaney-Podmore'],,ghost,male,,,,True,,,,,,,,False,False,,False
+Z. Nettles,[],,human,female,,,,True,,,,,,,,False,False,,True
+D.J. Prod,['Demetrius J. Prod'],Chris Wilson,human,male,,,,True,,,,,,,,False,False,Chris Wilson,False
+Elsie Prod,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moaning Myrtle,['Myrtle Elizabeth Warren'],Shirley Henderson,ghost,female,Ravenclaw,,,True,muggleborn,,,,,,,False,False,Shirley Henderson,False
+Godric Gryffindor,[],,human,male,,,,True,,,,,,,,False,False,,False
+Rowena Ravenclaw,[],,human,female,,,,True,,,,,,,,False,False,,False
+Helga Hufflepuff,[],,human,female,,,,True,,,,,,,,False,False,,False
+Salazar Slytherin,[],,human,male,,,,True,,,,,,,,False,False,,False
+Madame Pince,['Irma Pince'],Sally Mortemore,human,female,,,,True,,,,,,,,False,True,Sally Mortemore,True
+Milicent Bullstroude,[],Helen Stuart,human,female,Slytherin,,,True,,,black,,,,,True,False,Helen Stuart,True
+Ernie Macmillan,['Ernest Macmillan'],Louis Doyle,human,male,Hufflepuff,,,True,,,blond,,,,boar,True,False,Louis Doyle,True
+Armando Dippet,['Professor Dippet'],Alfred Burke,human,male,,,,True,,,white,,,,,False,False,Alfred Burke,False
+Penelope Clearwater,['Penny'],Gemma Padley,human,female,Ravenclaw,,,True,,,,,,,,True,False,Gemma Padley,True
+Cornelius Fudge,['Minister Cornelius Oswald Fudge'],Robert Hardy,human,male,,,,True,,,grey,,,,,False,False,Robert Hardy,True
+Oblansk,['Obalonsk'],,human,male,,,,True,,,,,,,,False,False,,True
+Aragog,[],Julian Glover,acromantula,male,,,,False,,white,brown,,,,,False,False,Julian Glover,False
+Mosag,[],,acromantula,female,,,,False,,black,brown,,,,,False,False,,True
+Stanley Shunpike,['Stan'],Lee Ingleby,human,male,,,,True,,,,,,,,False,False,Lee Ingleby,True
+Ernest Prang,['Ernie'],Jimmy Gardner,human,male,,,,True,,,,,,,,False,False,Jimmy Gardner,True
+Madam Marsh,[],,human,female,,,,True,,,,,,,,False,False,,True
+Florean Fortescue,[],,human,male,,,,True,,,,,,,,False,False,,False
+Sir Cadogan,[],Paul Whitehouse,human,male,,,,True,,,,,,,,False,False,Paul Whitehouse,False
+Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",Emma Thompson,human,female,,,,True,,,,,,,,False,True,Emma Thompson,True
+Buckbeak,"['Beaky', 'Witherwings']",,hippogriff,male,,,,False,,orange,,,,,,False,False,,True
+Peter Pettigrew,"['Wormtail', 'Scabbers', 'Wormy']",Timothy Spall,human,male,Gryffindor,,,True,,,,,,,,False,False,Timothy Spall,False
+Crookshanks,[],Crackerjack,cat,male,,,,False,,yellow,ginger,,,,,False,False,Crackerjack,True
+The Trolley Witch,[],Jean Southern,human,female,,,,True,,dark,grey,,,,,False,False,Jean Southern,True
+The Sorting Hat,[],Leslie Phillips,hat,,,,,True,,,,,,,,False,False,Leslie Phillips,True
+Madam Rosmerta,[],Julie Christie,human,female,,,,True,,,,,,,,False,False,Julie Christie,True
+Derek,[],,human,male,,,,True,,,,,,,,True,False,,True
+Septima Vector,['Professor Vector'],,human,female,,,,True,,,,,,,,False,True,,True
+Cassius Warrington,[],Ashley Hull,human,male,Slytherin,,,True,,,,,,,,True,False,Ashley Hull,True
+Graham Montague,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Peregrine Derrick,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Lucian Bole,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Walden Macnair,[],Peter Best,human,male,Slytherin,,,True,,,black,,,,,False,False,Peter Best,True
+Franc Bryce,[],Eric Sykes,human,male,,,,False,muggle,,,,,,,False,False,Eric Sykes,False
+Dot,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Bertha Jorkins,[],,human,female,,,,True,,,,,,,,False,False,,False
+Barty Crouch,['Bartemius Crouch Senior'],Roger Lloyd-Pack,human,male,,,,True,pure-blood,,,,,,,False,False,Roger Lloyd-Pack,False
+Barty Crouch Junior,['Bartemius Crouch Junior'],David Tennant,human,male,,,,True,,,blond,,,,,False,False,David Tennant,True
+Mrs Crouch,[],,human,female,,,,True,,,,,,,,False,False,,False
+Ludo Bagman,['Ludovic Bagman'],,human,male,,,,True,,blue,blond,,,,,False,False,,True
+Amos Diggory,[],Jeff Rawle,human,male,,,,True,,,brown,,,,,False,False,Jeff Rawle,True
+Mrs Diggory,[],,human,female,,,,True,,,,,,,,False,False,,True
+Mr Roberts,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Roberts,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Kevin,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mr Payne,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Basil,[],,human,male,,,,True,,,,,,,,False,False,,True
+Archie Aymslowe,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cuthbert Mockridge,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gilbert Wimple,[],,human,male,,,,True,,,,,,,,False,False,,True
+Arnold Peasegood,[],,human,male,,,,True,,,,,,,,False,False,,True
+Broderick Bode,[],,human,male,,,,True,,,,,,,,False,False,,False
+Saul Croaker,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ali Bashir,[],,human,male,,,,True,,,,,,,,False,False,,True
+Victor Krum,[],Stanislav Ianevski,human,male,,,,True,,dark,dark,,,,,False,False,Stanislav Ianevski,True
+Winky,[],,house-elf,female,,,,False,,,,,,,,False,False,,True
+Narcissa Malfoy,['Cissy'],Helen McCrory,human,female,,,,True,pure-blood,blue,blonde,,,,,False,False,Helen McCrory,True
+Vasily Dimitrov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Clara Ivanova,[],,human,female,,,,True,,,,,,,,False,False,,True
+Lev Zograf,[],,human,male,,,,True,,,,,,,,False,False,,True
+Alexei Levski,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pyotr Vulchanov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ivan Volkov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Connolly,[],,human,male,,,,True,,,,,,,,False,False,,True
+Barry Ryan,[],,human,male,,,,True,,,,,,,,False,False,,True
+Troy,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mullet,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moran,[],,human,female,,,,True,,,,,,,,False,False,,True
+Quigley,[],,human,male,,,,True,,,,,,,,False,False,,True
+Aidan Lynch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Hassan Mostafa,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dennis Creevey,[],,human,male,,,,True,muggleborn,,brown,,,,,True,False,,True
+Aurora Sinistra,['Professor Sinistra'],,human,female,,,,True,,,,,,,,False,True,,True
+Stewart Ackerley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Malcolm Baddock,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eleanor Branstone,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Owen Cauldwell,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Emma Dobbs,[],,human,female,,,,True,,,,,,,,True,False,,True
+Laura Madley,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Natalie McDonald,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Graham Pritchard,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Orla Quirke,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Kevin Whitby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Eloise Midgen,[],Samantha Clinch,human,female,Gryffindor,,,True,,,,,,,,True,False,Samantha Clinch,True
+Alastor Moody,"['Professor Moody', 'Mad-Eye']",Brendan Gleeson,human,male,,,,True,pure-blood,dark,grey,,,,,False,True,Brendan Gleeson,False
+Madame Maxime,['Olympe Maxime'],Frances de la Tour,half-giant,female,,,,True,,,,,,,,False,False,Frances de la Tour,True
+Igor Karkaroff,[],Predrag Bjelac,human,male,,,,True,,blue,silver,,,,,False,False,Predrag Bjelac,False
+Poliakoff,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fawcett,[],Alex Argenti,human,female,Ravenclaw,,,True,,,,,,,,True,False,Alex Argenti,True
+Summers,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Fleur Delacour,[],Clémence Poésy,human,female,,,,True,,blue,blonde,,,,,False,False,Clémence Poésy,True
+Gregorovic,['Mykew Gregorovitch'],Rade Šerbedžija,human,male,,,,True,,,white,,,,,False,False,Rade Šerbedžija,False
+Rita Skeeter,[],Miranda Richardson,human,female,,,,True,,,blonde,,,,,False,False,Miranda Richardson,True
+Stebbins,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],Apple Brook,human,female,,,,True,,,grey,,,,,False,True,Apple Brook,True
+Bozo,[],Peter O'Farrell,human,male,,,,True,,,,,,,,False,False,Peter O'Farrell,True
+Evan Rosier,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Wilkes,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Avery,[],Richard Rosson,human,male,Slytherin,,,True,,,,,,,,False,False,Richard Rosson,True
+Antonin Dolohov,[],Arben Bajraktaraj,human,male,,,,True,,,dark,,,,,False,False,Arben Bajraktaraj,True
+Travers,[],Tav MacDougall,human,male,,,,True,,,grey,,,,,False,False,Tav MacDougall,True
+Marlene McKinnon,[],,human,female,,,,True,,,,,,,,False,False,,False
+Mulciber,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,True
+Augustus Rookwood,[],Richard Trinder,human,male,,,,True,,,,,,,,False,False,Richard Trinder,True
+Frank Longbottom,[],James Payton,human,male,,,,True,pure-blood,,,,,,,False,False,James Payton,True
+Alice Longbottom,[],Lisa Wood,human,female,,,,True,pure-blood,,white,,,,,False,False,Lisa Wood,True
+Augusta Longbottom,[],Leila Hoffman,human,female,,,,True,pure-blood,,,,,,,False,False,Leila Hoffman,True
+Violet,[],,human,female,,,,True,,,,,,,,False,False,,False
+Apollyon Pringle,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ogg,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mafalda Hopkirk,[],Jessica Hynes,human,female,,,,True,,hazel,grey,,,,,False,False,Jessica Hynes,True
+Nymphadora Tonks,"['Dora', 'Nymphadora Lupin']",Natalia Tena,human,female,Hufflepuff,,,True,,,brown,,,,,False,False,Natalia Tena,False
+Elphias Doge,[],Peter Cartwright,human,male,,,,True,pure-blood,blue,silver,,,,,False,False,Peter Cartwright,True
+Dedalus Diggle,[],David Brett,human,male,,,,True,,,,,,,,False,False,David Brett,True
+Sturgis Podmore,[],,human,male,,,,True,,,blond,,,,,False,False,,True
+Hestia Jones,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Ragnok,[],,goblin,male,,,,False,,,,,,,,False,False,,True
+Alphard Black,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,False
+Regulus Black,['Regulus Arcturus Black'],Tom Moorcroft,human,male,Slytherin,,,True,pure-blood,,black,,,,,False,False,Tom Moorcroft,False
+Phineas Nigelus Black,['Professor Phineas Nigellus Black'],John Atterbury,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,John Atterbury,False
+Araminta Meliflua Black,[],,human,female,Slytherin,,,True,,,,,,,,False,False,,False
+Elladora Black,[],,human,female,,,,True,pure-blood,,,,,,,False,False,,False
+Mrs Black,['Walburga Black'],,human,female,,,,True,pure-blood,brown,brown,,,,,False,False,,False
+Andromeda Tonks,[],,human,female,Slytherin,,,True,pure-blood,,brown,,,,,False,False,,True
+Ted Tonks,['Edward'],,human,female,,,,True,muggleborn,,blond,,,,,False,False,,False
+Rodolphus Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Rabastan Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Eric Munch,['Eric'],,human,male,,,,True,,,,,,,,False,False,,True
+Bob,[],Nicholas Blane,human,male,,,,True,,,,,,,,False,False,Nicholas Blane,True
+Bengie Fenwick,[],,human,male,,,,True,,,,,,,,False,False,,False
+Edgar Bones,[],Cliff Lanning,human,male,,,,True,,,,,,,,False,False,Cliff Lanning,False
+Amelia Bones,[],Sian Thomas,human,female,,,,True,,,grey,,,,,False,False,Sian Thomas,True
+Caradoc Dearborn,[],,human,male,,,,True,,,,,,,,False,False,,False
+Gideon Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Fabian Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Aberforth Dumbledore,[],Jim McManus,human,male,Gryffindor,,,True,half-blood,blue,,,,,goat,False,False,Jim McManus,True
+Dorcas Meadowes,[],,human,female,,,,True,,,,,,,,False,False,,False
+Algie Longbottom,[],,human,male,,,,True,,,,,,,,False,False,,True
+Anthony Goldstein,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Doris Purkiss,[],,human,male,,,,True,,,,,,,,False,False,,True
+Euan Abercrombie,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Rose Zeller,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Patricia Stimpson,[],,human,female,,,,True,,,,,,,,True,False,,True
+Kenneth Towler,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Vicky Frobisher,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Geoffrey Hooper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Cassandra Trelawney,[],,human,female,,,,True,,,,,,,,False,False,,False
+Michael Corner,[],Ryan Nelson,human,male,Ravenclaw,,,True,,,,,,,,True,False,Ryan Nelson,True
+Zacharias Smith,[],Nick Shirm,human,male,Ravenclaw,,,True,,,blond,,,,,True,False,Nick Shirm,True
+Barnabas the Barmy,[],,human,male,,,,True,,,,,,,,True,False,,False
+Karkus,[],,giant,male,,,,False,,,,,,,,False,False,,False
+Golgomath,[],,giant,male,,,,False,,,,,,,,False,False,,True
+Fridwulfa,[],,giant,female,,,,False,,,,,,,,False,False,,False
+Andrew Kirke,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Jack Sloper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Everard,['Professor Everard'],Sam Beazley,human,male,,,,True,,,black,,,,,False,False,Sam Beazley,False
+Dilys Derwent,['Professor Dilys Derwent'],,human,female,,,,True,,,silver,,,,,False,False,,False
+Hippocrates Smethwyck,[],,human,male,,,,True,,,,,,,,False,False,,True
+Augustus Pye,[],,human,male,,,,True,,,,,,,,False,False,,True
+Urquhart Rackharrow,[],,human,male,,,,True,,,,,,,,False,False,,False
+Willy Widdershins,[],,human,male,,,,True,,,,,,,,False,False,,True
+Agnes,[],,human,female,,,,True,,,,,,,,False,False,,True
+Miriam Strout,[],,human,female,,,,True,,,,,,,,False,False,,True
+Madam Puddifoot,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Summerby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Marietta Edgecombe,[],,human,female,Ravenclaw,,,True,,,blonde,,,,,True,False,,True
+Madam Edgecombe,[],,human,female,,,,True,,,,,,,,False,False,,True
+John Dawlish,[],Richard Leaf,human,male,,,,True,,,grey,,,,,False,False,Richard Leaf,True
+Williamson,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bradley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Roger Davies,[],Henry Lloyd-Hughes,human,male,Ravenclaw,,,True,,,,,,,,True,False,Henry Lloyd-Hughes,True
+Grawp,[],Tony Maudsley,giant,male,,,,False,,green,brown,,,,,False,False,Tony Maudsley,True
+Griselda Marchbanks,['Madam Professor Griselda Marchbanks'],,human,female,,,,True,,,,,,,,False,False,,True
+Eddie Carmichael,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Daphne Greengrass,[],,human,female,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Tofty,['Professor Tofty'],,human,male,,,,True,,brown,grey,,,,,False,False,,True
+Tiberius Ogden,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pierre Bonaccord,[],,human,male,,,,True,,,,,,,,False,False,,True
+Stubby Boardman,['Sirius Black'],,human,male,,,,True,,,,,,,,False,False,,True
+Magorian,[],Michael Wildman,centaur,male,,,,True,,,black,,,,,False,False,Michael Wildman,True
+Emmeline Vance,[],Brigitte Millar,human,female,,,,True,,,,,,,,False,False,Brigitte Millar,False
+Herbert Chorley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+The British Prime Minister,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Ulick Gamp,[],,human,male,,,,True,,yellow,silver,,,,,False,False,,False
+Rufus Scrimgeour,[],Bill Nighy,human,male,,,,True,,yellowish,tawny,,,,,False,False,Bill Nighy,False
+Corban Yaxley,[],Peter Mullan,human,male,,,,True,,blue,blond,,,,,False,False,Peter Mullan,True
+Fenrir Greyback,[],Dave Legeno,werewolf,male,,,,True,,,grey,,,,,False,False,Dave Legeno,True
+Dirk Cresswell,[],,human,male,,,,True,muggleborn,,,,,,,False,False,,False
+Barnabas Cuffe,[],Roger C. Bailey,human,male,,,,True,,,,,,,,False,False,Roger C. Bailey,True
+Ambrosius Flume,[],,human,male,,,,True,,,bald,,,,,False,False,,True
+Gwenog Jones,[],,human,female,,,,True,,brown,brown,,,,,False,False,,True
+Arkie Philpott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Verity,[],,human,female,,,,True,,,blonde,,,,,False,False,,True
+Arnold,[],,pygmy puff,male,,,,False,,,purple,,,,,False,False,,True
+Romilda Vane,[],Anna Shaffer,human,female,Gryffindor,,,True,,dark,black,,,,,True,False,Anna Shaffer,True
+Cormac McLaggen,[],Freddie Stroma,human,male,Gryffindor,,,True,,,,,,,,True,False,Freddie Stroma,True
+Marcus Belby,[],Robert Knox,human,male,Ravenclaw,,,True,,,,,,,,True,False,Robert Knox,True
+Damocles Belby,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tiberius,[],,human,male,,,,True,,,,,,,,True,False,,False
+Bertie Higgs,[],,human,male,,,,True,,,,,,,,False,False,,False
+Proudfoot,[],,human,male,,,,True,,,,,,,,False,False,,True
+Savage,[],,human,male,,,,True,,,,,,,,False,False,,True
+Humphrey Belcher,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bob Ogden,[],,human,male,,,,True,,,,,,,,False,False,,False
+Morfin Gaunt,[],,human,male,,,,True,pure-blood,dark,,,,,,False,False,,False
+Marvolo Gaunt,[],,human,male,,,,True,pure-blood,brown,grey,,,,,False,False,,False
+Merope Gaunt,['Merope Riddle'],,human,female,,,,True,pure-blood,,dull,,,,,False,False,,False
+Cecilia,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Tom Riddle,['Tom Riddle Senior'],,human,male,,,,False,muggle,,dark,,,,,False,False,,False
+Demelza Robins,[],Katy Huxley-Golden,human,female,Gryffindor,,,True,,,,,,,,True,False,Katy Huxley-Golden,True
+Jimmy Peakes,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Ritchie Coote,[],Ashley Virgil,human,male,Gryffindor,,,True,,,,,,,,True,False,Ashley Virgil,True
+Melinda Bobbin,[],,human,female,,,,True,,,,,,,,True,False,,True
+Leanne,[],Isabella Laughland,human,female,Hufflepuff,,,True,,,,,,,,True,False,Isabella Laughland,True
+Caractacus Burke,[],,human,male,,,,True,,,,,,,,False,False,,False
+Billy Stubbs,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Amy Benson,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Dennis Bishop,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Cole,[],Amelda Brown,human,female,,,,False,muggle,,,,,,,False,False,Amelda Brown,True
+Eric Whalley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Vaisey,[],,human,male,Slytherin,,,True,,,dark,,,,,True,False,,True
+Harper,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Urquhart,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eldred Worple,[],Paul Ritter,human,male,,,,True,,,,,,,,False,False,Paul Ritter,True
+Sanguini,[],Charlie Bennison,vampire,male,,,,True,,,dark,,,,,False,False,Charlie Bennison,True
+Gawain Robards,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fergus,[],,human,male,,,,True,,,,,,,,False,False,,True
+Wilkie Twycross,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cadwallader,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Galatea Merrythought,[],,human,female,,,,True,,,,,,,,False,True,,False
+Hepzibah Smith,[],,human,female,,,,True,,,,,,,,False,False,,False
+Hokey,[],,house-elf,female,,,,False,,,,,,,,False,False,,False
+Octavius Pepper,[],,human,male,,,,False,,,,,,,,False,False,,False
+Bertram Aubrey,[],,human,male,,,,False,,,,,,,,False,False,,False
+Eileen Prince,[],,human,female,,,,False,pure-blood,,,,,,,False,False,,False
+Amycus Carrow,[],Ralph Ineson,human,male,Slytherin,,,True,,,,,,,,False,False,Ralph Ineson,True
+Alecto Carrow,[],Suzie Toase,human,female,Slytherin,,,True,,,,,,,,False,False,Suzie Toase,True
+Gibbon,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tobias Snape,[],,human,male,,,,False,,,,,,,,False,False,,True
+Pius Thicknesse,[],Guy Henry,human,male,,,,True,,,black,,,,,False,False,Guy Henry,True
+Wakanda,[],Harriet Thorpe,human,female,,,,True,,,blonde,,,,,False,False,Harriet Thorpe,True
+Charity Burbage,[],Carolyn Pickles,human,female,,,,True,,,,,,,,False,True,Carolyn Pickles,False
+Percival Dumbledore,[],,human,male,,,,True,,,,,,,,False,False,,False
+Kendra Dumbledore,[],,human,female,,,,True,muggleborn,dark,black,,,,,False,False,,False
+Ariana Dumbledore,[],Hebe Beardsall,human,female,,,,True,half-blood,,,,,,,False,False,Hebe Beardsall,False
+Betty Braithwaite,[],,human,female,,,,True,,,,,,,,False,False,,True
+Apolline Delacour,[],,half-human,female,,,,True,half-veela,,blonde,,,,,False,False,,True
+Gabrielle Delacour,[],Angelica Mandy,human,female,,,,True,quarter-veela,,blonde,,,,,False,False,Angelica Mandy,True
+Monsieur Delacour,[],,human,male,,,,True,,,black,,,,,False,False,,True
+Dragomir Gorgovitch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Xenophilius Lovegood,[],Rhys Ifans,human,male,Ravenclaw,,,True,,,white,,,,,False,False,Rhys Ifans,True
+Pandora Lovegood,[],,human,female,Ravenclaw,,,True,,,,,,,,False,False,,False
+Muriel,"['Aunt Muriel', 'Auntie Muriel']",Matyelok Gibbs,human,female,,,,True,,,grey,,,,,False,False,Matyelok Gibbs,True
+Bilius,['Uncle Bilius'],,human,male,,,,True,,,,,,,,False,False,,False
+Thorfinn Rowle,[],Rod Hunt,human,male,,,,True,,,blond,,,,,False,False,Rod Hunt,True
+Reg Cattermole,['Reginald Cattermole'],Steffan Rhodri,human,male,,,,True,,,,,,,,False,False,Steffan Rhodri,True
+Albert Runcorn,[],David O'Hara,human,male,,,,True,,,black,,,,,False,False,David O'Hara,True
+Arkie Alderton,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mary Cattermole,['Mary Elizabeth Cattermole'],Kate Fleetwood,human,female,,,,True,muggleborn,,,,,,,False,False,Kate Fleetwood,True
+Maisie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Ellie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Alfred Cattermole,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gornuk,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Bowman Wright,[],,human,male,,,,True,,,,,,,,False,False,,False
+Ivor Dillonsby,[],,human,male,,,,True,,,,,,,,False,False,,True
+Enid Smeek,[],,human,female,,,,True,,,,,,,,False,False,,True
+Egbert the Egregious,[],,human,male,,,,True,,,,,,,,False,False,,False
+Godelot,[],,human,male,,,,True,,,,,,,,False,False,,False
+Hereward,[],,human,male,,,,True,,,,,,,,False,False,,False
+Loxias,[],,human,male,,,,True,,,,,,,,False,False,,False
+Barnabas Deverill,[],,human,male,,,,True,,,,,,,,False,False,,False
+Arcus,[],,human,male,,,,True,,,,,,,,False,False,,False
+Livius,[],,human,male,,,,True,,,,,,,,False,False,,False
+Antioch Peverell,['First Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Cadmus Peverell,['Second Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Ignotus Peverell,['Third Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Selwyn,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,True
+Scabior,[],Nick Moran,human,male,Slytherin,,,True,,,,,,,,False,False,Nick Moran,True
+Ragnuk the First,['King Ragnuk the First'],,goblin,male,,,,False,,,,,,,,False,False,,False
+Ted Lupin,['Edward Remus Teddy Lupin'],Luke Newberry,human,male,Hufflepuff,,,True,half-blood,,,,,,,False,False,Luke Newberry,True
+Marius,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bogrod,[],Jon Key,goblin,male,,,,False,,black,white,,,,,False,False,Jon Key,True
+The Grey Lady,['Helena Ravenclaw'],Nina Young,ghost,female,,,,True,,,,,,,,False,False,Nina Young,False
+Dexter Fortescue,['Professor Dexter Fortescue'],,human,male,,,,True,,,,,,,,False,False,,False
+Lily Potter,['Lily Luna Potter'],Daphne de Beistegui,human,female,Gryffindor,,,True,half-blood,,red,,,,,False,False,Daphne de Beistegui,True
+James Potter,['James Sirius Potter'],Will Dunn,human,male,Gryffindor,,,True,half-blood,,,,,,,True,False,Will Dunn,True
+Albus Severus Potter,['Al'],Arthur Bowen,human,male,Slytherin,,,True,half-blood,green,black,,,,,True,False,Arthur Bowen,True
+Rose Weasley,[],Helena Barlow,human,female,Gryffindor,,,True,half-blood,,red,,,,,True,False,Helena Barlow,True
+Hugo Weasley,[],Ryan Turner,human,male,,,,True,half-blood,,brown,,,,,True,False,Ryan Turner,True
+Scorpius Malfoy,['Scorpius Hyperion Malfoy'],Bertie Gilbert,human,male,Slytherin,,,True,pure-blood,grey,blond,,,,,True,False,Bertie Gilbert,True
+Victoire Weasley,[],,human,female,,,,True,,,blonde,,,,,True,False,,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,,,,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,,,,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,,,,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,,,,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,,,,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,,,,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,,,,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,,,,Non-Corporeal,True,False,Matthew Lewis,True
+Luna Lovegood,['Loony Lovegood'],Evanna Lynch,human,female,Ravenclaw,13-02-1981,1981.0,True,,silver,blonde,,,,hare,True,False,Evanna Lynch,True
+Ginny Weasley,[],Bonnie Wright,human,female,Gryffindor,11-08-1981,1981.0,True,pure-blood,brown,red,,,,horse,True,False,Bonnie Wright,True
+Sirius Black,"['Padfoot', 'Snuffles']",Gary Oldman,human,male,Gryffindor,03-11-1959,1959.0,True,pure-blood,grey,black,,,,hare,False,False,Gary Oldman,False
+Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",David Thewlis,werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,,,,wolf,False,True,David Thewlis,False
+Arthur Weasley,[],Mark Williams,human,male,Gryffindor,06-02-1950,1950.0,True,pure-blood,blue,red,,,,weasel,False,False,Mark Williams,True
+Bellatrix Lestrange,['Bella'],Helena Bonham Carter,human,female,Slytherin,,1951.0,True,pure-blood,brown,black,,,,,False,False,Helena Bonham Carter,False
+Lord Voldemort,"['Tom Riddle', 'Tom Marvolo Riddle', 'You-Know-Who', 'He Who Must Not Be Named', 'the Dark Lord', 'the Heir of Slytherin']",Ralph Fiennes,human,male,Slytherin,31-12-1926,1926.0,True,half-blood,Scarlet,bald,,,,,False,False,Ralph Fiennes,False
+Horace Slughorn,[],Jim Broadbent,human,male,Slytherin,,,True,pure-blood,green,blonde,,,,,False,True,Jim Broadbent,True
+Kingsley Shacklebolt,[],George Harris,human,male,,,,True,pure-blood,brown,brown,,,,lynx,False,False,George Harris,True
+Dolores Umbridge,[],Imelda Staunton,human,female,Slytherin,,,True,half-blood,brown,grey,,,,persian cat,False,True,Imelda Staunton,True
+Lucius Malfoy,[],Jason Isaacs,human,male,Slytherin,,1954.0,True,pure-blood,grey,blonde,,,,,False,False,Jason Isaacs,True
+Vincent Crabbe,[],Jamie Waylett,human,male,Slytherin,,,True,pure-blood,black,black,,,,,True,False,Jamie Waylett,False
+Mr Crabbe,[],Paschal Friel,human,male,,,,True,pure-blood,,,,,,,False,False,Paschal Friel,False
+Gregory Goyle,[],Josh Herdman,human,male,Slytherin,,,True,pure-blood,,brown,,,,,True,False,Josh Herdman,True
+Mr Goyle,[],Alex Palmer,human,male,,,,True,pure-blood,,,,,,,True,False,Alex Palmer,True
+Mrs Norris,[],"Maxime, Alanis and Tommy the cats",cat,female,,,,False,,yellow,brown,,,,,False,True,"Maxime, Alanis and Tommy the cats",True
+Argus Filch,[],David Bradley,human,male,,,,False,squib,,grey,,,,,False,True,David Bradley,True
+Vernon Dursley,[],Richard Griffiths,human,male,,,,False,muggle,,,,,,,False,False,Richard Griffiths,True
+Petunia Dursley,[],Fiona Shaw,human,female,,,,False,muggle,,blonde,,,,,False,False,Fiona Shaw,True
+Dudley Dursley,[],Harry Melling,human,male,,23-6-1980,1980.0,False,muggle,blue,blond,,,,,False,False,Harry Melling,True
+Boa constrictor,['A Brazilian Boa Constrictor'],,snake,,,,,False,,beady,,,,,,False,False,,True
+Lily Potter,[],Geraldine Somerville,human,female,Gryffindor,30-01-1960,1960.0,True,muggleborn,green,,,,,,False,False,Geraldine Somerville,False
+James Potter,['Prongs'],Adrian Rawlins,human,male,Gryffindor,27-03-1960,1960.0,True,pure-blood,,black,,,,stag,False,False,Adrian Rawlins,False
+Albus Dumbledore,['Professor Dumbledore'],Richard Harris,human,male,Gryffindor,,1881.0,True,half-blood,blue,silver,,,,Phoenix,False,True,Richard Harris,False
+Fawkes,[],,phoenix,male,,,,False,,black,red,,,,,False,False,,True
+Madam Pomfrey,['Poppy Pomfrey'],Gemma Jones,human,female,,,,True,,,,,,,,False,True,Gemma Jones,True
+Mrs Figg,['Arabella Doreen Figg'],Kathryn Hunter,human,female,,,,False,squib,,,,,,,False,False,Kathryn Hunter,True
+Marge Dursley,"['Marjorie Eileen Dursley', 'Aunt Marge', 'Auntie Marge', 'Margie']",Pam Ferris,human,female,,,,False,muggle,,,,,,,False,False,Pam Ferris,True
+Ripper,[],,dog,male,,,,False,,black,,,,,,False,False,,True
+Yvonne,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Piers Polkiss,[],Jason Boyd,human,male,,,,False,muggle,,,,,,,False,False,Jason Boyd,True
+Dennis,[],Christopher Rithin,human,male,,,,False,muggle,,,,,,,False,False,Christopher Rithin,True
+Malcolm,[],Richard Macklin,human,male,,,,False,muggle,,,,,,,False,False,Richard Macklin,True
+Gordon,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Miranda Gaushawk,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bathilda Bagshot,[],,human,female,,,,True,,,,,,,,False,False,,False
+Adalbert Waffling,[],,human,male,,,,True,,,,,,,,False,False,,False
+Emeric Switch,[],,human,male,,,,True,,,,,,,,False,False,,False
+Phyllida Spore,['Dame Phyllida Spore'],,human,female,,,,True,,,,,,,,False,False,,False
+Arsenius Jigger,[],,human,male,,,,True,,,,,,,,False,False,,False
+Newt Scamander,['Newton Artemis Fido Scamander'],Eddie Redmayne,human,male,Hufflepuff,24-02-1897,1897.0,True,,hazel,brown,,,,,False,False,Eddie Redmayne,True
+Quentin Trimble,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tom,[],Derek Deadman,human,male,,,,True,,,,,,,,False,False,Derek Deadman,True
+Doris Crockford,[],Nina Young,human,female,,,,True,,,,,,,,False,False,Nina Young,True
+Quirinus Quirrel,['Professor Quirrel'],Ian Hart,human,male,,,,True,,,,,,,,False,True,Ian Hart,False
+Griphook,[],Verne Troyer,goblin,male,,,,False,,,,,,,,False,False,Verne Troyer,False
+Madam Malkin,[],,human,female,,,,True,,,,,,,,False,False,,True
+Vindictus Viridian,[],,human,male,,,,True,,,,,,,,False,False,,False
+Garrick Ollivander,[],John Hurt,human,male,,,,True,,"pale, silvery",,,,,,False,False,John Hurt,True
+Hedwig,[],Gizmo,owl,female,,,,False,,amber,white,,,,,False,False,Gizmo,False
+Trevor,[],,toad,male,,,,False,,black,,,,,,False,False,,True
+Hermes,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Errol,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Pigwidgeon,"['Pig', 'Piggy']",,owl,male,,,,False,,,grey,,,,,False,False,,True
+Molly Weasley,"['Molly Prewett', 'Mollywabbles']",Julie Walters,human,female,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Julie Walters,True
+Percy Weasley,"['Perce', 'Percy Ignatius Weasley', 'Weatherby']",Chris Rankin,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Chris Rankin,True
+Fred Weasley,[],James Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,James Phelps,False
+George Weasley,[],Oliver Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Oliver Phelps,True
+Lee Jordan,[],Luke Youngblood,human,male,Gryffindor,,,True,,,,,,,,True,False,Luke Youngblood,True
+Bill Weasley,['William Arthur Weasley'],Richard Fish,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Richard Fish,True
+Charlie Weasley,['Charles Weasley'],Alex Crockford,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Alex Crockford,True
+Fat Friar,[],Simon Fisher-Becker,ghost,male,Hufflepuff,,,True,,,,,,,,False,False,Simon Fisher-Becker,False
+Peeves,[],,poltergeist,male,,,,True,,,,,,,,False,False,,False
+Hannah Abbott,[],Charlotte Skeoch,human,female,Hufflepuff,,,True,half-blood,,blonde,,,,,True,False,Charlotte Skeoch,True
+Susan Bones,[],Eleanor Columbus,human,female,Hufflepuff,,,True,,,,,,,,True,False,Eleanor Columbus,True
+Terry Boot,[],Kevin Lee Yi,human,male,Ravenclaw,,,True,,,,,,,,True,False,Kevin Lee Yi,True
+Mandy Brocklehurst,[],Christina Petrou,human,female,Ravenclaw,,,True,,,,,,,,True,False,Christina Petrou,True
+Lavender Brown,[],Kathleen Cauley,human,female,Gryffindor,,,True,,,,,,,,True,False,Kathleen Cauley,True
+Millicent Bulstrode,[],Helen Stuart,human,female,Slytherin,,,True,,,,,,,,True,False,Helen Stuart,True
+Justin Finch-Fletchley,[],Edward Randell,human,male,Hufflepuff,,,True,muggleborn,,,,,,,True,False,Edward Randell,True
+Seamus Finnigan,"[""O'Flaherty"", 'Seamus Finnegan']",Devon Murray,human,male,Gryffindor,,,True,half-blood,,sandy,,,,,True,False,Devon Murray,True
+Mrs Finnigan,[],,human,female,,,,True,,,sandy,,,,,False,False,,True
+Mr Finnigan,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Morag MacDougal,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lily Moon,[],,human,female,,,,True,,,,,,,,True,False,,True
+Theodore Nott,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Mr Nott,[],Philip Rham,human,male,,,,True,pure-blood,,,,,,,True,False,Philip Rham,True
+Pansy Parkinson,[],Genevieve Gaunt,human,female,Slytherin,,,True,,,,,,,,True,False,Genevieve Gaunt,True
+Parvati Patil,[],Sitara Shah,human,female,Gryffindor,,,True,,,,,,,,True,False,Sitara Shah,True
+Padma Patil,[],Sharon Sandhu,human,female,Ravenclaw,,,True,,,,,,,,True,False,Sharon Sandhu,True
+Sally-Anne Perks,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lisa Turpin,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Blaise Zabini,[],Louis Cordice,human,male,Slytherin,,,True,,,,,,,,True,False,Louis Cordice,True
+Nearly Headless Nick,"['Sir Nicholas de Mimsy-Porpington', 'Sir Nicholas', 'Nick']",John Cleese,ghost,male,Gryffindor,,,True,,,,,,,,False,False,John Cleese,False
+Bloody Baron,[],Terence Bayler,ghost,male,Slytherin,,,True,,,,,,,,False,False,Terence Bayler,False
+The Wailing Widow,[],,ghost,female,,,,True,,,,,,,,False,False,,False
+Fat Lady,[],Elizabeth Spriggs,human,female,,,,True,,,,,,,,False,False,Elizabeth Spriggs,False
+Pomona Sprout,['Professor Sprout'],Miriam Margolyes,human,female,Hufflepuff,,,True,,,,,,,,False,True,Miriam Margolyes,True
+Cuthbert Binns,['Professor Binns'],,ghost,male,,,,True,,,,,,,,False,True,,False
+Emeric the Evil,[],,human,male,,,,True,,,,,,,,False,False,,False
+Uric the Oddball,[],,human,male,,,,True,,,,,,,,False,False,,False
+Filius Flitwick,['Professor Flitwick'],Warwick Davis,human,male,Ravenclaw,,,True,,,,,,,,False,True,Warwick Davis,True
+Madam Hooch,['Rolanda Hooch'],Zoë Wanamaker,human,female,,,,True,,yellow,grey,,,,,False,True,Zoë Wanamaker,True
+Oliver Wood,[],Sean Biggerstaff,human,male,,,,True,,,,,,,,True,False,Sean Biggerstaff,True
+Gregory the Smarmy,[],,human,male,,,,True,,,,,,,,False,False,,False
+Wizard Baruffio,[],,human,male,,,,True,,,,,,,,False,False,,False
+Angelina Johnson,[],Danielle Tabor,human,female,Gryffindor,,,True,,,,,,,,True,False,Danielle Tabor,True
+Marcus Flint,[],Jamie Yeates,human,male,Slytherin,,,True,,,,,,,,True,False,Jamie Yeates,True
+Alicia Spinet,[],Leilah Sutherland,human,female,Gryffindor,,,True,,,,,,,,True,False,Leilah Sutherland,True
+Katie Bell,[],Emily Dale,human,female,Gryffindor,,,True,,,,,,,,True,False,Emily Dale,True
+Adrian Pucey,[],Scot Fearn,human,male,Slytherin,,,True,,,,,,,,True,False,Scot Fearn,True
+Miles Bletchley,[],David Churchyard,human,male,Slytherin,,,True,,,,,,,,True,False,David Churchyard,True
+Terence Higgs,[],Will Theakston,human,male,Slytherin,,,True,,,,,,,,True,False,Will Theakston,True
+Fang,[],Hugo,dog,male,,,,False,,,black,,,,,False,False,Hugo,True
+Fluffy,[],,three-headed dog,male,,,,False,,,,,,,,False,False,,True
+Nicolas Flamel,[],Brontis Jodorowsky,human,male,,,,True,,,,,,,,False,False,Brontis Jodorowsky,False
+Gellert Grindelwald,[],Jamie Campbell Bower,human,male,,,,True,,blue,blond,,,,,False,False,Jamie Campbell Bower,False
+Norberta,['Norbert'],,dragon,female,,,,False,,orange,,,,,,False,False,,True
+Ronan,[],,centaur,male,,,,False,,,red,,,,,False,False,,True
+Bane,[],Jason Piper,centaur,male,,,,False,,,,,,,,False,False,Jason Piper,True
+Firenze,['Professor Firenze'],Ray Fearon,centaur,male,,,,False,,blue,blond,,,,,False,True,Ray Fearon,True
+The Giant Squid,[],,cephalopod,,,,,False,,,,,,,,False,False,,True
+Murcus,['Merchieftainess Murcus'],,selkie,female,,,,False,,yellow,green,,,,,False,False,,True
+Elfrick the Eager,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Perenelle Flamel,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bertie Bott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dobby,[],Toby Jones,house-elf,male,,,,False,,green,,,,,,False,False,Toby Jones,False
+Kreacher,[],Timothy Bateson,house-elf,male,,,,False,,,white,,,,,False,False,Timothy Bateson,False
+Mr Mason,[],Jim Norton,human,male,,,,False,muggle,,,,,,,False,False,Jim Norton,True
+Mrs Mason,[],Veronica Clifford,human,female,,,,False,muggle,,,,,,,False,False,Veronica Clifford,True
+Perkins,[],,human,male,,,,True,,,white,,,,,False,False,,True
+Celestina Warbeck,[],,human,female,Gryffindor,,,True,half-blood,,,,,,,False,False,,True
+Gilderoy Lockhart,['Professor Lockhart'],Kenneth Branagh,human,male,,,,True,half-blood,blue,blond,,,,,False,True,Kenneth Branagh,True
+The Basilisk,[],,serpent,,,,,False,,yellow,,,,,,False,False,,False
+Mundungus Fletcher,['Dung'],Andy Linden,human,male,,,,True,,,ginger,,,,,False,False,Andy Linden,True
+Mr Borgin,[],Edward Tudor-Pole,human,male,,,,True,,,,,,,,False,False,Edward Tudor-Pole,True
+Mr Granger,['Wendell Wilkins'],Tom Knight,human,male,,,,False,muggle,,,,,,,False,False,Tom Knight,True
+Mrs Granger,['Monica Wilkins'],Heather Bleasdale,human,female,,,,False,muggle,,,,,,,False,False,Heather Bleasdale,True
+Dr Filibuster,[],,human,male,,,,True,,,,,,,,False,False,,True
+Colin Creevey,[],Hugh Mitchell,human,male,Gryffindor,,,True,muggleborn,,,,,,,True,False,Hugh Mitchell,False
+Gladys Gudgeon,[],,human,female,,,,True,,,,,,,,False,False,,True
+Veronica Smethley,[],,human,female,,,,True,,,,,,,,False,False,,True
+Patrick Delaney-Podmore,['Sir Patrick Delaney-Podmore'],,ghost,male,,,,True,,,,,,,,False,False,,False
+Z. Nettles,[],,human,female,,,,True,,,,,,,,False,False,,True
+D.J. Prod,['Demetrius J. Prod'],Chris Wilson,human,male,,,,True,,,,,,,,False,False,Chris Wilson,False
+Elsie Prod,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moaning Myrtle,['Myrtle Elizabeth Warren'],Shirley Henderson,ghost,female,Ravenclaw,,,True,muggleborn,,,,,,,False,False,Shirley Henderson,False
+Godric Gryffindor,[],,human,male,,,,True,,,,,,,,False,False,,False
+Rowena Ravenclaw,[],,human,female,,,,True,,,,,,,,False,False,,False
+Helga Hufflepuff,[],,human,female,,,,True,,,,,,,,False,False,,False
+Salazar Slytherin,[],,human,male,,,,True,,,,,,,,False,False,,False
+Madame Pince,['Irma Pince'],Sally Mortemore,human,female,,,,True,,,,,,,,False,True,Sally Mortemore,True
+Milicent Bullstroude,[],Helen Stuart,human,female,Slytherin,,,True,,,black,,,,,True,False,Helen Stuart,True
+Ernie Macmillan,['Ernest Macmillan'],Louis Doyle,human,male,Hufflepuff,,,True,,,blond,,,,boar,True,False,Louis Doyle,True
+Armando Dippet,['Professor Dippet'],Alfred Burke,human,male,,,,True,,,white,,,,,False,False,Alfred Burke,False
+Penelope Clearwater,['Penny'],Gemma Padley,human,female,Ravenclaw,,,True,,,,,,,,True,False,Gemma Padley,True
+Cornelius Fudge,['Minister Cornelius Oswald Fudge'],Robert Hardy,human,male,,,,True,,,grey,,,,,False,False,Robert Hardy,True
+Oblansk,['Obalonsk'],,human,male,,,,True,,,,,,,,False,False,,True
+Aragog,[],Julian Glover,acromantula,male,,,,False,,white,brown,,,,,False,False,Julian Glover,False
+Mosag,[],,acromantula,female,,,,False,,black,brown,,,,,False,False,,True
+Stanley Shunpike,['Stan'],Lee Ingleby,human,male,,,,True,,,,,,,,False,False,Lee Ingleby,True
+Ernest Prang,['Ernie'],Jimmy Gardner,human,male,,,,True,,,,,,,,False,False,Jimmy Gardner,True
+Madam Marsh,[],,human,female,,,,True,,,,,,,,False,False,,True
+Florean Fortescue,[],,human,male,,,,True,,,,,,,,False,False,,False
+Sir Cadogan,[],Paul Whitehouse,human,male,,,,True,,,,,,,,False,False,Paul Whitehouse,False
+Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",Emma Thompson,human,female,,,,True,,,,,,,,False,True,Emma Thompson,True
+Buckbeak,"['Beaky', 'Witherwings']",,hippogriff,male,,,,False,,orange,,,,,,False,False,,True
+Peter Pettigrew,"['Wormtail', 'Scabbers', 'Wormy']",Timothy Spall,human,male,Gryffindor,,,True,,,,,,,,False,False,Timothy Spall,False
+Crookshanks,[],Crackerjack,cat,male,,,,False,,yellow,ginger,,,,,False,False,Crackerjack,True
+The Trolley Witch,[],Jean Southern,human,female,,,,True,,dark,grey,,,,,False,False,Jean Southern,True
+The Sorting Hat,[],Leslie Phillips,hat,,,,,True,,,,,,,,False,False,Leslie Phillips,True
+Madam Rosmerta,[],Julie Christie,human,female,,,,True,,,,,,,,False,False,Julie Christie,True
+Derek,[],,human,male,,,,True,,,,,,,,True,False,,True
+Septima Vector,['Professor Vector'],,human,female,,,,True,,,,,,,,False,True,,True
+Cassius Warrington,[],Ashley Hull,human,male,Slytherin,,,True,,,,,,,,True,False,Ashley Hull,True
+Graham Montague,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Peregrine Derrick,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Lucian Bole,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Walden Macnair,[],Peter Best,human,male,Slytherin,,,True,,,black,,,,,False,False,Peter Best,True
+Franc Bryce,[],Eric Sykes,human,male,,,,False,muggle,,,,,,,False,False,Eric Sykes,False
+Dot,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Bertha Jorkins,[],,human,female,,,,True,,,,,,,,False,False,,False
+Barty Crouch,['Bartemius Crouch Senior'],Roger Lloyd-Pack,human,male,,,,True,pure-blood,,,,,,,False,False,Roger Lloyd-Pack,False
+Barty Crouch Junior,['Bartemius Crouch Junior'],David Tennant,human,male,,,,True,,,blond,,,,,False,False,David Tennant,True
+Mrs Crouch,[],,human,female,,,,True,,,,,,,,False,False,,False
+Ludo Bagman,['Ludovic Bagman'],,human,male,,,,True,,blue,blond,,,,,False,False,,True
+Amos Diggory,[],Jeff Rawle,human,male,,,,True,,,brown,,,,,False,False,Jeff Rawle,True
+Mrs Diggory,[],,human,female,,,,True,,,,,,,,False,False,,True
+Mr Roberts,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Roberts,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Kevin,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mr Payne,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Basil,[],,human,male,,,,True,,,,,,,,False,False,,True
+Archie Aymslowe,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cuthbert Mockridge,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gilbert Wimple,[],,human,male,,,,True,,,,,,,,False,False,,True
+Arnold Peasegood,[],,human,male,,,,True,,,,,,,,False,False,,True
+Broderick Bode,[],,human,male,,,,True,,,,,,,,False,False,,False
+Saul Croaker,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ali Bashir,[],,human,male,,,,True,,,,,,,,False,False,,True
+Victor Krum,[],Stanislav Ianevski,human,male,,,,True,,dark,dark,,,,,False,False,Stanislav Ianevski,True
+Winky,[],,house-elf,female,,,,False,,,,,,,,False,False,,True
+Narcissa Malfoy,['Cissy'],Helen McCrory,human,female,,,,True,pure-blood,blue,blonde,,,,,False,False,Helen McCrory,True
+Vasily Dimitrov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Clara Ivanova,[],,human,female,,,,True,,,,,,,,False,False,,True
+Lev Zograf,[],,human,male,,,,True,,,,,,,,False,False,,True
+Alexei Levski,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pyotr Vulchanov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ivan Volkov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Connolly,[],,human,male,,,,True,,,,,,,,False,False,,True
+Barry Ryan,[],,human,male,,,,True,,,,,,,,False,False,,True
+Troy,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mullet,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moran,[],,human,female,,,,True,,,,,,,,False,False,,True
+Quigley,[],,human,male,,,,True,,,,,,,,False,False,,True
+Aidan Lynch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Hassan Mostafa,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dennis Creevey,[],,human,male,,,,True,muggleborn,,brown,,,,,True,False,,True
+Aurora Sinistra,['Professor Sinistra'],,human,female,,,,True,,,,,,,,False,True,,True
+Stewart Ackerley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Malcolm Baddock,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eleanor Branstone,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Owen Cauldwell,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Emma Dobbs,[],,human,female,,,,True,,,,,,,,True,False,,True
+Laura Madley,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Natalie McDonald,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Graham Pritchard,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Orla Quirke,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Kevin Whitby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Eloise Midgen,[],Samantha Clinch,human,female,Gryffindor,,,True,,,,,,,,True,False,Samantha Clinch,True
+Alastor Moody,"['Professor Moody', 'Mad-Eye']",Brendan Gleeson,human,male,,,,True,pure-blood,dark,grey,,,,,False,True,Brendan Gleeson,False
+Madame Maxime,['Olympe Maxime'],Frances de la Tour,half-giant,female,,,,True,,,,,,,,False,False,Frances de la Tour,True
+Igor Karkaroff,[],Predrag Bjelac,human,male,,,,True,,blue,silver,,,,,False,False,Predrag Bjelac,False
+Poliakoff,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fawcett,[],Alex Argenti,human,female,Ravenclaw,,,True,,,,,,,,True,False,Alex Argenti,True
+Summers,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Fleur Delacour,[],Clémence Poésy,human,female,,,,True,,blue,blonde,,,,,False,False,Clémence Poésy,True
+Gregorovic,['Mykew Gregorovitch'],Rade Šerbedžija,human,male,,,,True,,,white,,,,,False,False,Rade Šerbedžija,False
+Rita Skeeter,[],Miranda Richardson,human,female,,,,True,,,blonde,,,,,False,False,Miranda Richardson,True
+Stebbins,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],Apple Brook,human,female,,,,True,,,grey,,,,,False,True,Apple Brook,True
+Bozo,[],Peter O'Farrell,human,male,,,,True,,,,,,,,False,False,Peter O'Farrell,True
+Evan Rosier,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Wilkes,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Avery,[],Richard Rosson,human,male,Slytherin,,,True,,,,,,,,False,False,Richard Rosson,True
+Antonin Dolohov,[],Arben Bajraktaraj,human,male,,,,True,,,dark,,,,,False,False,Arben Bajraktaraj,True
+Travers,[],Tav MacDougall,human,male,,,,True,,,grey,,,,,False,False,Tav MacDougall,True
+Marlene McKinnon,[],,human,female,,,,True,,,,,,,,False,False,,False
+Mulciber,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,True
+Augustus Rookwood,[],Richard Trinder,human,male,,,,True,,,,,,,,False,False,Richard Trinder,True
+Frank Longbottom,[],James Payton,human,male,,,,True,pure-blood,,,,,,,False,False,James Payton,True
+Alice Longbottom,[],Lisa Wood,human,female,,,,True,pure-blood,,white,,,,,False,False,Lisa Wood,True
+Augusta Longbottom,[],Leila Hoffman,human,female,,,,True,pure-blood,,,,,,,False,False,Leila Hoffman,True
+Violet,[],,human,female,,,,True,,,,,,,,False,False,,False
+Apollyon Pringle,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ogg,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mafalda Hopkirk,[],Jessica Hynes,human,female,,,,True,,hazel,grey,,,,,False,False,Jessica Hynes,True
+Nymphadora Tonks,"['Dora', 'Nymphadora Lupin']",Natalia Tena,human,female,Hufflepuff,,,True,,,brown,,,,,False,False,Natalia Tena,False
+Elphias Doge,[],Peter Cartwright,human,male,,,,True,pure-blood,blue,silver,,,,,False,False,Peter Cartwright,True
+Dedalus Diggle,[],David Brett,human,male,,,,True,,,,,,,,False,False,David Brett,True
+Sturgis Podmore,[],,human,male,,,,True,,,blond,,,,,False,False,,True
+Hestia Jones,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Ragnok,[],,goblin,male,,,,False,,,,,,,,False,False,,True
+Alphard Black,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,False
+Regulus Black,['Regulus Arcturus Black'],Tom Moorcroft,human,male,Slytherin,,,True,pure-blood,,black,,,,,False,False,Tom Moorcroft,False
+Phineas Nigelus Black,['Professor Phineas Nigellus Black'],John Atterbury,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,John Atterbury,False
+Araminta Meliflua Black,[],,human,female,Slytherin,,,True,,,,,,,,False,False,,False
+Elladora Black,[],,human,female,,,,True,pure-blood,,,,,,,False,False,,False
+Mrs Black,['Walburga Black'],,human,female,,,,True,pure-blood,brown,brown,,,,,False,False,,False
+Andromeda Tonks,[],,human,female,Slytherin,,,True,pure-blood,,brown,,,,,False,False,,True
+Ted Tonks,['Edward'],,human,female,,,,True,muggleborn,,blond,,,,,False,False,,False
+Rodolphus Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Rabastan Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Eric Munch,['Eric'],,human,male,,,,True,,,,,,,,False,False,,True
+Bob,[],Nicholas Blane,human,male,,,,True,,,,,,,,False,False,Nicholas Blane,True
+Bengie Fenwick,[],,human,male,,,,True,,,,,,,,False,False,,False
+Edgar Bones,[],Cliff Lanning,human,male,,,,True,,,,,,,,False,False,Cliff Lanning,False
+Amelia Bones,[],Sian Thomas,human,female,,,,True,,,grey,,,,,False,False,Sian Thomas,True
+Caradoc Dearborn,[],,human,male,,,,True,,,,,,,,False,False,,False
+Gideon Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Fabian Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Aberforth Dumbledore,[],Jim McManus,human,male,Gryffindor,,,True,half-blood,blue,,,,,goat,False,False,Jim McManus,True
+Dorcas Meadowes,[],,human,female,,,,True,,,,,,,,False,False,,False
+Algie Longbottom,[],,human,male,,,,True,,,,,,,,False,False,,True
+Anthony Goldstein,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Doris Purkiss,[],,human,male,,,,True,,,,,,,,False,False,,True
+Euan Abercrombie,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Rose Zeller,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Patricia Stimpson,[],,human,female,,,,True,,,,,,,,True,False,,True
+Kenneth Towler,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Vicky Frobisher,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Geoffrey Hooper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Cassandra Trelawney,[],,human,female,,,,True,,,,,,,,False,False,,False
+Michael Corner,[],Ryan Nelson,human,male,Ravenclaw,,,True,,,,,,,,True,False,Ryan Nelson,True
+Zacharias Smith,[],Nick Shirm,human,male,Ravenclaw,,,True,,,blond,,,,,True,False,Nick Shirm,True
+Barnabas the Barmy,[],,human,male,,,,True,,,,,,,,True,False,,False
+Karkus,[],,giant,male,,,,False,,,,,,,,False,False,,False
+Golgomath,[],,giant,male,,,,False,,,,,,,,False,False,,True
+Fridwulfa,[],,giant,female,,,,False,,,,,,,,False,False,,False
+Andrew Kirke,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Jack Sloper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Everard,['Professor Everard'],Sam Beazley,human,male,,,,True,,,black,,,,,False,False,Sam Beazley,False
+Dilys Derwent,['Professor Dilys Derwent'],,human,female,,,,True,,,silver,,,,,False,False,,False
+Hippocrates Smethwyck,[],,human,male,,,,True,,,,,,,,False,False,,True
+Augustus Pye,[],,human,male,,,,True,,,,,,,,False,False,,True
+Urquhart Rackharrow,[],,human,male,,,,True,,,,,,,,False,False,,False
+Willy Widdershins,[],,human,male,,,,True,,,,,,,,False,False,,True
+Agnes,[],,human,female,,,,True,,,,,,,,False,False,,True
+Miriam Strout,[],,human,female,,,,True,,,,,,,,False,False,,True
+Madam Puddifoot,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Summerby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Marietta Edgecombe,[],,human,female,Ravenclaw,,,True,,,blonde,,,,,True,False,,True
+Madam Edgecombe,[],,human,female,,,,True,,,,,,,,False,False,,True
+John Dawlish,[],Richard Leaf,human,male,,,,True,,,grey,,,,,False,False,Richard Leaf,True
+Williamson,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bradley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Roger Davies,[],Henry Lloyd-Hughes,human,male,Ravenclaw,,,True,,,,,,,,True,False,Henry Lloyd-Hughes,True
+Grawp,[],Tony Maudsley,giant,male,,,,False,,green,brown,,,,,False,False,Tony Maudsley,True
+Griselda Marchbanks,['Madam Professor Griselda Marchbanks'],,human,female,,,,True,,,,,,,,False,False,,True
+Eddie Carmichael,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Daphne Greengrass,[],,human,female,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Tofty,['Professor Tofty'],,human,male,,,,True,,brown,grey,,,,,False,False,,True
+Tiberius Ogden,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pierre Bonaccord,[],,human,male,,,,True,,,,,,,,False,False,,True
+Stubby Boardman,['Sirius Black'],,human,male,,,,True,,,,,,,,False,False,,True
+Magorian,[],Michael Wildman,centaur,male,,,,True,,,black,,,,,False,False,Michael Wildman,True
+Emmeline Vance,[],Brigitte Millar,human,female,,,,True,,,,,,,,False,False,Brigitte Millar,False
+Herbert Chorley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+The British Prime Minister,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Ulick Gamp,[],,human,male,,,,True,,yellow,silver,,,,,False,False,,False
+Rufus Scrimgeour,[],Bill Nighy,human,male,,,,True,,yellowish,tawny,,,,,False,False,Bill Nighy,False
+Corban Yaxley,[],Peter Mullan,human,male,,,,True,,blue,blond,,,,,False,False,Peter Mullan,True
+Fenrir Greyback,[],Dave Legeno,werewolf,male,,,,True,,,grey,,,,,False,False,Dave Legeno,True
+Dirk Cresswell,[],,human,male,,,,True,muggleborn,,,,,,,False,False,,False
+Barnabas Cuffe,[],Roger C. Bailey,human,male,,,,True,,,,,,,,False,False,Roger C. Bailey,True
+Ambrosius Flume,[],,human,male,,,,True,,,bald,,,,,False,False,,True
+Gwenog Jones,[],,human,female,,,,True,,brown,brown,,,,,False,False,,True
+Arkie Philpott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Verity,[],,human,female,,,,True,,,blonde,,,,,False,False,,True
+Arnold,[],,pygmy puff,male,,,,False,,,purple,,,,,False,False,,True
+Romilda Vane,[],Anna Shaffer,human,female,Gryffindor,,,True,,dark,black,,,,,True,False,Anna Shaffer,True
+Cormac McLaggen,[],Freddie Stroma,human,male,Gryffindor,,,True,,,,,,,,True,False,Freddie Stroma,True
+Marcus Belby,[],Robert Knox,human,male,Ravenclaw,,,True,,,,,,,,True,False,Robert Knox,True
+Damocles Belby,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tiberius,[],,human,male,,,,True,,,,,,,,True,False,,False
+Bertie Higgs,[],,human,male,,,,True,,,,,,,,False,False,,False
+Proudfoot,[],,human,male,,,,True,,,,,,,,False,False,,True
+Savage,[],,human,male,,,,True,,,,,,,,False,False,,True
+Humphrey Belcher,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bob Ogden,[],,human,male,,,,True,,,,,,,,False,False,,False
+Morfin Gaunt,[],,human,male,,,,True,pure-blood,dark,,,,,,False,False,,False
+Marvolo Gaunt,[],,human,male,,,,True,pure-blood,brown,grey,,,,,False,False,,False
+Merope Gaunt,['Merope Riddle'],,human,female,,,,True,pure-blood,,dull,,,,,False,False,,False
+Cecilia,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Tom Riddle,['Tom Riddle Senior'],,human,male,,,,False,muggle,,dark,,,,,False,False,,False
+Demelza Robins,[],Katy Huxley-Golden,human,female,Gryffindor,,,True,,,,,,,,True,False,Katy Huxley-Golden,True
+Jimmy Peakes,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Ritchie Coote,[],Ashley Virgil,human,male,Gryffindor,,,True,,,,,,,,True,False,Ashley Virgil,True
+Melinda Bobbin,[],,human,female,,,,True,,,,,,,,True,False,,True
+Leanne,[],Isabella Laughland,human,female,Hufflepuff,,,True,,,,,,,,True,False,Isabella Laughland,True
+Caractacus Burke,[],,human,male,,,,True,,,,,,,,False,False,,False
+Billy Stubbs,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Amy Benson,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Dennis Bishop,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Cole,[],Amelda Brown,human,female,,,,False,muggle,,,,,,,False,False,Amelda Brown,True
+Eric Whalley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Vaisey,[],,human,male,Slytherin,,,True,,,dark,,,,,True,False,,True
+Harper,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Urquhart,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eldred Worple,[],Paul Ritter,human,male,,,,True,,,,,,,,False,False,Paul Ritter,True
+Sanguini,[],Charlie Bennison,vampire,male,,,,True,,,dark,,,,,False,False,Charlie Bennison,True
+Gawain Robards,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fergus,[],,human,male,,,,True,,,,,,,,False,False,,True
+Wilkie Twycross,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cadwallader,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Galatea Merrythought,[],,human,female,,,,True,,,,,,,,False,True,,False
+Hepzibah Smith,[],,human,female,,,,True,,,,,,,,False,False,,False
+Hokey,[],,house-elf,female,,,,False,,,,,,,,False,False,,False
+Octavius Pepper,[],,human,male,,,,False,,,,,,,,False,False,,False
+Bertram Aubrey,[],,human,male,,,,False,,,,,,,,False,False,,False
+Eileen Prince,[],,human,female,,,,False,pure-blood,,,,,,,False,False,,False
+Amycus Carrow,[],Ralph Ineson,human,male,Slytherin,,,True,,,,,,,,False,False,Ralph Ineson,True
+Alecto Carrow,[],Suzie Toase,human,female,Slytherin,,,True,,,,,,,,False,False,Suzie Toase,True
+Gibbon,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tobias Snape,[],,human,male,,,,False,,,,,,,,False,False,,True
+Pius Thicknesse,[],Guy Henry,human,male,,,,True,,,black,,,,,False,False,Guy Henry,True
+Wakanda,[],Harriet Thorpe,human,female,,,,True,,,blonde,,,,,False,False,Harriet Thorpe,True
+Charity Burbage,[],Carolyn Pickles,human,female,,,,True,,,,,,,,False,True,Carolyn Pickles,False
+Percival Dumbledore,[],,human,male,,,,True,,,,,,,,False,False,,False
+Kendra Dumbledore,[],,human,female,,,,True,muggleborn,dark,black,,,,,False,False,,False
+Ariana Dumbledore,[],Hebe Beardsall,human,female,,,,True,half-blood,,,,,,,False,False,Hebe Beardsall,False
+Betty Braithwaite,[],,human,female,,,,True,,,,,,,,False,False,,True
+Apolline Delacour,[],,half-human,female,,,,True,half-veela,,blonde,,,,,False,False,,True
+Gabrielle Delacour,[],Angelica Mandy,human,female,,,,True,quarter-veela,,blonde,,,,,False,False,Angelica Mandy,True
+Monsieur Delacour,[],,human,male,,,,True,,,black,,,,,False,False,,True
+Dragomir Gorgovitch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Xenophilius Lovegood,[],Rhys Ifans,human,male,Ravenclaw,,,True,,,white,,,,,False,False,Rhys Ifans,True
+Pandora Lovegood,[],,human,female,Ravenclaw,,,True,,,,,,,,False,False,,False
+Muriel,"['Aunt Muriel', 'Auntie Muriel']",Matyelok Gibbs,human,female,,,,True,,,grey,,,,,False,False,Matyelok Gibbs,True
+Bilius,['Uncle Bilius'],,human,male,,,,True,,,,,,,,False,False,,False
+Thorfinn Rowle,[],Rod Hunt,human,male,,,,True,,,blond,,,,,False,False,Rod Hunt,True
+Reg Cattermole,['Reginald Cattermole'],Steffan Rhodri,human,male,,,,True,,,,,,,,False,False,Steffan Rhodri,True
+Albert Runcorn,[],David O'Hara,human,male,,,,True,,,black,,,,,False,False,David O'Hara,True
+Arkie Alderton,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mary Cattermole,['Mary Elizabeth Cattermole'],Kate Fleetwood,human,female,,,,True,muggleborn,,,,,,,False,False,Kate Fleetwood,True
+Maisie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Ellie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Alfred Cattermole,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gornuk,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Bowman Wright,[],,human,male,,,,True,,,,,,,,False,False,,False
+Ivor Dillonsby,[],,human,male,,,,True,,,,,,,,False,False,,True
+Enid Smeek,[],,human,female,,,,True,,,,,,,,False,False,,True
+Egbert the Egregious,[],,human,male,,,,True,,,,,,,,False,False,,False
+Godelot,[],,human,male,,,,True,,,,,,,,False,False,,False
+Hereward,[],,human,male,,,,True,,,,,,,,False,False,,False
+Loxias,[],,human,male,,,,True,,,,,,,,False,False,,False
+Barnabas Deverill,[],,human,male,,,,True,,,,,,,,False,False,,False
+Arcus,[],,human,male,,,,True,,,,,,,,False,False,,False
+Livius,[],,human,male,,,,True,,,,,,,,False,False,,False
+Antioch Peverell,['First Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Cadmus Peverell,['Second Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Ignotus Peverell,['Third Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Selwyn,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,True
+Scabior,[],Nick Moran,human,male,Slytherin,,,True,,,,,,,,False,False,Nick Moran,True
+Ragnuk the First,['King Ragnuk the First'],,goblin,male,,,,False,,,,,,,,False,False,,False
+Ted Lupin,['Edward Remus Teddy Lupin'],Luke Newberry,human,male,Hufflepuff,,,True,half-blood,,,,,,,False,False,Luke Newberry,True
+Marius,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bogrod,[],Jon Key,goblin,male,,,,False,,black,white,,,,,False,False,Jon Key,True
+The Grey Lady,['Helena Ravenclaw'],Nina Young,ghost,female,,,,True,,,,,,,,False,False,Nina Young,False
+Dexter Fortescue,['Professor Dexter Fortescue'],,human,male,,,,True,,,,,,,,False,False,,False
+Lily Potter,['Lily Luna Potter'],Daphne de Beistegui,human,female,Gryffindor,,,True,half-blood,,red,,,,,False,False,Daphne de Beistegui,True
+James Potter,['James Sirius Potter'],Will Dunn,human,male,Gryffindor,,,True,half-blood,,,,,,,True,False,Will Dunn,True
+Albus Severus Potter,['Al'],Arthur Bowen,human,male,Slytherin,,,True,half-blood,green,black,,,,,True,False,Arthur Bowen,True
+Rose Weasley,[],Helena Barlow,human,female,Gryffindor,,,True,half-blood,,red,,,,,True,False,Helena Barlow,True
+Hugo Weasley,[],Ryan Turner,human,male,,,,True,half-blood,,brown,,,,,True,False,Ryan Turner,True
+Scorpius Malfoy,['Scorpius Hyperion Malfoy'],Bertie Gilbert,human,male,Slytherin,,,True,pure-blood,grey,blond,,,,,True,False,Bertie Gilbert,True
+Victoire Weasley,[],,human,female,,,,True,,,blonde,,,,,True,False,,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,,,,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,,,,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,,,,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,,,,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,,,,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,,,,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,,,,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,,,,Non-Corporeal,True,False,Matthew Lewis,True
+Luna Lovegood,['Loony Lovegood'],Evanna Lynch,human,female,Ravenclaw,13-02-1981,1981.0,True,,silver,blonde,,,,hare,True,False,Evanna Lynch,True
+Ginny Weasley,[],Bonnie Wright,human,female,Gryffindor,11-08-1981,1981.0,True,pure-blood,brown,red,,,,horse,True,False,Bonnie Wright,True
+Sirius Black,"['Padfoot', 'Snuffles']",Gary Oldman,human,male,Gryffindor,03-11-1959,1959.0,True,pure-blood,grey,black,,,,hare,False,False,Gary Oldman,False
+Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",David Thewlis,werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,,,,wolf,False,True,David Thewlis,False
+Arthur Weasley,[],Mark Williams,human,male,Gryffindor,06-02-1950,1950.0,True,pure-blood,blue,red,,,,weasel,False,False,Mark Williams,True
+Bellatrix Lestrange,['Bella'],Helena Bonham Carter,human,female,Slytherin,,1951.0,True,pure-blood,brown,black,,,,,False,False,Helena Bonham Carter,False
+Lord Voldemort,"['Tom Riddle', 'Tom Marvolo Riddle', 'You-Know-Who', 'He Who Must Not Be Named', 'the Dark Lord', 'the Heir of Slytherin']",Ralph Fiennes,human,male,Slytherin,31-12-1926,1926.0,True,half-blood,Scarlet,bald,,,,,False,False,Ralph Fiennes,False
+Horace Slughorn,[],Jim Broadbent,human,male,Slytherin,,,True,pure-blood,green,blonde,,,,,False,True,Jim Broadbent,True
+Kingsley Shacklebolt,[],George Harris,human,male,,,,True,pure-blood,brown,brown,,,,lynx,False,False,George Harris,True
+Dolores Umbridge,[],Imelda Staunton,human,female,Slytherin,,,True,half-blood,brown,grey,,,,persian cat,False,True,Imelda Staunton,True
+Lucius Malfoy,[],Jason Isaacs,human,male,Slytherin,,1954.0,True,pure-blood,grey,blonde,,,,,False,False,Jason Isaacs,True
+Vincent Crabbe,[],Jamie Waylett,human,male,Slytherin,,,True,pure-blood,black,black,,,,,True,False,Jamie Waylett,False
+Mr Crabbe,[],Paschal Friel,human,male,,,,True,pure-blood,,,,,,,False,False,Paschal Friel,False
+Gregory Goyle,[],Josh Herdman,human,male,Slytherin,,,True,pure-blood,,brown,,,,,True,False,Josh Herdman,True
+Mr Goyle,[],Alex Palmer,human,male,,,,True,pure-blood,,,,,,,True,False,Alex Palmer,True
+Mrs Norris,[],"Maxime, Alanis and Tommy the cats",cat,female,,,,False,,yellow,brown,,,,,False,True,"Maxime, Alanis and Tommy the cats",True
+Argus Filch,[],David Bradley,human,male,,,,False,squib,,grey,,,,,False,True,David Bradley,True
+Vernon Dursley,[],Richard Griffiths,human,male,,,,False,muggle,,,,,,,False,False,Richard Griffiths,True
+Petunia Dursley,[],Fiona Shaw,human,female,,,,False,muggle,,blonde,,,,,False,False,Fiona Shaw,True
+Dudley Dursley,[],Harry Melling,human,male,,23-6-1980,1980.0,False,muggle,blue,blond,,,,,False,False,Harry Melling,True
+Boa constrictor,['A Brazilian Boa Constrictor'],,snake,,,,,False,,beady,,,,,,False,False,,True
+Lily Potter,[],Geraldine Somerville,human,female,Gryffindor,30-01-1960,1960.0,True,muggleborn,green,,,,,,False,False,Geraldine Somerville,False
+James Potter,['Prongs'],Adrian Rawlins,human,male,Gryffindor,27-03-1960,1960.0,True,pure-blood,,black,,,,stag,False,False,Adrian Rawlins,False
+Albus Dumbledore,['Professor Dumbledore'],Richard Harris,human,male,Gryffindor,,1881.0,True,half-blood,blue,silver,,,,Phoenix,False,True,Richard Harris,False
+Fawkes,[],,phoenix,male,,,,False,,black,red,,,,,False,False,,True
+Madam Pomfrey,['Poppy Pomfrey'],Gemma Jones,human,female,,,,True,,,,,,,,False,True,Gemma Jones,True
+Mrs Figg,['Arabella Doreen Figg'],Kathryn Hunter,human,female,,,,False,squib,,,,,,,False,False,Kathryn Hunter,True
+Marge Dursley,"['Marjorie Eileen Dursley', 'Aunt Marge', 'Auntie Marge', 'Margie']",Pam Ferris,human,female,,,,False,muggle,,,,,,,False,False,Pam Ferris,True
+Ripper,[],,dog,male,,,,False,,black,,,,,,False,False,,True
+Yvonne,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Piers Polkiss,[],Jason Boyd,human,male,,,,False,muggle,,,,,,,False,False,Jason Boyd,True
+Dennis,[],Christopher Rithin,human,male,,,,False,muggle,,,,,,,False,False,Christopher Rithin,True
+Malcolm,[],Richard Macklin,human,male,,,,False,muggle,,,,,,,False,False,Richard Macklin,True
+Gordon,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Miranda Gaushawk,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bathilda Bagshot,[],,human,female,,,,True,,,,,,,,False,False,,False
+Adalbert Waffling,[],,human,male,,,,True,,,,,,,,False,False,,False
+Emeric Switch,[],,human,male,,,,True,,,,,,,,False,False,,False
+Phyllida Spore,['Dame Phyllida Spore'],,human,female,,,,True,,,,,,,,False,False,,False
+Arsenius Jigger,[],,human,male,,,,True,,,,,,,,False,False,,False
+Newt Scamander,['Newton Artemis Fido Scamander'],Eddie Redmayne,human,male,Hufflepuff,24-02-1897,1897.0,True,,hazel,brown,,,,,False,False,Eddie Redmayne,True
+Quentin Trimble,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tom,[],Derek Deadman,human,male,,,,True,,,,,,,,False,False,Derek Deadman,True
+Doris Crockford,[],Nina Young,human,female,,,,True,,,,,,,,False,False,Nina Young,True
+Quirinus Quirrel,['Professor Quirrel'],Ian Hart,human,male,,,,True,,,,,,,,False,True,Ian Hart,False
+Griphook,[],Verne Troyer,goblin,male,,,,False,,,,,,,,False,False,Verne Troyer,False
+Madam Malkin,[],,human,female,,,,True,,,,,,,,False,False,,True
+Vindictus Viridian,[],,human,male,,,,True,,,,,,,,False,False,,False
+Garrick Ollivander,[],John Hurt,human,male,,,,True,,"pale, silvery",,,,,,False,False,John Hurt,True
+Hedwig,[],Gizmo,owl,female,,,,False,,amber,white,,,,,False,False,Gizmo,False
+Trevor,[],,toad,male,,,,False,,black,,,,,,False,False,,True
+Hermes,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Errol,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Pigwidgeon,"['Pig', 'Piggy']",,owl,male,,,,False,,,grey,,,,,False,False,,True
+Molly Weasley,"['Molly Prewett', 'Mollywabbles']",Julie Walters,human,female,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Julie Walters,True
+Percy Weasley,"['Perce', 'Percy Ignatius Weasley', 'Weatherby']",Chris Rankin,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Chris Rankin,True
+Fred Weasley,[],James Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,James Phelps,False
+George Weasley,[],Oliver Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Oliver Phelps,True
+Lee Jordan,[],Luke Youngblood,human,male,Gryffindor,,,True,,,,,,,,True,False,Luke Youngblood,True
+Bill Weasley,['William Arthur Weasley'],Richard Fish,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Richard Fish,True
+Charlie Weasley,['Charles Weasley'],Alex Crockford,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Alex Crockford,True
+Fat Friar,[],Simon Fisher-Becker,ghost,male,Hufflepuff,,,True,,,,,,,,False,False,Simon Fisher-Becker,False
+Peeves,[],,poltergeist,male,,,,True,,,,,,,,False,False,,False
+Hannah Abbott,[],Charlotte Skeoch,human,female,Hufflepuff,,,True,half-blood,,blonde,,,,,True,False,Charlotte Skeoch,True
+Susan Bones,[],Eleanor Columbus,human,female,Hufflepuff,,,True,,,,,,,,True,False,Eleanor Columbus,True
+Terry Boot,[],Kevin Lee Yi,human,male,Ravenclaw,,,True,,,,,,,,True,False,Kevin Lee Yi,True
+Mandy Brocklehurst,[],Christina Petrou,human,female,Ravenclaw,,,True,,,,,,,,True,False,Christina Petrou,True
+Lavender Brown,[],Kathleen Cauley,human,female,Gryffindor,,,True,,,,,,,,True,False,Kathleen Cauley,True
+Millicent Bulstrode,[],Helen Stuart,human,female,Slytherin,,,True,,,,,,,,True,False,Helen Stuart,True
+Justin Finch-Fletchley,[],Edward Randell,human,male,Hufflepuff,,,True,muggleborn,,,,,,,True,False,Edward Randell,True
+Seamus Finnigan,"[""O'Flaherty"", 'Seamus Finnegan']",Devon Murray,human,male,Gryffindor,,,True,half-blood,,sandy,,,,,True,False,Devon Murray,True
+Mrs Finnigan,[],,human,female,,,,True,,,sandy,,,,,False,False,,True
+Mr Finnigan,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Morag MacDougal,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lily Moon,[],,human,female,,,,True,,,,,,,,True,False,,True
+Theodore Nott,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Mr Nott,[],Philip Rham,human,male,,,,True,pure-blood,,,,,,,True,False,Philip Rham,True
+Pansy Parkinson,[],Genevieve Gaunt,human,female,Slytherin,,,True,,,,,,,,True,False,Genevieve Gaunt,True
+Parvati Patil,[],Sitara Shah,human,female,Gryffindor,,,True,,,,,,,,True,False,Sitara Shah,True
+Padma Patil,[],Sharon Sandhu,human,female,Ravenclaw,,,True,,,,,,,,True,False,Sharon Sandhu,True
+Sally-Anne Perks,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lisa Turpin,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Blaise Zabini,[],Louis Cordice,human,male,Slytherin,,,True,,,,,,,,True,False,Louis Cordice,True
+Nearly Headless Nick,"['Sir Nicholas de Mimsy-Porpington', 'Sir Nicholas', 'Nick']",John Cleese,ghost,male,Gryffindor,,,True,,,,,,,,False,False,John Cleese,False
+Bloody Baron,[],Terence Bayler,ghost,male,Slytherin,,,True,,,,,,,,False,False,Terence Bayler,False
+The Wailing Widow,[],,ghost,female,,,,True,,,,,,,,False,False,,False
+Fat Lady,[],Elizabeth Spriggs,human,female,,,,True,,,,,,,,False,False,Elizabeth Spriggs,False
+Pomona Sprout,['Professor Sprout'],Miriam Margolyes,human,female,Hufflepuff,,,True,,,,,,,,False,True,Miriam Margolyes,True
+Cuthbert Binns,['Professor Binns'],,ghost,male,,,,True,,,,,,,,False,True,,False
+Emeric the Evil,[],,human,male,,,,True,,,,,,,,False,False,,False
+Uric the Oddball,[],,human,male,,,,True,,,,,,,,False,False,,False
+Filius Flitwick,['Professor Flitwick'],Warwick Davis,human,male,Ravenclaw,,,True,,,,,,,,False,True,Warwick Davis,True
+Madam Hooch,['Rolanda Hooch'],Zoë Wanamaker,human,female,,,,True,,yellow,grey,,,,,False,True,Zoë Wanamaker,True
+Oliver Wood,[],Sean Biggerstaff,human,male,,,,True,,,,,,,,True,False,Sean Biggerstaff,True
+Gregory the Smarmy,[],,human,male,,,,True,,,,,,,,False,False,,False
+Wizard Baruffio,[],,human,male,,,,True,,,,,,,,False,False,,False
+Angelina Johnson,[],Danielle Tabor,human,female,Gryffindor,,,True,,,,,,,,True,False,Danielle Tabor,True
+Marcus Flint,[],Jamie Yeates,human,male,Slytherin,,,True,,,,,,,,True,False,Jamie Yeates,True
+Alicia Spinet,[],Leilah Sutherland,human,female,Gryffindor,,,True,,,,,,,,True,False,Leilah Sutherland,True
+Katie Bell,[],Emily Dale,human,female,Gryffindor,,,True,,,,,,,,True,False,Emily Dale,True
+Adrian Pucey,[],Scot Fearn,human,male,Slytherin,,,True,,,,,,,,True,False,Scot Fearn,True
+Miles Bletchley,[],David Churchyard,human,male,Slytherin,,,True,,,,,,,,True,False,David Churchyard,True
+Terence Higgs,[],Will Theakston,human,male,Slytherin,,,True,,,,,,,,True,False,Will Theakston,True
+Fang,[],Hugo,dog,male,,,,False,,,black,,,,,False,False,Hugo,True
+Fluffy,[],,three-headed dog,male,,,,False,,,,,,,,False,False,,True
+Nicolas Flamel,[],Brontis Jodorowsky,human,male,,,,True,,,,,,,,False,False,Brontis Jodorowsky,False
+Gellert Grindelwald,[],Jamie Campbell Bower,human,male,,,,True,,blue,blond,,,,,False,False,Jamie Campbell Bower,False
+Norberta,['Norbert'],,dragon,female,,,,False,,orange,,,,,,False,False,,True
+Ronan,[],,centaur,male,,,,False,,,red,,,,,False,False,,True
+Bane,[],Jason Piper,centaur,male,,,,False,,,,,,,,False,False,Jason Piper,True
+Firenze,['Professor Firenze'],Ray Fearon,centaur,male,,,,False,,blue,blond,,,,,False,True,Ray Fearon,True
+The Giant Squid,[],,cephalopod,,,,,False,,,,,,,,False,False,,True
+Murcus,['Merchieftainess Murcus'],,selkie,female,,,,False,,yellow,green,,,,,False,False,,True
+Elfrick the Eager,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Perenelle Flamel,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bertie Bott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dobby,[],Toby Jones,house-elf,male,,,,False,,green,,,,,,False,False,Toby Jones,False
+Kreacher,[],Timothy Bateson,house-elf,male,,,,False,,,white,,,,,False,False,Timothy Bateson,False
+Mr Mason,[],Jim Norton,human,male,,,,False,muggle,,,,,,,False,False,Jim Norton,True
+Mrs Mason,[],Veronica Clifford,human,female,,,,False,muggle,,,,,,,False,False,Veronica Clifford,True
+Perkins,[],,human,male,,,,True,,,white,,,,,False,False,,True
+Celestina Warbeck,[],,human,female,Gryffindor,,,True,half-blood,,,,,,,False,False,,True
+Gilderoy Lockhart,['Professor Lockhart'],Kenneth Branagh,human,male,,,,True,half-blood,blue,blond,,,,,False,True,Kenneth Branagh,True
+The Basilisk,[],,serpent,,,,,False,,yellow,,,,,,False,False,,False
+Mundungus Fletcher,['Dung'],Andy Linden,human,male,,,,True,,,ginger,,,,,False,False,Andy Linden,True
+Mr Borgin,[],Edward Tudor-Pole,human,male,,,,True,,,,,,,,False,False,Edward Tudor-Pole,True
+Mr Granger,['Wendell Wilkins'],Tom Knight,human,male,,,,False,muggle,,,,,,,False,False,Tom Knight,True
+Mrs Granger,['Monica Wilkins'],Heather Bleasdale,human,female,,,,False,muggle,,,,,,,False,False,Heather Bleasdale,True
+Dr Filibuster,[],,human,male,,,,True,,,,,,,,False,False,,True
+Colin Creevey,[],Hugh Mitchell,human,male,Gryffindor,,,True,muggleborn,,,,,,,True,False,Hugh Mitchell,False
+Gladys Gudgeon,[],,human,female,,,,True,,,,,,,,False,False,,True
+Veronica Smethley,[],,human,female,,,,True,,,,,,,,False,False,,True
+Patrick Delaney-Podmore,['Sir Patrick Delaney-Podmore'],,ghost,male,,,,True,,,,,,,,False,False,,False
+Z. Nettles,[],,human,female,,,,True,,,,,,,,False,False,,True
+D.J. Prod,['Demetrius J. Prod'],Chris Wilson,human,male,,,,True,,,,,,,,False,False,Chris Wilson,False
+Elsie Prod,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moaning Myrtle,['Myrtle Elizabeth Warren'],Shirley Henderson,ghost,female,Ravenclaw,,,True,muggleborn,,,,,,,False,False,Shirley Henderson,False
+Godric Gryffindor,[],,human,male,,,,True,,,,,,,,False,False,,False
+Rowena Ravenclaw,[],,human,female,,,,True,,,,,,,,False,False,,False
+Helga Hufflepuff,[],,human,female,,,,True,,,,,,,,False,False,,False
+Salazar Slytherin,[],,human,male,,,,True,,,,,,,,False,False,,False
+Madame Pince,['Irma Pince'],Sally Mortemore,human,female,,,,True,,,,,,,,False,True,Sally Mortemore,True
+Milicent Bullstroude,[],Helen Stuart,human,female,Slytherin,,,True,,,black,,,,,True,False,Helen Stuart,True
+Ernie Macmillan,['Ernest Macmillan'],Louis Doyle,human,male,Hufflepuff,,,True,,,blond,,,,boar,True,False,Louis Doyle,True
+Armando Dippet,['Professor Dippet'],Alfred Burke,human,male,,,,True,,,white,,,,,False,False,Alfred Burke,False
+Penelope Clearwater,['Penny'],Gemma Padley,human,female,Ravenclaw,,,True,,,,,,,,True,False,Gemma Padley,True
+Cornelius Fudge,['Minister Cornelius Oswald Fudge'],Robert Hardy,human,male,,,,True,,,grey,,,,,False,False,Robert Hardy,True
+Oblansk,['Obalonsk'],,human,male,,,,True,,,,,,,,False,False,,True
+Aragog,[],Julian Glover,acromantula,male,,,,False,,white,brown,,,,,False,False,Julian Glover,False
+Mosag,[],,acromantula,female,,,,False,,black,brown,,,,,False,False,,True
+Stanley Shunpike,['Stan'],Lee Ingleby,human,male,,,,True,,,,,,,,False,False,Lee Ingleby,True
+Ernest Prang,['Ernie'],Jimmy Gardner,human,male,,,,True,,,,,,,,False,False,Jimmy Gardner,True
+Madam Marsh,[],,human,female,,,,True,,,,,,,,False,False,,True
+Florean Fortescue,[],,human,male,,,,True,,,,,,,,False,False,,False
+Sir Cadogan,[],Paul Whitehouse,human,male,,,,True,,,,,,,,False,False,Paul Whitehouse,False
+Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",Emma Thompson,human,female,,,,True,,,,,,,,False,True,Emma Thompson,True
+Buckbeak,"['Beaky', 'Witherwings']",,hippogriff,male,,,,False,,orange,,,,,,False,False,,True
+Peter Pettigrew,"['Wormtail', 'Scabbers', 'Wormy']",Timothy Spall,human,male,Gryffindor,,,True,,,,,,,,False,False,Timothy Spall,False
+Crookshanks,[],Crackerjack,cat,male,,,,False,,yellow,ginger,,,,,False,False,Crackerjack,True
+The Trolley Witch,[],Jean Southern,human,female,,,,True,,dark,grey,,,,,False,False,Jean Southern,True
+The Sorting Hat,[],Leslie Phillips,hat,,,,,True,,,,,,,,False,False,Leslie Phillips,True
+Madam Rosmerta,[],Julie Christie,human,female,,,,True,,,,,,,,False,False,Julie Christie,True
+Derek,[],,human,male,,,,True,,,,,,,,True,False,,True
+Septima Vector,['Professor Vector'],,human,female,,,,True,,,,,,,,False,True,,True
+Cassius Warrington,[],Ashley Hull,human,male,Slytherin,,,True,,,,,,,,True,False,Ashley Hull,True
+Graham Montague,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Peregrine Derrick,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Lucian Bole,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Walden Macnair,[],Peter Best,human,male,Slytherin,,,True,,,black,,,,,False,False,Peter Best,True
+Franc Bryce,[],Eric Sykes,human,male,,,,False,muggle,,,,,,,False,False,Eric Sykes,False
+Dot,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Bertha Jorkins,[],,human,female,,,,True,,,,,,,,False,False,,False
+Barty Crouch,['Bartemius Crouch Senior'],Roger Lloyd-Pack,human,male,,,,True,pure-blood,,,,,,,False,False,Roger Lloyd-Pack,False
+Barty Crouch Junior,['Bartemius Crouch Junior'],David Tennant,human,male,,,,True,,,blond,,,,,False,False,David Tennant,True
+Mrs Crouch,[],,human,female,,,,True,,,,,,,,False,False,,False
+Ludo Bagman,['Ludovic Bagman'],,human,male,,,,True,,blue,blond,,,,,False,False,,True
+Amos Diggory,[],Jeff Rawle,human,male,,,,True,,,brown,,,,,False,False,Jeff Rawle,True
+Mrs Diggory,[],,human,female,,,,True,,,,,,,,False,False,,True
+Mr Roberts,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Roberts,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Kevin,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mr Payne,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Basil,[],,human,male,,,,True,,,,,,,,False,False,,True
+Archie Aymslowe,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cuthbert Mockridge,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gilbert Wimple,[],,human,male,,,,True,,,,,,,,False,False,,True
+Arnold Peasegood,[],,human,male,,,,True,,,,,,,,False,False,,True
+Broderick Bode,[],,human,male,,,,True,,,,,,,,False,False,,False
+Saul Croaker,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ali Bashir,[],,human,male,,,,True,,,,,,,,False,False,,True
+Victor Krum,[],Stanislav Ianevski,human,male,,,,True,,dark,dark,,,,,False,False,Stanislav Ianevski,True
+Winky,[],,house-elf,female,,,,False,,,,,,,,False,False,,True
+Narcissa Malfoy,['Cissy'],Helen McCrory,human,female,,,,True,pure-blood,blue,blonde,,,,,False,False,Helen McCrory,True
+Vasily Dimitrov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Clara Ivanova,[],,human,female,,,,True,,,,,,,,False,False,,True
+Lev Zograf,[],,human,male,,,,True,,,,,,,,False,False,,True
+Alexei Levski,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pyotr Vulchanov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ivan Volkov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Connolly,[],,human,male,,,,True,,,,,,,,False,False,,True
+Barry Ryan,[],,human,male,,,,True,,,,,,,,False,False,,True
+Troy,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mullet,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moran,[],,human,female,,,,True,,,,,,,,False,False,,True
+Quigley,[],,human,male,,,,True,,,,,,,,False,False,,True
+Aidan Lynch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Hassan Mostafa,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dennis Creevey,[],,human,male,,,,True,muggleborn,,brown,,,,,True,False,,True
+Aurora Sinistra,['Professor Sinistra'],,human,female,,,,True,,,,,,,,False,True,,True
+Stewart Ackerley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Malcolm Baddock,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eleanor Branstone,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Owen Cauldwell,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Emma Dobbs,[],,human,female,,,,True,,,,,,,,True,False,,True
+Laura Madley,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Natalie McDonald,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Graham Pritchard,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Orla Quirke,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Kevin Whitby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Eloise Midgen,[],Samantha Clinch,human,female,Gryffindor,,,True,,,,,,,,True,False,Samantha Clinch,True
+Alastor Moody,"['Professor Moody', 'Mad-Eye']",Brendan Gleeson,human,male,,,,True,pure-blood,dark,grey,,,,,False,True,Brendan Gleeson,False
+Madame Maxime,['Olympe Maxime'],Frances de la Tour,half-giant,female,,,,True,,,,,,,,False,False,Frances de la Tour,True
+Igor Karkaroff,[],Predrag Bjelac,human,male,,,,True,,blue,silver,,,,,False,False,Predrag Bjelac,False
+Poliakoff,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fawcett,[],Alex Argenti,human,female,Ravenclaw,,,True,,,,,,,,True,False,Alex Argenti,True
+Summers,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Fleur Delacour,[],Clémence Poésy,human,female,,,,True,,blue,blonde,,,,,False,False,Clémence Poésy,True
+Gregorovic,['Mykew Gregorovitch'],Rade Šerbedžija,human,male,,,,True,,,white,,,,,False,False,Rade Šerbedžija,False
+Rita Skeeter,[],Miranda Richardson,human,female,,,,True,,,blonde,,,,,False,False,Miranda Richardson,True
+Stebbins,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],Apple Brook,human,female,,,,True,,,grey,,,,,False,True,Apple Brook,True
+Bozo,[],Peter O'Farrell,human,male,,,,True,,,,,,,,False,False,Peter O'Farrell,True
+Evan Rosier,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Wilkes,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Avery,[],Richard Rosson,human,male,Slytherin,,,True,,,,,,,,False,False,Richard Rosson,True
+Antonin Dolohov,[],Arben Bajraktaraj,human,male,,,,True,,,dark,,,,,False,False,Arben Bajraktaraj,True
+Travers,[],Tav MacDougall,human,male,,,,True,,,grey,,,,,False,False,Tav MacDougall,True
+Marlene McKinnon,[],,human,female,,,,True,,,,,,,,False,False,,False
+Mulciber,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,True
+Augustus Rookwood,[],Richard Trinder,human,male,,,,True,,,,,,,,False,False,Richard Trinder,True
+Frank Longbottom,[],James Payton,human,male,,,,True,pure-blood,,,,,,,False,False,James Payton,True
+Alice Longbottom,[],Lisa Wood,human,female,,,,True,pure-blood,,white,,,,,False,False,Lisa Wood,True
+Augusta Longbottom,[],Leila Hoffman,human,female,,,,True,pure-blood,,,,,,,False,False,Leila Hoffman,True
+Violet,[],,human,female,,,,True,,,,,,,,False,False,,False
+Apollyon Pringle,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ogg,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mafalda Hopkirk,[],Jessica Hynes,human,female,,,,True,,hazel,grey,,,,,False,False,Jessica Hynes,True
+Nymphadora Tonks,"['Dora', 'Nymphadora Lupin']",Natalia Tena,human,female,Hufflepuff,,,True,,,brown,,,,,False,False,Natalia Tena,False
+Elphias Doge,[],Peter Cartwright,human,male,,,,True,pure-blood,blue,silver,,,,,False,False,Peter Cartwright,True
+Dedalus Diggle,[],David Brett,human,male,,,,True,,,,,,,,False,False,David Brett,True
+Sturgis Podmore,[],,human,male,,,,True,,,blond,,,,,False,False,,True
+Hestia Jones,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Ragnok,[],,goblin,male,,,,False,,,,,,,,False,False,,True
+Alphard Black,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,False
+Regulus Black,['Regulus Arcturus Black'],Tom Moorcroft,human,male,Slytherin,,,True,pure-blood,,black,,,,,False,False,Tom Moorcroft,False
+Phineas Nigelus Black,['Professor Phineas Nigellus Black'],John Atterbury,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,John Atterbury,False
+Araminta Meliflua Black,[],,human,female,Slytherin,,,True,,,,,,,,False,False,,False
+Elladora Black,[],,human,female,,,,True,pure-blood,,,,,,,False,False,,False
+Mrs Black,['Walburga Black'],,human,female,,,,True,pure-blood,brown,brown,,,,,False,False,,False
+Andromeda Tonks,[],,human,female,Slytherin,,,True,pure-blood,,brown,,,,,False,False,,True
+Ted Tonks,['Edward'],,human,female,,,,True,muggleborn,,blond,,,,,False,False,,False
+Rodolphus Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Rabastan Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Eric Munch,['Eric'],,human,male,,,,True,,,,,,,,False,False,,True
+Bob,[],Nicholas Blane,human,male,,,,True,,,,,,,,False,False,Nicholas Blane,True
+Bengie Fenwick,[],,human,male,,,,True,,,,,,,,False,False,,False
+Edgar Bones,[],Cliff Lanning,human,male,,,,True,,,,,,,,False,False,Cliff Lanning,False
+Amelia Bones,[],Sian Thomas,human,female,,,,True,,,grey,,,,,False,False,Sian Thomas,True
+Caradoc Dearborn,[],,human,male,,,,True,,,,,,,,False,False,,False
+Gideon Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Fabian Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Aberforth Dumbledore,[],Jim McManus,human,male,Gryffindor,,,True,half-blood,blue,,,,,goat,False,False,Jim McManus,True
+Dorcas Meadowes,[],,human,female,,,,True,,,,,,,,False,False,,False
+Algie Longbottom,[],,human,male,,,,True,,,,,,,,False,False,,True
+Anthony Goldstein,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Doris Purkiss,[],,human,male,,,,True,,,,,,,,False,False,,True
+Euan Abercrombie,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Rose Zeller,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Patricia Stimpson,[],,human,female,,,,True,,,,,,,,True,False,,True
+Kenneth Towler,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Vicky Frobisher,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Geoffrey Hooper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Cassandra Trelawney,[],,human,female,,,,True,,,,,,,,False,False,,False
+Michael Corner,[],Ryan Nelson,human,male,Ravenclaw,,,True,,,,,,,,True,False,Ryan Nelson,True
+Zacharias Smith,[],Nick Shirm,human,male,Ravenclaw,,,True,,,blond,,,,,True,False,Nick Shirm,True
+Barnabas the Barmy,[],,human,male,,,,True,,,,,,,,True,False,,False
+Karkus,[],,giant,male,,,,False,,,,,,,,False,False,,False
+Golgomath,[],,giant,male,,,,False,,,,,,,,False,False,,True
+Fridwulfa,[],,giant,female,,,,False,,,,,,,,False,False,,False
+Andrew Kirke,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Jack Sloper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Everard,['Professor Everard'],Sam Beazley,human,male,,,,True,,,black,,,,,False,False,Sam Beazley,False
+Dilys Derwent,['Professor Dilys Derwent'],,human,female,,,,True,,,silver,,,,,False,False,,False
+Hippocrates Smethwyck,[],,human,male,,,,True,,,,,,,,False,False,,True
+Augustus Pye,[],,human,male,,,,True,,,,,,,,False,False,,True
+Urquhart Rackharrow,[],,human,male,,,,True,,,,,,,,False,False,,False
+Willy Widdershins,[],,human,male,,,,True,,,,,,,,False,False,,True
+Agnes,[],,human,female,,,,True,,,,,,,,False,False,,True
+Miriam Strout,[],,human,female,,,,True,,,,,,,,False,False,,True
+Madam Puddifoot,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Summerby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Marietta Edgecombe,[],,human,female,Ravenclaw,,,True,,,blonde,,,,,True,False,,True
+Madam Edgecombe,[],,human,female,,,,True,,,,,,,,False,False,,True
+John Dawlish,[],Richard Leaf,human,male,,,,True,,,grey,,,,,False,False,Richard Leaf,True
+Williamson,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bradley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Roger Davies,[],Henry Lloyd-Hughes,human,male,Ravenclaw,,,True,,,,,,,,True,False,Henry Lloyd-Hughes,True
+Grawp,[],Tony Maudsley,giant,male,,,,False,,green,brown,,,,,False,False,Tony Maudsley,True
+Griselda Marchbanks,['Madam Professor Griselda Marchbanks'],,human,female,,,,True,,,,,,,,False,False,,True
+Eddie Carmichael,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Daphne Greengrass,[],,human,female,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Tofty,['Professor Tofty'],,human,male,,,,True,,brown,grey,,,,,False,False,,True
+Tiberius Ogden,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pierre Bonaccord,[],,human,male,,,,True,,,,,,,,False,False,,True
+Stubby Boardman,['Sirius Black'],,human,male,,,,True,,,,,,,,False,False,,True
+Magorian,[],Michael Wildman,centaur,male,,,,True,,,black,,,,,False,False,Michael Wildman,True
+Emmeline Vance,[],Brigitte Millar,human,female,,,,True,,,,,,,,False,False,Brigitte Millar,False
+Herbert Chorley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+The British Prime Minister,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Ulick Gamp,[],,human,male,,,,True,,yellow,silver,,,,,False,False,,False
+Rufus Scrimgeour,[],Bill Nighy,human,male,,,,True,,yellowish,tawny,,,,,False,False,Bill Nighy,False
+Corban Yaxley,[],Peter Mullan,human,male,,,,True,,blue,blond,,,,,False,False,Peter Mullan,True
+Fenrir Greyback,[],Dave Legeno,werewolf,male,,,,True,,,grey,,,,,False,False,Dave Legeno,True
+Dirk Cresswell,[],,human,male,,,,True,muggleborn,,,,,,,False,False,,False
+Barnabas Cuffe,[],Roger C. Bailey,human,male,,,,True,,,,,,,,False,False,Roger C. Bailey,True
+Ambrosius Flume,[],,human,male,,,,True,,,bald,,,,,False,False,,True
+Gwenog Jones,[],,human,female,,,,True,,brown,brown,,,,,False,False,,True
+Arkie Philpott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Verity,[],,human,female,,,,True,,,blonde,,,,,False,False,,True
+Arnold,[],,pygmy puff,male,,,,False,,,purple,,,,,False,False,,True
+Romilda Vane,[],Anna Shaffer,human,female,Gryffindor,,,True,,dark,black,,,,,True,False,Anna Shaffer,True
+Cormac McLaggen,[],Freddie Stroma,human,male,Gryffindor,,,True,,,,,,,,True,False,Freddie Stroma,True
+Marcus Belby,[],Robert Knox,human,male,Ravenclaw,,,True,,,,,,,,True,False,Robert Knox,True
+Damocles Belby,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tiberius,[],,human,male,,,,True,,,,,,,,True,False,,False
+Bertie Higgs,[],,human,male,,,,True,,,,,,,,False,False,,False
+Proudfoot,[],,human,male,,,,True,,,,,,,,False,False,,True
+Savage,[],,human,male,,,,True,,,,,,,,False,False,,True
+Humphrey Belcher,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bob Ogden,[],,human,male,,,,True,,,,,,,,False,False,,False
+Morfin Gaunt,[],,human,male,,,,True,pure-blood,dark,,,,,,False,False,,False
+Marvolo Gaunt,[],,human,male,,,,True,pure-blood,brown,grey,,,,,False,False,,False
+Merope Gaunt,['Merope Riddle'],,human,female,,,,True,pure-blood,,dull,,,,,False,False,,False
+Cecilia,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Tom Riddle,['Tom Riddle Senior'],,human,male,,,,False,muggle,,dark,,,,,False,False,,False
+Demelza Robins,[],Katy Huxley-Golden,human,female,Gryffindor,,,True,,,,,,,,True,False,Katy Huxley-Golden,True
+Jimmy Peakes,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Ritchie Coote,[],Ashley Virgil,human,male,Gryffindor,,,True,,,,,,,,True,False,Ashley Virgil,True
+Melinda Bobbin,[],,human,female,,,,True,,,,,,,,True,False,,True
+Leanne,[],Isabella Laughland,human,female,Hufflepuff,,,True,,,,,,,,True,False,Isabella Laughland,True
+Caractacus Burke,[],,human,male,,,,True,,,,,,,,False,False,,False
+Billy Stubbs,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Amy Benson,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Dennis Bishop,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Cole,[],Amelda Brown,human,female,,,,False,muggle,,,,,,,False,False,Amelda Brown,True
+Eric Whalley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Vaisey,[],,human,male,Slytherin,,,True,,,dark,,,,,True,False,,True
+Harper,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Urquhart,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eldred Worple,[],Paul Ritter,human,male,,,,True,,,,,,,,False,False,Paul Ritter,True
+Sanguini,[],Charlie Bennison,vampire,male,,,,True,,,dark,,,,,False,False,Charlie Bennison,True
+Gawain Robards,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fergus,[],,human,male,,,,True,,,,,,,,False,False,,True
+Wilkie Twycross,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cadwallader,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Galatea Merrythought,[],,human,female,,,,True,,,,,,,,False,True,,False
+Hepzibah Smith,[],,human,female,,,,True,,,,,,,,False,False,,False
+Hokey,[],,house-elf,female,,,,False,,,,,,,,False,False,,False
+Octavius Pepper,[],,human,male,,,,False,,,,,,,,False,False,,False
+Bertram Aubrey,[],,human,male,,,,False,,,,,,,,False,False,,False
+Eileen Prince,[],,human,female,,,,False,pure-blood,,,,,,,False,False,,False
+Amycus Carrow,[],Ralph Ineson,human,male,Slytherin,,,True,,,,,,,,False,False,Ralph Ineson,True
+Alecto Carrow,[],Suzie Toase,human,female,Slytherin,,,True,,,,,,,,False,False,Suzie Toase,True
+Gibbon,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tobias Snape,[],,human,male,,,,False,,,,,,,,False,False,,True
+Pius Thicknesse,[],Guy Henry,human,male,,,,True,,,black,,,,,False,False,Guy Henry,True
+Wakanda,[],Harriet Thorpe,human,female,,,,True,,,blonde,,,,,False,False,Harriet Thorpe,True
+Charity Burbage,[],Carolyn Pickles,human,female,,,,True,,,,,,,,False,True,Carolyn Pickles,False
+Percival Dumbledore,[],,human,male,,,,True,,,,,,,,False,False,,False
+Kendra Dumbledore,[],,human,female,,,,True,muggleborn,dark,black,,,,,False,False,,False
+Ariana Dumbledore,[],Hebe Beardsall,human,female,,,,True,half-blood,,,,,,,False,False,Hebe Beardsall,False
+Betty Braithwaite,[],,human,female,,,,True,,,,,,,,False,False,,True
+Apolline Delacour,[],,half-human,female,,,,True,half-veela,,blonde,,,,,False,False,,True
+Gabrielle Delacour,[],Angelica Mandy,human,female,,,,True,quarter-veela,,blonde,,,,,False,False,Angelica Mandy,True
+Monsieur Delacour,[],,human,male,,,,True,,,black,,,,,False,False,,True
+Dragomir Gorgovitch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Xenophilius Lovegood,[],Rhys Ifans,human,male,Ravenclaw,,,True,,,white,,,,,False,False,Rhys Ifans,True
+Pandora Lovegood,[],,human,female,Ravenclaw,,,True,,,,,,,,False,False,,False
+Muriel,"['Aunt Muriel', 'Auntie Muriel']",Matyelok Gibbs,human,female,,,,True,,,grey,,,,,False,False,Matyelok Gibbs,True
+Bilius,['Uncle Bilius'],,human,male,,,,True,,,,,,,,False,False,,False
+Thorfinn Rowle,[],Rod Hunt,human,male,,,,True,,,blond,,,,,False,False,Rod Hunt,True
+Reg Cattermole,['Reginald Cattermole'],Steffan Rhodri,human,male,,,,True,,,,,,,,False,False,Steffan Rhodri,True
+Albert Runcorn,[],David O'Hara,human,male,,,,True,,,black,,,,,False,False,David O'Hara,True
+Arkie Alderton,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mary Cattermole,['Mary Elizabeth Cattermole'],Kate Fleetwood,human,female,,,,True,muggleborn,,,,,,,False,False,Kate Fleetwood,True
+Maisie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Ellie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Alfred Cattermole,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gornuk,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Bowman Wright,[],,human,male,,,,True,,,,,,,,False,False,,False
+Ivor Dillonsby,[],,human,male,,,,True,,,,,,,,False,False,,True
+Enid Smeek,[],,human,female,,,,True,,,,,,,,False,False,,True
+Egbert the Egregious,[],,human,male,,,,True,,,,,,,,False,False,,False
+Godelot,[],,human,male,,,,True,,,,,,,,False,False,,False
+Hereward,[],,human,male,,,,True,,,,,,,,False,False,,False
+Loxias,[],,human,male,,,,True,,,,,,,,False,False,,False
+Barnabas Deverill,[],,human,male,,,,True,,,,,,,,False,False,,False
+Arcus,[],,human,male,,,,True,,,,,,,,False,False,,False
+Livius,[],,human,male,,,,True,,,,,,,,False,False,,False
+Antioch Peverell,['First Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Cadmus Peverell,['Second Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Ignotus Peverell,['Third Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Selwyn,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,True
+Scabior,[],Nick Moran,human,male,Slytherin,,,True,,,,,,,,False,False,Nick Moran,True
+Ragnuk the First,['King Ragnuk the First'],,goblin,male,,,,False,,,,,,,,False,False,,False
+Ted Lupin,['Edward Remus Teddy Lupin'],Luke Newberry,human,male,Hufflepuff,,,True,half-blood,,,,,,,False,False,Luke Newberry,True
+Marius,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bogrod,[],Jon Key,goblin,male,,,,False,,black,white,,,,,False,False,Jon Key,True
+The Grey Lady,['Helena Ravenclaw'],Nina Young,ghost,female,,,,True,,,,,,,,False,False,Nina Young,False
+Dexter Fortescue,['Professor Dexter Fortescue'],,human,male,,,,True,,,,,,,,False,False,,False
+Lily Potter,['Lily Luna Potter'],Daphne de Beistegui,human,female,Gryffindor,,,True,half-blood,,red,,,,,False,False,Daphne de Beistegui,True
+James Potter,['James Sirius Potter'],Will Dunn,human,male,Gryffindor,,,True,half-blood,,,,,,,True,False,Will Dunn,True
+Albus Severus Potter,['Al'],Arthur Bowen,human,male,Slytherin,,,True,half-blood,green,black,,,,,True,False,Arthur Bowen,True
+Rose Weasley,[],Helena Barlow,human,female,Gryffindor,,,True,half-blood,,red,,,,,True,False,Helena Barlow,True
+Hugo Weasley,[],Ryan Turner,human,male,,,,True,half-blood,,brown,,,,,True,False,Ryan Turner,True
+Scorpius Malfoy,['Scorpius Hyperion Malfoy'],Bertie Gilbert,human,male,Slytherin,,,True,pure-blood,grey,blond,,,,,True,False,Bertie Gilbert,True
+Victoire Weasley,[],,human,female,,,,True,,,blonde,,,,,True,False,,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,holly,phoenix tail feather,11.0,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,vine,dragon heartstring,10.75,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,willow,unicorn tail hair,14.0,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,hawthorn,unicorn tail hair,10.0,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,fir,dragon heartstring,9.5,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,ash,unicorn hair,12.25,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,oak,,16.0,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,cherry,unicorn tail hair,13.0,Non-Corporeal,True,False,Matthew Lewis,True
+Luna Lovegood,['Loony Lovegood'],Evanna Lynch,human,female,Ravenclaw,13-02-1981,1981.0,True,,silver,blonde,,,,hare,True,False,Evanna Lynch,True
+Ginny Weasley,[],Bonnie Wright,human,female,Gryffindor,11-08-1981,1981.0,True,pure-blood,brown,red,yew,,,horse,True,False,Bonnie Wright,True
+Sirius Black,"['Padfoot', 'Snuffles']",Gary Oldman,human,male,Gryffindor,03-11-1959,1959.0,True,pure-blood,grey,black,,,,hare,False,False,Gary Oldman,False
+Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",David Thewlis,werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,cypress,unicorn tail hair,10.25,wolf,False,True,David Thewlis,False
+Arthur Weasley,[],Mark Williams,human,male,Gryffindor,06-02-1950,1950.0,True,pure-blood,blue,red,,,,weasel,False,False,Mark Williams,True
+Bellatrix Lestrange,['Bella'],Helena Bonham Carter,human,female,Slytherin,,1951.0,True,pure-blood,brown,black,walnut,dragon heartstring,12.75,,False,False,Helena Bonham Carter,False
+Lord Voldemort,"['Tom Riddle', 'Tom Marvolo Riddle', 'You-Know-Who', 'He Who Must Not Be Named', 'the Dark Lord', 'the Heir of Slytherin']",Ralph Fiennes,human,male,Slytherin,31-12-1926,1926.0,True,half-blood,Scarlet,bald,yew,phoenix tail feather,13.5,,False,False,Ralph Fiennes,False
+Horace Slughorn,[],Jim Broadbent,human,male,Slytherin,,,True,pure-blood,green,blonde,cedar,dragon heartstring,10.25,,False,True,Jim Broadbent,True
+Kingsley Shacklebolt,[],George Harris,human,male,,,,True,pure-blood,brown,brown,,,,lynx,False,False,George Harris,True
+Dolores Umbridge,[],Imelda Staunton,human,female,Slytherin,,,True,half-blood,brown,grey,birch,dragon heartstring,8.0,persian cat,False,True,Imelda Staunton,True
+Lucius Malfoy,[],Jason Isaacs,human,male,Slytherin,,1954.0,True,pure-blood,grey,blonde,elm,dragon heartstring,18.0,,False,False,Jason Isaacs,True
+Vincent Crabbe,[],Jamie Waylett,human,male,Slytherin,,,True,pure-blood,black,black,,,,,True,False,Jamie Waylett,False
+Mr Crabbe,[],Paschal Friel,human,male,,,,True,pure-blood,,,,,,,False,False,Paschal Friel,False
+Gregory Goyle,[],Josh Herdman,human,male,Slytherin,,,True,pure-blood,,brown,,,,,True,False,Josh Herdman,True
+Mr Goyle,[],Alex Palmer,human,male,,,,True,pure-blood,,,,,,,True,False,Alex Palmer,True
+Mrs Norris,[],"Maxime, Alanis and Tommy the cats",cat,female,,,,False,,yellow,brown,,,,,False,True,"Maxime, Alanis and Tommy the cats",True
+Argus Filch,[],David Bradley,human,male,,,,False,squib,,grey,,,,,False,True,David Bradley,True
+Vernon Dursley,[],Richard Griffiths,human,male,,,,False,muggle,,,,,,,False,False,Richard Griffiths,True
+Petunia Dursley,[],Fiona Shaw,human,female,,,,False,muggle,,blonde,,,,,False,False,Fiona Shaw,True
+Dudley Dursley,[],Harry Melling,human,male,,23-6-1980,1980.0,False,muggle,blue,blond,,,,,False,False,Harry Melling,True
+Boa constrictor,['A Brazilian Boa Constrictor'],,snake,,,,,False,,beady,,,,,,False,False,,True
+Lily Potter,[],Geraldine Somerville,human,female,Gryffindor,30-01-1960,1960.0,True,muggleborn,green,,willow,,10.25,,False,False,Geraldine Somerville,False
+James Potter,['Prongs'],Adrian Rawlins,human,male,Gryffindor,27-03-1960,1960.0,True,pure-blood,,black,mahogany,,11.0,stag,False,False,Adrian Rawlins,False
+Albus Dumbledore,['Professor Dumbledore'],Richard Harris,human,male,Gryffindor,,1881.0,True,half-blood,blue,silver,,,,Phoenix,False,True,Richard Harris,False
+Fawkes,[],,phoenix,male,,,,False,,black,red,,,,,False,False,,True
+Madam Pomfrey,['Poppy Pomfrey'],Gemma Jones,human,female,,,,True,,,,,,,,False,True,Gemma Jones,True
+Mrs Figg,['Arabella Doreen Figg'],Kathryn Hunter,human,female,,,,False,squib,,,,,,,False,False,Kathryn Hunter,True
+Marge Dursley,"['Marjorie Eileen Dursley', 'Aunt Marge', 'Auntie Marge', 'Margie']",Pam Ferris,human,female,,,,False,muggle,,,,,,,False,False,Pam Ferris,True
+Ripper,[],,dog,male,,,,False,,black,,,,,,False,False,,True
+Yvonne,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Piers Polkiss,[],Jason Boyd,human,male,,,,False,muggle,,,,,,,False,False,Jason Boyd,True
+Dennis,[],Christopher Rithin,human,male,,,,False,muggle,,,,,,,False,False,Christopher Rithin,True
+Malcolm,[],Richard Macklin,human,male,,,,False,muggle,,,,,,,False,False,Richard Macklin,True
+Gordon,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Miranda Gaushawk,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bathilda Bagshot,[],,human,female,,,,True,,,,,,,,False,False,,False
+Adalbert Waffling,[],,human,male,,,,True,,,,,,,,False,False,,False
+Emeric Switch,[],,human,male,,,,True,,,,,,,,False,False,,False
+Phyllida Spore,['Dame Phyllida Spore'],,human,female,,,,True,,,,,,,,False,False,,False
+Arsenius Jigger,[],,human,male,,,,True,,,,,,,,False,False,,False
+Newt Scamander,['Newton Artemis Fido Scamander'],Eddie Redmayne,human,male,Hufflepuff,24-02-1897,1897.0,True,,hazel,brown,,,,,False,False,Eddie Redmayne,True
+Quentin Trimble,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tom,[],Derek Deadman,human,male,,,,True,,,,,,,,False,False,Derek Deadman,True
+Doris Crockford,[],Nina Young,human,female,,,,True,,,,,,,,False,False,Nina Young,True
+Quirinus Quirrel,['Professor Quirrel'],Ian Hart,human,male,,,,True,,,,alder,unicorn hair,9.0,,False,True,Ian Hart,False
+Griphook,[],Verne Troyer,goblin,male,,,,False,,,,,,,,False,False,Verne Troyer,False
+Madam Malkin,[],,human,female,,,,True,,,,,,,,False,False,,True
+Vindictus Viridian,[],,human,male,,,,True,,,,,,,,False,False,,False
+Garrick Ollivander,[],John Hurt,human,male,,,,True,,"pale, silvery",,hornbeam,dragon heartstring,12.75,,False,False,John Hurt,True
+Hedwig,[],Gizmo,owl,female,,,,False,,amber,white,,,,,False,False,Gizmo,False
+Trevor,[],,toad,male,,,,False,,black,,,,,,False,False,,True
+Hermes,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Errol,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Pigwidgeon,"['Pig', 'Piggy']",,owl,male,,,,False,,,grey,,,,,False,False,,True
+Molly Weasley,"['Molly Prewett', 'Mollywabbles']",Julie Walters,human,female,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Julie Walters,True
+Percy Weasley,"['Perce', 'Percy Ignatius Weasley', 'Weatherby']",Chris Rankin,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Chris Rankin,True
+Fred Weasley,[],James Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,James Phelps,False
+George Weasley,[],Oliver Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Oliver Phelps,True
+Lee Jordan,[],Luke Youngblood,human,male,Gryffindor,,,True,,,,,,,,True,False,Luke Youngblood,True
+Bill Weasley,['William Arthur Weasley'],Richard Fish,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Richard Fish,True
+Charlie Weasley,['Charles Weasley'],Alex Crockford,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Alex Crockford,True
+Fat Friar,[],Simon Fisher-Becker,ghost,male,Hufflepuff,,,True,,,,,,,,False,False,Simon Fisher-Becker,False
+Peeves,[],,poltergeist,male,,,,True,,,,,,,,False,False,,False
+Hannah Abbott,[],Charlotte Skeoch,human,female,Hufflepuff,,,True,half-blood,,blonde,,,,,True,False,Charlotte Skeoch,True
+Susan Bones,[],Eleanor Columbus,human,female,Hufflepuff,,,True,,,,,,,,True,False,Eleanor Columbus,True
+Terry Boot,[],Kevin Lee Yi,human,male,Ravenclaw,,,True,,,,,,,,True,False,Kevin Lee Yi,True
+Mandy Brocklehurst,[],Christina Petrou,human,female,Ravenclaw,,,True,,,,,,,,True,False,Christina Petrou,True
+Lavender Brown,[],Kathleen Cauley,human,female,Gryffindor,,,True,,,,,,,,True,False,Kathleen Cauley,True
+Millicent Bulstrode,[],Helen Stuart,human,female,Slytherin,,,True,,,,,,,,True,False,Helen Stuart,True
+Justin Finch-Fletchley,[],Edward Randell,human,male,Hufflepuff,,,True,muggleborn,,,,,,,True,False,Edward Randell,True
+Seamus Finnigan,"[""O'Flaherty"", 'Seamus Finnegan']",Devon Murray,human,male,Gryffindor,,,True,half-blood,,sandy,,,,,True,False,Devon Murray,True
+Mrs Finnigan,[],,human,female,,,,True,,,sandy,,,,,False,False,,True
+Mr Finnigan,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Morag MacDougal,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lily Moon,[],,human,female,,,,True,,,,,,,,True,False,,True
+Theodore Nott,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Mr Nott,[],Philip Rham,human,male,,,,True,pure-blood,,,,,,,True,False,Philip Rham,True
+Pansy Parkinson,[],Genevieve Gaunt,human,female,Slytherin,,,True,,,,,,,,True,False,Genevieve Gaunt,True
+Parvati Patil,[],Sitara Shah,human,female,Gryffindor,,,True,,,,,,,,True,False,Sitara Shah,True
+Padma Patil,[],Sharon Sandhu,human,female,Ravenclaw,,,True,,,,,,,,True,False,Sharon Sandhu,True
+Sally-Anne Perks,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lisa Turpin,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Blaise Zabini,[],Louis Cordice,human,male,Slytherin,,,True,,,,,,,,True,False,Louis Cordice,True
+Nearly Headless Nick,"['Sir Nicholas de Mimsy-Porpington', 'Sir Nicholas', 'Nick']",John Cleese,ghost,male,Gryffindor,,,True,,,,,,,,False,False,John Cleese,False
+Bloody Baron,[],Terence Bayler,ghost,male,Slytherin,,,True,,,,,,,,False,False,Terence Bayler,False
+The Wailing Widow,[],,ghost,female,,,,True,,,,,,,,False,False,,False
+Fat Lady,[],Elizabeth Spriggs,human,female,,,,True,,,,,,,,False,False,Elizabeth Spriggs,False
+Pomona Sprout,['Professor Sprout'],Miriam Margolyes,human,female,Hufflepuff,,,True,,,,,,,,False,True,Miriam Margolyes,True
+Cuthbert Binns,['Professor Binns'],,ghost,male,,,,True,,,,,,,,False,True,,False
+Emeric the Evil,[],,human,male,,,,True,,,,,,,,False,False,,False
+Uric the Oddball,[],,human,male,,,,True,,,,,,,,False,False,,False
+Filius Flitwick,['Professor Flitwick'],Warwick Davis,human,male,Ravenclaw,,,True,,,,,,,,False,True,Warwick Davis,True
+Madam Hooch,['Rolanda Hooch'],Zoë Wanamaker,human,female,,,,True,,yellow,grey,,,,,False,True,Zoë Wanamaker,True
+Oliver Wood,[],Sean Biggerstaff,human,male,,,,True,,,,,,,,True,False,Sean Biggerstaff,True
+Gregory the Smarmy,[],,human,male,,,,True,,,,,,,,False,False,,False
+Wizard Baruffio,[],,human,male,,,,True,,,,,,,,False,False,,False
+Angelina Johnson,[],Danielle Tabor,human,female,Gryffindor,,,True,,,,,,,,True,False,Danielle Tabor,True
+Marcus Flint,[],Jamie Yeates,human,male,Slytherin,,,True,,,,,,,,True,False,Jamie Yeates,True
+Alicia Spinet,[],Leilah Sutherland,human,female,Gryffindor,,,True,,,,,,,,True,False,Leilah Sutherland,True
+Katie Bell,[],Emily Dale,human,female,Gryffindor,,,True,,,,,,,,True,False,Emily Dale,True
+Adrian Pucey,[],Scot Fearn,human,male,Slytherin,,,True,,,,,,,,True,False,Scot Fearn,True
+Miles Bletchley,[],David Churchyard,human,male,Slytherin,,,True,,,,,,,,True,False,David Churchyard,True
+Terence Higgs,[],Will Theakston,human,male,Slytherin,,,True,,,,,,,,True,False,Will Theakston,True
+Fang,[],Hugo,dog,male,,,,False,,,black,,,,,False,False,Hugo,True
+Fluffy,[],,three-headed dog,male,,,,False,,,,,,,,False,False,,True
+Nicolas Flamel,[],Brontis Jodorowsky,human,male,,,,True,,,,,,,,False,False,Brontis Jodorowsky,False
+Gellert Grindelwald,[],Jamie Campbell Bower,human,male,,,,True,,blue,blond,,,,,False,False,Jamie Campbell Bower,False
+Norberta,['Norbert'],,dragon,female,,,,False,,orange,,,,,,False,False,,True
+Ronan,[],,centaur,male,,,,False,,,red,,,,,False,False,,True
+Bane,[],Jason Piper,centaur,male,,,,False,,,,,,,,False,False,Jason Piper,True
+Firenze,['Professor Firenze'],Ray Fearon,centaur,male,,,,False,,blue,blond,,,,,False,True,Ray Fearon,True
+The Giant Squid,[],,cephalopod,,,,,False,,,,,,,,False,False,,True
+Murcus,['Merchieftainess Murcus'],,selkie,female,,,,False,,yellow,green,,,,,False,False,,True
+Elfrick the Eager,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Perenelle Flamel,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bertie Bott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dobby,[],Toby Jones,house-elf,male,,,,False,,green,,,,,,False,False,Toby Jones,False
+Kreacher,[],Timothy Bateson,house-elf,male,,,,False,,,white,,,,,False,False,Timothy Bateson,False
+Mr Mason,[],Jim Norton,human,male,,,,False,muggle,,,,,,,False,False,Jim Norton,True
+Mrs Mason,[],Veronica Clifford,human,female,,,,False,muggle,,,,,,,False,False,Veronica Clifford,True
+Perkins,[],,human,male,,,,True,,,white,,,,,False,False,,True
+Celestina Warbeck,[],,human,female,Gryffindor,,,True,half-blood,,,larch,phoenix feather,10.5,,False,False,,True
+Gilderoy Lockhart,['Professor Lockhart'],Kenneth Branagh,human,male,,,,True,half-blood,blue,blond,cherry,dragon heartstring,9.0,,False,True,Kenneth Branagh,True
+The Basilisk,[],,serpent,,,,,False,,yellow,,,,,,False,False,,False
+Mundungus Fletcher,['Dung'],Andy Linden,human,male,,,,True,,,ginger,,,,,False,False,Andy Linden,True
+Mr Borgin,[],Edward Tudor-Pole,human,male,,,,True,,,,,,,,False,False,Edward Tudor-Pole,True
+Mr Granger,['Wendell Wilkins'],Tom Knight,human,male,,,,False,muggle,,,,,,,False,False,Tom Knight,True
+Mrs Granger,['Monica Wilkins'],Heather Bleasdale,human,female,,,,False,muggle,,,,,,,False,False,Heather Bleasdale,True
+Dr Filibuster,[],,human,male,,,,True,,,,,,,,False,False,,True
+Colin Creevey,[],Hugh Mitchell,human,male,Gryffindor,,,True,muggleborn,,,,,,,True,False,Hugh Mitchell,False
+Gladys Gudgeon,[],,human,female,,,,True,,,,,,,,False,False,,True
+Veronica Smethley,[],,human,female,,,,True,,,,,,,,False,False,,True
+Patrick Delaney-Podmore,['Sir Patrick Delaney-Podmore'],,ghost,male,,,,True,,,,,,,,False,False,,False
+Z. Nettles,[],,human,female,,,,True,,,,,,,,False,False,,True
+D.J. Prod,['Demetrius J. Prod'],Chris Wilson,human,male,,,,True,,,,,,,,False,False,Chris Wilson,False
+Elsie Prod,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moaning Myrtle,['Myrtle Elizabeth Warren'],Shirley Henderson,ghost,female,Ravenclaw,,,True,muggleborn,,,,,,,False,False,Shirley Henderson,False
+Godric Gryffindor,[],,human,male,,,,True,,,,,,,,False,False,,False
+Rowena Ravenclaw,[],,human,female,,,,True,,,,,,,,False,False,,False
+Helga Hufflepuff,[],,human,female,,,,True,,,,,,,,False,False,,False
+Salazar Slytherin,[],,human,male,,,,True,,,,,,,,False,False,,False
+Madame Pince,['Irma Pince'],Sally Mortemore,human,female,,,,True,,,,,,,,False,True,Sally Mortemore,True
+Milicent Bullstroude,[],Helen Stuart,human,female,Slytherin,,,True,,,black,,,,,True,False,Helen Stuart,True
+Ernie Macmillan,['Ernest Macmillan'],Louis Doyle,human,male,Hufflepuff,,,True,,,blond,,,,boar,True,False,Louis Doyle,True
+Armando Dippet,['Professor Dippet'],Alfred Burke,human,male,,,,True,,,white,,,,,False,False,Alfred Burke,False
+Penelope Clearwater,['Penny'],Gemma Padley,human,female,Ravenclaw,,,True,,,,,,,,True,False,Gemma Padley,True
+Cornelius Fudge,['Minister Cornelius Oswald Fudge'],Robert Hardy,human,male,,,,True,,,grey,,,,,False,False,Robert Hardy,True
+Oblansk,['Obalonsk'],,human,male,,,,True,,,,,,,,False,False,,True
+Aragog,[],Julian Glover,acromantula,male,,,,False,,white,brown,,,,,False,False,Julian Glover,False
+Mosag,[],,acromantula,female,,,,False,,black,brown,,,,,False,False,,True
+Stanley Shunpike,['Stan'],Lee Ingleby,human,male,,,,True,,,,,,,,False,False,Lee Ingleby,True
+Ernest Prang,['Ernie'],Jimmy Gardner,human,male,,,,True,,,,,,,,False,False,Jimmy Gardner,True
+Madam Marsh,[],,human,female,,,,True,,,,,,,,False,False,,True
+Florean Fortescue,[],,human,male,,,,True,,,,,,,,False,False,,False
+Sir Cadogan,[],Paul Whitehouse,human,male,,,,True,,,,,,,,False,False,Paul Whitehouse,False
+Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",Emma Thompson,human,female,,,,True,,,,hazel,unicorn hair,9.5,,False,True,Emma Thompson,True
+Buckbeak,"['Beaky', 'Witherwings']",,hippogriff,male,,,,False,,orange,,,,,,False,False,,True
+Peter Pettigrew,"['Wormtail', 'Scabbers', 'Wormy']",Timothy Spall,human,male,Gryffindor,,,True,,,,chestnut,dragon heartstring,9.25,,False,False,Timothy Spall,False
+Crookshanks,[],Crackerjack,cat,male,,,,False,,yellow,ginger,,,,,False,False,Crackerjack,True
+The Trolley Witch,[],Jean Southern,human,female,,,,True,,dark,grey,,,,,False,False,Jean Southern,True
+The Sorting Hat,[],Leslie Phillips,hat,,,,,True,,,,,,,,False,False,Leslie Phillips,True
+Madam Rosmerta,[],Julie Christie,human,female,,,,True,,,,,,,,False,False,Julie Christie,True
+Derek,[],,human,male,,,,True,,,,,,,,True,False,,True
+Septima Vector,['Professor Vector'],,human,female,,,,True,,,,,,,,False,True,,True
+Cassius Warrington,[],Ashley Hull,human,male,Slytherin,,,True,,,,,,,,True,False,Ashley Hull,True
+Graham Montague,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Peregrine Derrick,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Lucian Bole,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Walden Macnair,[],Peter Best,human,male,Slytherin,,,True,,,black,,,,,False,False,Peter Best,True
+Franc Bryce,[],Eric Sykes,human,male,,,,False,muggle,,,,,,,False,False,Eric Sykes,False
+Dot,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Bertha Jorkins,[],,human,female,,,,True,,,,,,,,False,False,,False
+Barty Crouch,['Bartemius Crouch Senior'],Roger Lloyd-Pack,human,male,,,,True,pure-blood,,,,,,,False,False,Roger Lloyd-Pack,False
+Barty Crouch Junior,['Bartemius Crouch Junior'],David Tennant,human,male,,,,True,,,blond,,,,,False,False,David Tennant,True
+Mrs Crouch,[],,human,female,,,,True,,,,,,,,False,False,,False
+Ludo Bagman,['Ludovic Bagman'],,human,male,,,,True,,blue,blond,,,,,False,False,,True
+Amos Diggory,[],Jeff Rawle,human,male,,,,True,,,brown,,,,,False,False,Jeff Rawle,True
+Mrs Diggory,[],,human,female,,,,True,,,,,,,,False,False,,True
+Mr Roberts,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Roberts,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Kevin,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mr Payne,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Basil,[],,human,male,,,,True,,,,,,,,False,False,,True
+Archie Aymslowe,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cuthbert Mockridge,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gilbert Wimple,[],,human,male,,,,True,,,,,,,,False,False,,True
+Arnold Peasegood,[],,human,male,,,,True,,,,,,,,False,False,,True
+Broderick Bode,[],,human,male,,,,True,,,,,,,,False,False,,False
+Saul Croaker,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ali Bashir,[],,human,male,,,,True,,,,,,,,False,False,,True
+Victor Krum,[],Stanislav Ianevski,human,male,,,,True,,dark,dark,hornbeam,dragon heartstring,10.25,,False,False,Stanislav Ianevski,True
+Winky,[],,house-elf,female,,,,False,,,,,,,,False,False,,True
+Narcissa Malfoy,['Cissy'],Helen McCrory,human,female,,,,True,pure-blood,blue,blonde,,,,,False,False,Helen McCrory,True
+Vasily Dimitrov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Clara Ivanova,[],,human,female,,,,True,,,,,,,,False,False,,True
+Lev Zograf,[],,human,male,,,,True,,,,,,,,False,False,,True
+Alexei Levski,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pyotr Vulchanov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ivan Volkov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Connolly,[],,human,male,,,,True,,,,,,,,False,False,,True
+Barry Ryan,[],,human,male,,,,True,,,,,,,,False,False,,True
+Troy,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mullet,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moran,[],,human,female,,,,True,,,,,,,,False,False,,True
+Quigley,[],,human,male,,,,True,,,,,,,,False,False,,True
+Aidan Lynch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Hassan Mostafa,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dennis Creevey,[],,human,male,,,,True,muggleborn,,brown,,,,,True,False,,True
+Aurora Sinistra,['Professor Sinistra'],,human,female,,,,True,,,,,,,,False,True,,True
+Stewart Ackerley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Malcolm Baddock,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eleanor Branstone,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Owen Cauldwell,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Emma Dobbs,[],,human,female,,,,True,,,,,,,,True,False,,True
+Laura Madley,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Natalie McDonald,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Graham Pritchard,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Orla Quirke,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Kevin Whitby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Eloise Midgen,[],Samantha Clinch,human,female,Gryffindor,,,True,,,,,,,,True,False,Samantha Clinch,True
+Alastor Moody,"['Professor Moody', 'Mad-Eye']",Brendan Gleeson,human,male,,,,True,pure-blood,dark,grey,,,,,False,True,Brendan Gleeson,False
+Madame Maxime,['Olympe Maxime'],Frances de la Tour,half-giant,female,,,,True,,,,,,,,False,False,Frances de la Tour,True
+Igor Karkaroff,[],Predrag Bjelac,human,male,,,,True,,blue,silver,,,,,False,False,Predrag Bjelac,False
+Poliakoff,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fawcett,[],Alex Argenti,human,female,Ravenclaw,,,True,,,,,,,,True,False,Alex Argenti,True
+Summers,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Fleur Delacour,[],Clémence Poésy,human,female,,,,True,,blue,blonde,,,,,False,False,Clémence Poésy,True
+Gregorovic,['Mykew Gregorovitch'],Rade Šerbedžija,human,male,,,,True,,,white,,,,,False,False,Rade Šerbedžija,False
+Rita Skeeter,[],Miranda Richardson,human,female,,,,True,,,blonde,,,,,False,False,Miranda Richardson,True
+Stebbins,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],Apple Brook,human,female,,,,True,,,grey,,,,,False,True,Apple Brook,True
+Bozo,[],Peter O'Farrell,human,male,,,,True,,,,,,,,False,False,Peter O'Farrell,True
+Evan Rosier,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Wilkes,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Avery,[],Richard Rosson,human,male,Slytherin,,,True,,,,,,,,False,False,Richard Rosson,True
+Antonin Dolohov,[],Arben Bajraktaraj,human,male,,,,True,,,dark,,,,,False,False,Arben Bajraktaraj,True
+Travers,[],Tav MacDougall,human,male,,,,True,,,grey,,,,,False,False,Tav MacDougall,True
+Marlene McKinnon,[],,human,female,,,,True,,,,,,,,False,False,,False
+Mulciber,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,True
+Augustus Rookwood,[],Richard Trinder,human,male,,,,True,,,,,,,,False,False,Richard Trinder,True
+Frank Longbottom,[],James Payton,human,male,,,,True,pure-blood,,,,,,,False,False,James Payton,True
+Alice Longbottom,[],Lisa Wood,human,female,,,,True,pure-blood,,white,,,,,False,False,Lisa Wood,True
+Augusta Longbottom,[],Leila Hoffman,human,female,,,,True,pure-blood,,,,,,,False,False,Leila Hoffman,True
+Violet,[],,human,female,,,,True,,,,,,,,False,False,,False
+Apollyon Pringle,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ogg,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mafalda Hopkirk,[],Jessica Hynes,human,female,,,,True,,hazel,grey,,,,,False,False,Jessica Hynes,True
+Nymphadora Tonks,"['Dora', 'Nymphadora Lupin']",Natalia Tena,human,female,Hufflepuff,,,True,,,brown,,,,,False,False,Natalia Tena,False
+Elphias Doge,[],Peter Cartwright,human,male,,,,True,pure-blood,blue,silver,,,,,False,False,Peter Cartwright,True
+Dedalus Diggle,[],David Brett,human,male,,,,True,,,,,,,,False,False,David Brett,True
+Sturgis Podmore,[],,human,male,,,,True,,,blond,,,,,False,False,,True
+Hestia Jones,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Ragnok,[],,goblin,male,,,,False,,,,,,,,False,False,,True
+Alphard Black,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,False
+Regulus Black,['Regulus Arcturus Black'],Tom Moorcroft,human,male,Slytherin,,,True,pure-blood,,black,,,,,False,False,Tom Moorcroft,False
+Phineas Nigelus Black,['Professor Phineas Nigellus Black'],John Atterbury,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,John Atterbury,False
+Araminta Meliflua Black,[],,human,female,Slytherin,,,True,,,,,,,,False,False,,False
+Elladora Black,[],,human,female,,,,True,pure-blood,,,,,,,False,False,,False
+Mrs Black,['Walburga Black'],,human,female,,,,True,pure-blood,brown,brown,,,,,False,False,,False
+Andromeda Tonks,[],,human,female,Slytherin,,,True,pure-blood,,brown,,,,,False,False,,True
+Ted Tonks,['Edward'],,human,female,,,,True,muggleborn,,blond,,,,,False,False,,False
+Rodolphus Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Rabastan Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Eric Munch,['Eric'],,human,male,,,,True,,,,,,,,False,False,,True
+Bob,[],Nicholas Blane,human,male,,,,True,,,,,,,,False,False,Nicholas Blane,True
+Bengie Fenwick,[],,human,male,,,,True,,,,,,,,False,False,,False
+Edgar Bones,[],Cliff Lanning,human,male,,,,True,,,,,,,,False,False,Cliff Lanning,False
+Amelia Bones,[],Sian Thomas,human,female,,,,True,,,grey,,,,,False,False,Sian Thomas,True
+Caradoc Dearborn,[],,human,male,,,,True,,,,,,,,False,False,,False
+Gideon Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Fabian Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Aberforth Dumbledore,[],Jim McManus,human,male,Gryffindor,,,True,half-blood,blue,,,,,goat,False,False,Jim McManus,True
+Dorcas Meadowes,[],,human,female,,,,True,,,,,,,,False,False,,False
+Algie Longbottom,[],,human,male,,,,True,,,,,,,,False,False,,True
+Anthony Goldstein,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Doris Purkiss,[],,human,male,,,,True,,,,,,,,False,False,,True
+Euan Abercrombie,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Rose Zeller,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Patricia Stimpson,[],,human,female,,,,True,,,,,,,,True,False,,True
+Kenneth Towler,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Vicky Frobisher,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Geoffrey Hooper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Cassandra Trelawney,[],,human,female,,,,True,,,,,,,,False,False,,False
+Michael Corner,[],Ryan Nelson,human,male,Ravenclaw,,,True,,,,,,,,True,False,Ryan Nelson,True
+Zacharias Smith,[],Nick Shirm,human,male,Ravenclaw,,,True,,,blond,,,,,True,False,Nick Shirm,True
+Barnabas the Barmy,[],,human,male,,,,True,,,,,,,,True,False,,False
+Karkus,[],,giant,male,,,,False,,,,,,,,False,False,,False
+Golgomath,[],,giant,male,,,,False,,,,,,,,False,False,,True
+Fridwulfa,[],,giant,female,,,,False,,,,,,,,False,False,,False
+Andrew Kirke,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Jack Sloper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Everard,['Professor Everard'],Sam Beazley,human,male,,,,True,,,black,,,,,False,False,Sam Beazley,False
+Dilys Derwent,['Professor Dilys Derwent'],,human,female,,,,True,,,silver,,,,,False,False,,False
+Hippocrates Smethwyck,[],,human,male,,,,True,,,,,,,,False,False,,True
+Augustus Pye,[],,human,male,,,,True,,,,,,,,False,False,,True
+Urquhart Rackharrow,[],,human,male,,,,True,,,,,,,,False,False,,False
+Willy Widdershins,[],,human,male,,,,True,,,,,,,,False,False,,True
+Agnes,[],,human,female,,,,True,,,,,,,,False,False,,True
+Miriam Strout,[],,human,female,,,,True,,,,,,,,False,False,,True
+Madam Puddifoot,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Summerby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Marietta Edgecombe,[],,human,female,Ravenclaw,,,True,,,blonde,,,,,True,False,,True
+Madam Edgecombe,[],,human,female,,,,True,,,,,,,,False,False,,True
+John Dawlish,[],Richard Leaf,human,male,,,,True,,,grey,,,,,False,False,Richard Leaf,True
+Williamson,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bradley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Roger Davies,[],Henry Lloyd-Hughes,human,male,Ravenclaw,,,True,,,,,,,,True,False,Henry Lloyd-Hughes,True
+Grawp,[],Tony Maudsley,giant,male,,,,False,,green,brown,,,,,False,False,Tony Maudsley,True
+Griselda Marchbanks,['Madam Professor Griselda Marchbanks'],,human,female,,,,True,,,,,,,,False,False,,True
+Eddie Carmichael,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Daphne Greengrass,[],,human,female,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Tofty,['Professor Tofty'],,human,male,,,,True,,brown,grey,,,,,False,False,,True
+Tiberius Ogden,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pierre Bonaccord,[],,human,male,,,,True,,,,,,,,False,False,,True
+Stubby Boardman,['Sirius Black'],,human,male,,,,True,,,,,,,,False,False,,True
+Magorian,[],Michael Wildman,centaur,male,,,,True,,,black,,,,,False,False,Michael Wildman,True
+Emmeline Vance,[],Brigitte Millar,human,female,,,,True,,,,,,,,False,False,Brigitte Millar,False
+Herbert Chorley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+The British Prime Minister,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Ulick Gamp,[],,human,male,,,,True,,yellow,silver,,,,,False,False,,False
+Rufus Scrimgeour,[],Bill Nighy,human,male,,,,True,,yellowish,tawny,,,,,False,False,Bill Nighy,False
+Corban Yaxley,[],Peter Mullan,human,male,,,,True,,blue,blond,,,,,False,False,Peter Mullan,True
+Fenrir Greyback,[],Dave Legeno,werewolf,male,,,,True,,,grey,,,,,False,False,Dave Legeno,True
+Dirk Cresswell,[],,human,male,,,,True,muggleborn,,,,,,,False,False,,False
+Barnabas Cuffe,[],Roger C. Bailey,human,male,,,,True,,,,,,,,False,False,Roger C. Bailey,True
+Ambrosius Flume,[],,human,male,,,,True,,,bald,,,,,False,False,,True
+Gwenog Jones,[],,human,female,,,,True,,brown,brown,,,,,False,False,,True
+Arkie Philpott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Verity,[],,human,female,,,,True,,,blonde,,,,,False,False,,True
+Arnold,[],,pygmy puff,male,,,,False,,,purple,,,,,False,False,,True
+Romilda Vane,[],Anna Shaffer,human,female,Gryffindor,,,True,,dark,black,,,,,True,False,Anna Shaffer,True
+Cormac McLaggen,[],Freddie Stroma,human,male,Gryffindor,,,True,,,,,,,,True,False,Freddie Stroma,True
+Marcus Belby,[],Robert Knox,human,male,Ravenclaw,,,True,,,,,,,,True,False,Robert Knox,True
+Damocles Belby,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tiberius,[],,human,male,,,,True,,,,,,,,True,False,,False
+Bertie Higgs,[],,human,male,,,,True,,,,,,,,False,False,,False
+Proudfoot,[],,human,male,,,,True,,,,,,,,False,False,,True
+Savage,[],,human,male,,,,True,,,,,,,,False,False,,True
+Humphrey Belcher,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bob Ogden,[],,human,male,,,,True,,,,,,,,False,False,,False
+Morfin Gaunt,[],,human,male,,,,True,pure-blood,dark,,,,,,False,False,,False
+Marvolo Gaunt,[],,human,male,,,,True,pure-blood,brown,grey,,,,,False,False,,False
+Merope Gaunt,['Merope Riddle'],,human,female,,,,True,pure-blood,,dull,,,,,False,False,,False
+Cecilia,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Tom Riddle,['Tom Riddle Senior'],,human,male,,,,False,muggle,,dark,,,,,False,False,,False
+Demelza Robins,[],Katy Huxley-Golden,human,female,Gryffindor,,,True,,,,,,,,True,False,Katy Huxley-Golden,True
+Jimmy Peakes,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Ritchie Coote,[],Ashley Virgil,human,male,Gryffindor,,,True,,,,,,,,True,False,Ashley Virgil,True
+Melinda Bobbin,[],,human,female,,,,True,,,,,,,,True,False,,True
+Leanne,[],Isabella Laughland,human,female,Hufflepuff,,,True,,,,,,,,True,False,Isabella Laughland,True
+Caractacus Burke,[],,human,male,,,,True,,,,,,,,False,False,,False
+Billy Stubbs,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Amy Benson,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Dennis Bishop,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Cole,[],Amelda Brown,human,female,,,,False,muggle,,,,,,,False,False,Amelda Brown,True
+Eric Whalley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Vaisey,[],,human,male,Slytherin,,,True,,,dark,,,,,True,False,,True
+Harper,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Urquhart,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eldred Worple,[],Paul Ritter,human,male,,,,True,,,,,,,,False,False,Paul Ritter,True
+Sanguini,[],Charlie Bennison,vampire,male,,,,True,,,dark,,,,,False,False,Charlie Bennison,True
+Gawain Robards,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fergus,[],,human,male,,,,True,,,,,,,,False,False,,True
+Wilkie Twycross,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cadwallader,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Galatea Merrythought,[],,human,female,,,,True,,,,,,,,False,True,,False
+Hepzibah Smith,[],,human,female,,,,True,,,,,,,,False,False,,False
+Hokey,[],,house-elf,female,,,,False,,,,,,,,False,False,,False
+Octavius Pepper,[],,human,male,,,,False,,,,,,,,False,False,,False
+Bertram Aubrey,[],,human,male,,,,False,,,,,,,,False,False,,False
+Eileen Prince,[],,human,female,,,,False,pure-blood,,,,,,,False,False,,False
+Amycus Carrow,[],Ralph Ineson,human,male,Slytherin,,,True,,,,,,,,False,False,Ralph Ineson,True
+Alecto Carrow,[],Suzie Toase,human,female,Slytherin,,,True,,,,,,,,False,False,Suzie Toase,True
+Gibbon,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tobias Snape,[],,human,male,,,,False,,,,,,,,False,False,,True
+Pius Thicknesse,[],Guy Henry,human,male,,,,True,,,black,,,,,False,False,Guy Henry,True
+Wakanda,[],Harriet Thorpe,human,female,,,,True,,,blonde,,,,,False,False,Harriet Thorpe,True
+Charity Burbage,[],Carolyn Pickles,human,female,,,,True,,,,,,,,False,True,Carolyn Pickles,False
+Percival Dumbledore,[],,human,male,,,,True,,,,,,,,False,False,,False
+Kendra Dumbledore,[],,human,female,,,,True,muggleborn,dark,black,,,,,False,False,,False
+Ariana Dumbledore,[],Hebe Beardsall,human,female,,,,True,half-blood,,,,,,,False,False,Hebe Beardsall,False
+Betty Braithwaite,[],,human,female,,,,True,,,,,,,,False,False,,True
+Apolline Delacour,[],,half-human,female,,,,True,half-veela,,blonde,,,,,False,False,,True
+Gabrielle Delacour,[],Angelica Mandy,human,female,,,,True,quarter-veela,,blonde,,,,,False,False,Angelica Mandy,True
+Monsieur Delacour,[],,human,male,,,,True,,,black,,,,,False,False,,True
+Dragomir Gorgovitch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Xenophilius Lovegood,[],Rhys Ifans,human,male,Ravenclaw,,,True,,,white,,,,,False,False,Rhys Ifans,True
+Pandora Lovegood,[],,human,female,Ravenclaw,,,True,,,,,,,,False,False,,False
+Muriel,"['Aunt Muriel', 'Auntie Muriel']",Matyelok Gibbs,human,female,,,,True,,,grey,,,,,False,False,Matyelok Gibbs,True
+Bilius,['Uncle Bilius'],,human,male,,,,True,,,,,,,,False,False,,False
+Thorfinn Rowle,[],Rod Hunt,human,male,,,,True,,,blond,,,,,False,False,Rod Hunt,True
+Reg Cattermole,['Reginald Cattermole'],Steffan Rhodri,human,male,,,,True,,,,,,,,False,False,Steffan Rhodri,True
+Albert Runcorn,[],David O'Hara,human,male,,,,True,,,black,,,,,False,False,David O'Hara,True
+Arkie Alderton,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mary Cattermole,['Mary Elizabeth Cattermole'],Kate Fleetwood,human,female,,,,True,muggleborn,,,cherry,unicorn hair,8.75,,False,False,Kate Fleetwood,True
+Maisie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Ellie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Alfred Cattermole,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gornuk,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Bowman Wright,[],,human,male,,,,True,,,,,,,,False,False,,False
+Ivor Dillonsby,[],,human,male,,,,True,,,,,,,,False,False,,True
+Enid Smeek,[],,human,female,,,,True,,,,,,,,False,False,,True
+Egbert the Egregious,[],,human,male,,,,True,,,,,,,,False,False,,False
+Godelot,[],,human,male,,,,True,,,,,,,,False,False,,False
+Hereward,[],,human,male,,,,True,,,,,,,,False,False,,False
+Loxias,[],,human,male,,,,True,,,,,,,,False,False,,False
+Barnabas Deverill,[],,human,male,,,,True,,,,,,,,False,False,,False
+Arcus,[],,human,male,,,,True,,,,,,,,False,False,,False
+Livius,[],,human,male,,,,True,,,,,,,,False,False,,False
+Antioch Peverell,['First Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Cadmus Peverell,['Second Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Ignotus Peverell,['Third Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Selwyn,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,True
+Scabior,[],Nick Moran,human,male,Slytherin,,,True,,,,,,,,False,False,Nick Moran,True
+Ragnuk the First,['King Ragnuk the First'],,goblin,male,,,,False,,,,,,,,False,False,,False
+Ted Lupin,['Edward Remus Teddy Lupin'],Luke Newberry,human,male,Hufflepuff,,,True,half-blood,,,,,,,False,False,Luke Newberry,True
+Marius,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bogrod,[],Jon Key,goblin,male,,,,False,,black,white,,,,,False,False,Jon Key,True
+The Grey Lady,['Helena Ravenclaw'],Nina Young,ghost,female,,,,True,,,,,,,,False,False,Nina Young,False
+Dexter Fortescue,['Professor Dexter Fortescue'],,human,male,,,,True,,,,,,,,False,False,,False
+Lily Potter,['Lily Luna Potter'],Daphne de Beistegui,human,female,Gryffindor,,,True,half-blood,,red,,,,,False,False,Daphne de Beistegui,True
+James Potter,['James Sirius Potter'],Will Dunn,human,male,Gryffindor,,,True,half-blood,,,,,,,True,False,Will Dunn,True
+Albus Severus Potter,['Al'],Arthur Bowen,human,male,Slytherin,,,True,half-blood,green,black,,,,,True,False,Arthur Bowen,True
+Rose Weasley,[],Helena Barlow,human,female,Gryffindor,,,True,half-blood,,red,,,,,True,False,Helena Barlow,True
+Hugo Weasley,[],Ryan Turner,human,male,,,,True,half-blood,,brown,,,,,True,False,Ryan Turner,True
+Scorpius Malfoy,['Scorpius Hyperion Malfoy'],Bertie Gilbert,human,male,Slytherin,,,True,pure-blood,grey,blond,,,,,True,False,Bertie Gilbert,True
+Victoire Weasley,[],,human,female,,,,True,,,blonde,,,,,True,False,,True
+Harry Potter,"['The Boy Who Lived', 'The Chosen One', 'Undesirable No. 1', 'Potty']",Daniel Radcliffe,human,male,Gryffindor,31-07-1980,1980.0,True,half-blood,green,black,holly,phoenix tail feather,11.0,stag,True,False,Daniel Radcliffe,True
+Hermione Granger,"['Hermy', 'Know-it-all', 'Miss Grant', 'Herm-own-ninny']",Emma Watson,human,female,Gryffindor,19-09-1979,1979.0,True,muggleborn,brown,brown,vine,dragon heartstring,10.75,otter,True,False,Emma Watson,True
+Ron Weasley,"['Dragomir Despard', 'Ronald', 'Ickle Ronniekins', 'Ronnie', 'Wheezy', 'Won-Won', 'Roonil Wazlib']",Rupert Grint,human,male,Gryffindor,01-03-1980,1980.0,True,pure-blood,blue,red,willow,unicorn tail hair,14.0,Jack Russell terrier,True,False,Rupert Grint,True
+Draco Malfoy,[],Tom Felton,human,male,Slytherin,05-06-1980,1980.0,True,pure-blood,grey,blonde,hawthorn,unicorn tail hair,10.0,,True,False,Tom Felton,True
+Minerva McGonagall,[],Dame Maggie Smith,human,female,Gryffindor,04-10-1925,1925.0,True,half-blood,,black,fir,dragon heartstring,9.5,tabby cat,False,True,Dame Maggie Smith,True
+Cedric Diggory,[],Robert Pattinson,human,male,Hufflepuff,,1977.0,True,,grey,brown,ash,unicorn hair,12.25,,True,False,Robert Pattinson,False
+Cho Chang,[],Katie Leung,human,female,Ravenclaw,07-04-1979,1979.0,True,,brown,black,,,,swan,True,False,Katie Leung,True
+Severus Snape,"['Half-Blood Prince', 'Snivellus', 'Sev']",Alan Rickman,human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,,,,doe,False,True,Alan Rickman,False
+Rubeus Hagrid,"['Professor Hagrid', 'Hagger']",Robbie Coltrane,half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,oak,,16.0,,False,True,Robbie Coltrane,True
+Neville Longbottom,[],Matthew Lewis,human,male,Gryffindor,30-07-1980,1980.0,True,pure-blood,,blonde,cherry,unicorn tail hair,13.0,Non-Corporeal,True,False,Matthew Lewis,True
+Luna Lovegood,['Loony Lovegood'],Evanna Lynch,human,female,Ravenclaw,13-02-1981,1981.0,True,,silver,blonde,,,,hare,True,False,Evanna Lynch,True
+Ginny Weasley,[],Bonnie Wright,human,female,Gryffindor,11-08-1981,1981.0,True,pure-blood,brown,red,yew,,,horse,True,False,Bonnie Wright,True
+Sirius Black,"['Padfoot', 'Snuffles']",Gary Oldman,human,male,Gryffindor,03-11-1959,1959.0,True,pure-blood,grey,black,,,,hare,False,False,Gary Oldman,False
+Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",David Thewlis,werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,cypress,unicorn tail hair,10.25,wolf,False,True,David Thewlis,False
+Arthur Weasley,[],Mark Williams,human,male,Gryffindor,06-02-1950,1950.0,True,pure-blood,blue,red,,,,weasel,False,False,Mark Williams,True
+Bellatrix Lestrange,['Bella'],Helena Bonham Carter,human,female,Slytherin,,1951.0,True,pure-blood,brown,black,walnut,dragon heartstring,12.75,,False,False,Helena Bonham Carter,False
+Lord Voldemort,"['Tom Riddle', 'Tom Marvolo Riddle', 'You-Know-Who', 'He Who Must Not Be Named', 'the Dark Lord', 'the Heir of Slytherin']",Ralph Fiennes,human,male,Slytherin,31-12-1926,1926.0,True,half-blood,Scarlet,bald,yew,phoenix tail feather,13.5,,False,False,Ralph Fiennes,False
+Horace Slughorn,[],Jim Broadbent,human,male,Slytherin,,,True,pure-blood,green,blonde,cedar,dragon heartstring,10.25,,False,True,Jim Broadbent,True
+Kingsley Shacklebolt,[],George Harris,human,male,,,,True,pure-blood,brown,brown,,,,lynx,False,False,George Harris,True
+Dolores Umbridge,[],Imelda Staunton,human,female,Slytherin,,,True,half-blood,brown,grey,birch,dragon heartstring,8.0,persian cat,False,True,Imelda Staunton,True
+Lucius Malfoy,[],Jason Isaacs,human,male,Slytherin,,1954.0,True,pure-blood,grey,blonde,elm,dragon heartstring,18.0,,False,False,Jason Isaacs,True
+Vincent Crabbe,[],Jamie Waylett,human,male,Slytherin,,,True,pure-blood,black,black,,,,,True,False,Jamie Waylett,False
+Mr Crabbe,[],Paschal Friel,human,male,,,,True,pure-blood,,,,,,,False,False,Paschal Friel,False
+Gregory Goyle,[],Josh Herdman,human,male,Slytherin,,,True,pure-blood,,brown,,,,,True,False,Josh Herdman,True
+Mr Goyle,[],Alex Palmer,human,male,,,,True,pure-blood,,,,,,,True,False,Alex Palmer,True
+Mrs Norris,[],"Maxime, Alanis and Tommy the cats",cat,female,,,,False,,yellow,brown,,,,,False,True,"Maxime, Alanis and Tommy the cats",True
+Argus Filch,[],David Bradley,human,male,,,,False,squib,,grey,,,,,False,True,David Bradley,True
+Vernon Dursley,[],Richard Griffiths,human,male,,,,False,muggle,,,,,,,False,False,Richard Griffiths,True
+Petunia Dursley,[],Fiona Shaw,human,female,,,,False,muggle,,blonde,,,,,False,False,Fiona Shaw,True
+Dudley Dursley,[],Harry Melling,human,male,,23-6-1980,1980.0,False,muggle,blue,blond,,,,,False,False,Harry Melling,True
+Boa constrictor,['A Brazilian Boa Constrictor'],,snake,,,,,False,,beady,,,,,,False,False,,True
+Lily Potter,[],Geraldine Somerville,human,female,Gryffindor,30-01-1960,1960.0,True,muggleborn,green,,willow,,10.25,,False,False,Geraldine Somerville,False
+James Potter,['Prongs'],Adrian Rawlins,human,male,Gryffindor,27-03-1960,1960.0,True,pure-blood,,black,mahogany,,11.0,stag,False,False,Adrian Rawlins,False
+Albus Dumbledore,['Professor Dumbledore'],Richard Harris,human,male,Gryffindor,,1881.0,True,half-blood,blue,silver,,,,Phoenix,False,True,Richard Harris,False
+Fawkes,[],,phoenix,male,,,,False,,black,red,,,,,False,False,,True
+Madam Pomfrey,['Poppy Pomfrey'],Gemma Jones,human,female,,,,True,,,,,,,,False,True,Gemma Jones,True
+Mrs Figg,['Arabella Doreen Figg'],Kathryn Hunter,human,female,,,,False,squib,,,,,,,False,False,Kathryn Hunter,True
+Marge Dursley,"['Marjorie Eileen Dursley', 'Aunt Marge', 'Auntie Marge', 'Margie']",Pam Ferris,human,female,,,,False,muggle,,,,,,,False,False,Pam Ferris,True
+Ripper,[],,dog,male,,,,False,,black,,,,,,False,False,,True
+Yvonne,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Piers Polkiss,[],Jason Boyd,human,male,,,,False,muggle,,,,,,,False,False,Jason Boyd,True
+Dennis,[],Christopher Rithin,human,male,,,,False,muggle,,,,,,,False,False,Christopher Rithin,True
+Malcolm,[],Richard Macklin,human,male,,,,False,muggle,,,,,,,False,False,Richard Macklin,True
+Gordon,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Miranda Gaushawk,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bathilda Bagshot,[],,human,female,,,,True,,,,,,,,False,False,,False
+Adalbert Waffling,[],,human,male,,,,True,,,,,,,,False,False,,False
+Emeric Switch,[],,human,male,,,,True,,,,,,,,False,False,,False
+Phyllida Spore,['Dame Phyllida Spore'],,human,female,,,,True,,,,,,,,False,False,,False
+Arsenius Jigger,[],,human,male,,,,True,,,,,,,,False,False,,False
+Newt Scamander,['Newton Artemis Fido Scamander'],Eddie Redmayne,human,male,Hufflepuff,24-02-1897,1897.0,True,,hazel,brown,,,,,False,False,Eddie Redmayne,True
+Quentin Trimble,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tom,[],Derek Deadman,human,male,,,,True,,,,,,,,False,False,Derek Deadman,True
+Doris Crockford,[],Nina Young,human,female,,,,True,,,,,,,,False,False,Nina Young,True
+Quirinus Quirrel,['Professor Quirrel'],Ian Hart,human,male,,,,True,,,,alder,unicorn hair,9.0,,False,True,Ian Hart,False
+Griphook,[],Verne Troyer,goblin,male,,,,False,,,,,,,,False,False,Verne Troyer,False
+Madam Malkin,[],,human,female,,,,True,,,,,,,,False,False,,True
+Vindictus Viridian,[],,human,male,,,,True,,,,,,,,False,False,,False
+Garrick Ollivander,[],John Hurt,human,male,,,,True,,"pale, silvery",,hornbeam,dragon heartstring,12.75,,False,False,John Hurt,True
+Hedwig,[],Gizmo,owl,female,,,,False,,amber,white,,,,,False,False,Gizmo,False
+Trevor,[],,toad,male,,,,False,,black,,,,,,False,False,,True
+Hermes,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Errol,[],,owl,male,,,,False,,,grey,,,,,False,False,,True
+Pigwidgeon,"['Pig', 'Piggy']",,owl,male,,,,False,,,grey,,,,,False,False,,True
+Molly Weasley,"['Molly Prewett', 'Mollywabbles']",Julie Walters,human,female,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Julie Walters,True
+Percy Weasley,"['Perce', 'Percy Ignatius Weasley', 'Weatherby']",Chris Rankin,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Chris Rankin,True
+Fred Weasley,[],James Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,James Phelps,False
+George Weasley,[],Oliver Phelps,human,male,Gryffindor,,,True,pure-blood,,red,,,,,True,False,Oliver Phelps,True
+Lee Jordan,[],Luke Youngblood,human,male,Gryffindor,,,True,,,,,,,,True,False,Luke Youngblood,True
+Bill Weasley,['William Arthur Weasley'],Richard Fish,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Richard Fish,True
+Charlie Weasley,['Charles Weasley'],Alex Crockford,human,male,Gryffindor,,,True,pure-blood,,red,,,,,False,False,Alex Crockford,True
+Fat Friar,[],Simon Fisher-Becker,ghost,male,Hufflepuff,,,True,,,,,,,,False,False,Simon Fisher-Becker,False
+Peeves,[],,poltergeist,male,,,,True,,,,,,,,False,False,,False
+Hannah Abbott,[],Charlotte Skeoch,human,female,Hufflepuff,,,True,half-blood,,blonde,,,,,True,False,Charlotte Skeoch,True
+Susan Bones,[],Eleanor Columbus,human,female,Hufflepuff,,,True,,,,,,,,True,False,Eleanor Columbus,True
+Terry Boot,[],Kevin Lee Yi,human,male,Ravenclaw,,,True,,,,,,,,True,False,Kevin Lee Yi,True
+Mandy Brocklehurst,[],Christina Petrou,human,female,Ravenclaw,,,True,,,,,,,,True,False,Christina Petrou,True
+Lavender Brown,[],Kathleen Cauley,human,female,Gryffindor,,,True,,,,,,,,True,False,Kathleen Cauley,True
+Millicent Bulstrode,[],Helen Stuart,human,female,Slytherin,,,True,,,,,,,,True,False,Helen Stuart,True
+Justin Finch-Fletchley,[],Edward Randell,human,male,Hufflepuff,,,True,muggleborn,,,,,,,True,False,Edward Randell,True
+Seamus Finnigan,"[""O'Flaherty"", 'Seamus Finnegan']",Devon Murray,human,male,Gryffindor,,,True,half-blood,,sandy,,,,,True,False,Devon Murray,True
+Mrs Finnigan,[],,human,female,,,,True,,,sandy,,,,,False,False,,True
+Mr Finnigan,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Morag MacDougal,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lily Moon,[],,human,female,,,,True,,,,,,,,True,False,,True
+Theodore Nott,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Mr Nott,[],Philip Rham,human,male,,,,True,pure-blood,,,,,,,True,False,Philip Rham,True
+Pansy Parkinson,[],Genevieve Gaunt,human,female,Slytherin,,,True,,,,,,,,True,False,Genevieve Gaunt,True
+Parvati Patil,[],Sitara Shah,human,female,Gryffindor,,,True,,,,,,,,True,False,Sitara Shah,True
+Padma Patil,[],Sharon Sandhu,human,female,Ravenclaw,,,True,,,,,,,,True,False,Sharon Sandhu,True
+Sally-Anne Perks,[],,human,female,,,,True,,,,,,,,True,False,,True
+Lisa Turpin,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Blaise Zabini,[],Louis Cordice,human,male,Slytherin,,,True,,,,,,,,True,False,Louis Cordice,True
+Nearly Headless Nick,"['Sir Nicholas de Mimsy-Porpington', 'Sir Nicholas', 'Nick']",John Cleese,ghost,male,Gryffindor,,,True,,,,,,,,False,False,John Cleese,False
+Bloody Baron,[],Terence Bayler,ghost,male,Slytherin,,,True,,,,,,,,False,False,Terence Bayler,False
+The Wailing Widow,[],,ghost,female,,,,True,,,,,,,,False,False,,False
+Fat Lady,[],Elizabeth Spriggs,human,female,,,,True,,,,,,,,False,False,Elizabeth Spriggs,False
+Pomona Sprout,['Professor Sprout'],Miriam Margolyes,human,female,Hufflepuff,,,True,,,,,,,,False,True,Miriam Margolyes,True
+Cuthbert Binns,['Professor Binns'],,ghost,male,,,,True,,,,,,,,False,True,,False
+Emeric the Evil,[],,human,male,,,,True,,,,,,,,False,False,,False
+Uric the Oddball,[],,human,male,,,,True,,,,,,,,False,False,,False
+Filius Flitwick,['Professor Flitwick'],Warwick Davis,human,male,Ravenclaw,,,True,,,,,,,,False,True,Warwick Davis,True
+Madam Hooch,['Rolanda Hooch'],Zoë Wanamaker,human,female,,,,True,,yellow,grey,,,,,False,True,Zoë Wanamaker,True
+Oliver Wood,[],Sean Biggerstaff,human,male,,,,True,,,,,,,,True,False,Sean Biggerstaff,True
+Gregory the Smarmy,[],,human,male,,,,True,,,,,,,,False,False,,False
+Wizard Baruffio,[],,human,male,,,,True,,,,,,,,False,False,,False
+Angelina Johnson,[],Danielle Tabor,human,female,Gryffindor,,,True,,,,,,,,True,False,Danielle Tabor,True
+Marcus Flint,[],Jamie Yeates,human,male,Slytherin,,,True,,,,,,,,True,False,Jamie Yeates,True
+Alicia Spinet,[],Leilah Sutherland,human,female,Gryffindor,,,True,,,,,,,,True,False,Leilah Sutherland,True
+Katie Bell,[],Emily Dale,human,female,Gryffindor,,,True,,,,,,,,True,False,Emily Dale,True
+Adrian Pucey,[],Scot Fearn,human,male,Slytherin,,,True,,,,,,,,True,False,Scot Fearn,True
+Miles Bletchley,[],David Churchyard,human,male,Slytherin,,,True,,,,,,,,True,False,David Churchyard,True
+Terence Higgs,[],Will Theakston,human,male,Slytherin,,,True,,,,,,,,True,False,Will Theakston,True
+Fang,[],Hugo,dog,male,,,,False,,,black,,,,,False,False,Hugo,True
+Fluffy,[],,three-headed dog,male,,,,False,,,,,,,,False,False,,True
+Nicolas Flamel,[],Brontis Jodorowsky,human,male,,,,True,,,,,,,,False,False,Brontis Jodorowsky,False
+Gellert Grindelwald,[],Jamie Campbell Bower,human,male,,,,True,,blue,blond,,,,,False,False,Jamie Campbell Bower,False
+Norberta,['Norbert'],,dragon,female,,,,False,,orange,,,,,,False,False,,True
+Ronan,[],,centaur,male,,,,False,,,red,,,,,False,False,,True
+Bane,[],Jason Piper,centaur,male,,,,False,,,,,,,,False,False,Jason Piper,True
+Firenze,['Professor Firenze'],Ray Fearon,centaur,male,,,,False,,blue,blond,,,,,False,True,Ray Fearon,True
+The Giant Squid,[],,cephalopod,,,,,False,,,,,,,,False,False,,True
+Murcus,['Merchieftainess Murcus'],,selkie,female,,,,False,,yellow,green,,,,,False,False,,True
+Elfrick the Eager,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Perenelle Flamel,[],,human,female,,,,True,,,,,,,,False,False,,False
+Bertie Bott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dobby,[],Toby Jones,house-elf,male,,,,False,,green,,,,,,False,False,Toby Jones,False
+Kreacher,[],Timothy Bateson,house-elf,male,,,,False,,,white,,,,,False,False,Timothy Bateson,False
+Mr Mason,[],Jim Norton,human,male,,,,False,muggle,,,,,,,False,False,Jim Norton,True
+Mrs Mason,[],Veronica Clifford,human,female,,,,False,muggle,,,,,,,False,False,Veronica Clifford,True
+Perkins,[],,human,male,,,,True,,,white,,,,,False,False,,True
+Celestina Warbeck,[],,human,female,Gryffindor,,,True,half-blood,,,larch,phoenix feather,10.5,,False,False,,True
+Gilderoy Lockhart,['Professor Lockhart'],Kenneth Branagh,human,male,,,,True,half-blood,blue,blond,cherry,dragon heartstring,9.0,,False,True,Kenneth Branagh,True
+The Basilisk,[],,serpent,,,,,False,,yellow,,,,,,False,False,,False
+Mundungus Fletcher,['Dung'],Andy Linden,human,male,,,,True,,,ginger,,,,,False,False,Andy Linden,True
+Mr Borgin,[],Edward Tudor-Pole,human,male,,,,True,,,,,,,,False,False,Edward Tudor-Pole,True
+Mr Granger,['Wendell Wilkins'],Tom Knight,human,male,,,,False,muggle,,,,,,,False,False,Tom Knight,True
+Mrs Granger,['Monica Wilkins'],Heather Bleasdale,human,female,,,,False,muggle,,,,,,,False,False,Heather Bleasdale,True
+Dr Filibuster,[],,human,male,,,,True,,,,,,,,False,False,,True
+Colin Creevey,[],Hugh Mitchell,human,male,Gryffindor,,,True,muggleborn,,,,,,,True,False,Hugh Mitchell,False
+Gladys Gudgeon,[],,human,female,,,,True,,,,,,,,False,False,,True
+Veronica Smethley,[],,human,female,,,,True,,,,,,,,False,False,,True
+Patrick Delaney-Podmore,['Sir Patrick Delaney-Podmore'],,ghost,male,,,,True,,,,,,,,False,False,,False
+Z. Nettles,[],,human,female,,,,True,,,,,,,,False,False,,True
+D.J. Prod,['Demetrius J. Prod'],Chris Wilson,human,male,,,,True,,,,,,,,False,False,Chris Wilson,False
+Elsie Prod,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moaning Myrtle,['Myrtle Elizabeth Warren'],Shirley Henderson,ghost,female,Ravenclaw,,,True,muggleborn,,,,,,,False,False,Shirley Henderson,False
+Godric Gryffindor,[],,human,male,,,,True,,,,,,,,False,False,,False
+Rowena Ravenclaw,[],,human,female,,,,True,,,,,,,,False,False,,False
+Helga Hufflepuff,[],,human,female,,,,True,,,,,,,,False,False,,False
+Salazar Slytherin,[],,human,male,,,,True,,,,,,,,False,False,,False
+Madame Pince,['Irma Pince'],Sally Mortemore,human,female,,,,True,,,,,,,,False,True,Sally Mortemore,True
+Milicent Bullstroude,[],Helen Stuart,human,female,Slytherin,,,True,,,black,,,,,True,False,Helen Stuart,True
+Ernie Macmillan,['Ernest Macmillan'],Louis Doyle,human,male,Hufflepuff,,,True,,,blond,,,,boar,True,False,Louis Doyle,True
+Armando Dippet,['Professor Dippet'],Alfred Burke,human,male,,,,True,,,white,,,,,False,False,Alfred Burke,False
+Penelope Clearwater,['Penny'],Gemma Padley,human,female,Ravenclaw,,,True,,,,,,,,True,False,Gemma Padley,True
+Cornelius Fudge,['Minister Cornelius Oswald Fudge'],Robert Hardy,human,male,,,,True,,,grey,,,,,False,False,Robert Hardy,True
+Oblansk,['Obalonsk'],,human,male,,,,True,,,,,,,,False,False,,True
+Aragog,[],Julian Glover,acromantula,male,,,,False,,white,brown,,,,,False,False,Julian Glover,False
+Mosag,[],,acromantula,female,,,,False,,black,brown,,,,,False,False,,True
+Stanley Shunpike,['Stan'],Lee Ingleby,human,male,,,,True,,,,,,,,False,False,Lee Ingleby,True
+Ernest Prang,['Ernie'],Jimmy Gardner,human,male,,,,True,,,,,,,,False,False,Jimmy Gardner,True
+Madam Marsh,[],,human,female,,,,True,,,,,,,,False,False,,True
+Florean Fortescue,[],,human,male,,,,True,,,,,,,,False,False,,False
+Sir Cadogan,[],Paul Whitehouse,human,male,,,,True,,,,,,,,False,False,Paul Whitehouse,False
+Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",Emma Thompson,human,female,,,,True,,,,hazel,unicorn hair,9.5,,False,True,Emma Thompson,True
+Buckbeak,"['Beaky', 'Witherwings']",,hippogriff,male,,,,False,,orange,,,,,,False,False,,True
+Peter Pettigrew,"['Wormtail', 'Scabbers', 'Wormy']",Timothy Spall,human,male,Gryffindor,,,True,,,,chestnut,dragon heartstring,9.25,,False,False,Timothy Spall,False
+Crookshanks,[],Crackerjack,cat,male,,,,False,,yellow,ginger,,,,,False,False,Crackerjack,True
+The Trolley Witch,[],Jean Southern,human,female,,,,True,,dark,grey,,,,,False,False,Jean Southern,True
+The Sorting Hat,[],Leslie Phillips,hat,,,,,True,,,,,,,,False,False,Leslie Phillips,True
+Madam Rosmerta,[],Julie Christie,human,female,,,,True,,,,,,,,False,False,Julie Christie,True
+Derek,[],,human,male,,,,True,,,,,,,,True,False,,True
+Septima Vector,['Professor Vector'],,human,female,,,,True,,,,,,,,False,True,,True
+Cassius Warrington,[],Ashley Hull,human,male,Slytherin,,,True,,,,,,,,True,False,Ashley Hull,True
+Graham Montague,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Peregrine Derrick,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Lucian Bole,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Walden Macnair,[],Peter Best,human,male,Slytherin,,,True,,,black,,,,,False,False,Peter Best,True
+Franc Bryce,[],Eric Sykes,human,male,,,,False,muggle,,,,,,,False,False,Eric Sykes,False
+Dot,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Bertha Jorkins,[],,human,female,,,,True,,,,,,,,False,False,,False
+Barty Crouch,['Bartemius Crouch Senior'],Roger Lloyd-Pack,human,male,,,,True,pure-blood,,,,,,,False,False,Roger Lloyd-Pack,False
+Barty Crouch Junior,['Bartemius Crouch Junior'],David Tennant,human,male,,,,True,,,blond,,,,,False,False,David Tennant,True
+Mrs Crouch,[],,human,female,,,,True,,,,,,,,False,False,,False
+Ludo Bagman,['Ludovic Bagman'],,human,male,,,,True,,blue,blond,,,,,False,False,,True
+Amos Diggory,[],Jeff Rawle,human,male,,,,True,,,brown,,,,,False,False,Jeff Rawle,True
+Mrs Diggory,[],,human,female,,,,True,,,,,,,,False,False,,True
+Mr Roberts,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Roberts,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Kevin,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mr Payne,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Basil,[],,human,male,,,,True,,,,,,,,False,False,,True
+Archie Aymslowe,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cuthbert Mockridge,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gilbert Wimple,[],,human,male,,,,True,,,,,,,,False,False,,True
+Arnold Peasegood,[],,human,male,,,,True,,,,,,,,False,False,,True
+Broderick Bode,[],,human,male,,,,True,,,,,,,,False,False,,False
+Saul Croaker,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ali Bashir,[],,human,male,,,,True,,,,,,,,False,False,,True
+Victor Krum,[],Stanislav Ianevski,human,male,,,,True,,dark,dark,hornbeam,dragon heartstring,10.25,,False,False,Stanislav Ianevski,True
+Winky,[],,house-elf,female,,,,False,,,,,,,,False,False,,True
+Narcissa Malfoy,['Cissy'],Helen McCrory,human,female,,,,True,pure-blood,blue,blonde,,,,,False,False,Helen McCrory,True
+Vasily Dimitrov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Clara Ivanova,[],,human,female,,,,True,,,,,,,,False,False,,True
+Lev Zograf,[],,human,male,,,,True,,,,,,,,False,False,,True
+Alexei Levski,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pyotr Vulchanov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ivan Volkov,[],,human,male,,,,True,,,,,,,,False,False,,True
+Connolly,[],,human,male,,,,True,,,,,,,,False,False,,True
+Barry Ryan,[],,human,male,,,,True,,,,,,,,False,False,,True
+Troy,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mullet,[],,human,female,,,,True,,,,,,,,False,False,,True
+Moran,[],,human,female,,,,True,,,,,,,,False,False,,True
+Quigley,[],,human,male,,,,True,,,,,,,,False,False,,True
+Aidan Lynch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Hassan Mostafa,[],,human,male,,,,True,,,,,,,,False,False,,True
+Dennis Creevey,[],,human,male,,,,True,muggleborn,,brown,,,,,True,False,,True
+Aurora Sinistra,['Professor Sinistra'],,human,female,,,,True,,,,,,,,False,True,,True
+Stewart Ackerley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Malcolm Baddock,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eleanor Branstone,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Owen Cauldwell,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Emma Dobbs,[],,human,female,,,,True,,,,,,,,True,False,,True
+Laura Madley,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Natalie McDonald,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Graham Pritchard,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Orla Quirke,[],,human,female,Ravenclaw,,,True,,,,,,,,True,False,,True
+Kevin Whitby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Eloise Midgen,[],Samantha Clinch,human,female,Gryffindor,,,True,,,,,,,,True,False,Samantha Clinch,True
+Alastor Moody,"['Professor Moody', 'Mad-Eye']",Brendan Gleeson,human,male,,,,True,pure-blood,dark,grey,,,,,False,True,Brendan Gleeson,False
+Madame Maxime,['Olympe Maxime'],Frances de la Tour,half-giant,female,,,,True,,,,,,,,False,False,Frances de la Tour,True
+Igor Karkaroff,[],Predrag Bjelac,human,male,,,,True,,blue,silver,,,,,False,False,Predrag Bjelac,False
+Poliakoff,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fawcett,[],Alex Argenti,human,female,Ravenclaw,,,True,,,,,,,,True,False,Alex Argenti,True
+Summers,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Fleur Delacour,[],Clémence Poésy,human,female,,,,True,,blue,blonde,,,,,False,False,Clémence Poésy,True
+Gregorovic,['Mykew Gregorovitch'],Rade Šerbedžija,human,male,,,,True,,,white,,,,,False,False,Rade Šerbedžija,False
+Rita Skeeter,[],Miranda Richardson,human,female,,,,True,,,blonde,,,,,False,False,Miranda Richardson,True
+Stebbins,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],Apple Brook,human,female,,,,True,,,grey,,,,,False,True,Apple Brook,True
+Bozo,[],Peter O'Farrell,human,male,,,,True,,,,,,,,False,False,Peter O'Farrell,True
+Evan Rosier,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Wilkes,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,False
+Avery,[],Richard Rosson,human,male,Slytherin,,,True,,,,,,,,False,False,Richard Rosson,True
+Antonin Dolohov,[],Arben Bajraktaraj,human,male,,,,True,,,dark,,,,,False,False,Arben Bajraktaraj,True
+Travers,[],Tav MacDougall,human,male,,,,True,,,grey,,,,,False,False,Tav MacDougall,True
+Marlene McKinnon,[],,human,female,,,,True,,,,,,,,False,False,,False
+Mulciber,[],,human,male,Slytherin,,,True,,,,,,,,False,False,,True
+Augustus Rookwood,[],Richard Trinder,human,male,,,,True,,,,,,,,False,False,Richard Trinder,True
+Frank Longbottom,[],James Payton,human,male,,,,True,pure-blood,,,,,,,False,False,James Payton,True
+Alice Longbottom,[],Lisa Wood,human,female,,,,True,pure-blood,,white,,,,,False,False,Lisa Wood,True
+Augusta Longbottom,[],Leila Hoffman,human,female,,,,True,pure-blood,,,,,,,False,False,Leila Hoffman,True
+Violet,[],,human,female,,,,True,,,,,,,,False,False,,False
+Apollyon Pringle,[],,human,male,,,,True,,,,,,,,False,False,,True
+Ogg,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mafalda Hopkirk,[],Jessica Hynes,human,female,,,,True,,hazel,grey,,,,,False,False,Jessica Hynes,True
+Nymphadora Tonks,"['Dora', 'Nymphadora Lupin']",Natalia Tena,human,female,Hufflepuff,,,True,,,brown,,,,,False,False,Natalia Tena,False
+Elphias Doge,[],Peter Cartwright,human,male,,,,True,pure-blood,blue,silver,,,,,False,False,Peter Cartwright,True
+Dedalus Diggle,[],David Brett,human,male,,,,True,,,,,,,,False,False,David Brett,True
+Sturgis Podmore,[],,human,male,,,,True,,,blond,,,,,False,False,,True
+Hestia Jones,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Ragnok,[],,goblin,male,,,,False,,,,,,,,False,False,,True
+Alphard Black,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,False
+Regulus Black,['Regulus Arcturus Black'],Tom Moorcroft,human,male,Slytherin,,,True,pure-blood,,black,,,,,False,False,Tom Moorcroft,False
+Phineas Nigelus Black,['Professor Phineas Nigellus Black'],John Atterbury,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,John Atterbury,False
+Araminta Meliflua Black,[],,human,female,Slytherin,,,True,,,,,,,,False,False,,False
+Elladora Black,[],,human,female,,,,True,pure-blood,,,,,,,False,False,,False
+Mrs Black,['Walburga Black'],,human,female,,,,True,pure-blood,brown,brown,,,,,False,False,,False
+Andromeda Tonks,[],,human,female,Slytherin,,,True,pure-blood,,brown,,,,,False,False,,True
+Ted Tonks,['Edward'],,human,female,,,,True,muggleborn,,blond,,,,,False,False,,False
+Rodolphus Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Rabastan Lestrange,[],,human,male,Slytherin,,,True,pure-blood,,,,,,,False,False,,True
+Eric Munch,['Eric'],,human,male,,,,True,,,,,,,,False,False,,True
+Bob,[],Nicholas Blane,human,male,,,,True,,,,,,,,False,False,Nicholas Blane,True
+Bengie Fenwick,[],,human,male,,,,True,,,,,,,,False,False,,False
+Edgar Bones,[],Cliff Lanning,human,male,,,,True,,,,,,,,False,False,Cliff Lanning,False
+Amelia Bones,[],Sian Thomas,human,female,,,,True,,,grey,,,,,False,False,Sian Thomas,True
+Caradoc Dearborn,[],,human,male,,,,True,,,,,,,,False,False,,False
+Gideon Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Fabian Prewett,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Aberforth Dumbledore,[],Jim McManus,human,male,Gryffindor,,,True,half-blood,blue,,,,,goat,False,False,Jim McManus,True
+Dorcas Meadowes,[],,human,female,,,,True,,,,,,,,False,False,,False
+Algie Longbottom,[],,human,male,,,,True,,,,,,,,False,False,,True
+Anthony Goldstein,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Doris Purkiss,[],,human,male,,,,True,,,,,,,,False,False,,True
+Euan Abercrombie,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Rose Zeller,[],,human,female,Hufflepuff,,,True,,,,,,,,True,False,,True
+Patricia Stimpson,[],,human,female,,,,True,,,,,,,,True,False,,True
+Kenneth Towler,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Vicky Frobisher,[],,human,female,Gryffindor,,,True,,,,,,,,True,False,,True
+Geoffrey Hooper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Cassandra Trelawney,[],,human,female,,,,True,,,,,,,,False,False,,False
+Michael Corner,[],Ryan Nelson,human,male,Ravenclaw,,,True,,,,,,,,True,False,Ryan Nelson,True
+Zacharias Smith,[],Nick Shirm,human,male,Ravenclaw,,,True,,,blond,,,,,True,False,Nick Shirm,True
+Barnabas the Barmy,[],,human,male,,,,True,,,,,,,,True,False,,False
+Karkus,[],,giant,male,,,,False,,,,,,,,False,False,,False
+Golgomath,[],,giant,male,,,,False,,,,,,,,False,False,,True
+Fridwulfa,[],,giant,female,,,,False,,,,,,,,False,False,,False
+Andrew Kirke,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Jack Sloper,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Everard,['Professor Everard'],Sam Beazley,human,male,,,,True,,,black,,,,,False,False,Sam Beazley,False
+Dilys Derwent,['Professor Dilys Derwent'],,human,female,,,,True,,,silver,,,,,False,False,,False
+Hippocrates Smethwyck,[],,human,male,,,,True,,,,,,,,False,False,,True
+Augustus Pye,[],,human,male,,,,True,,,,,,,,False,False,,True
+Urquhart Rackharrow,[],,human,male,,,,True,,,,,,,,False,False,,False
+Willy Widdershins,[],,human,male,,,,True,,,,,,,,False,False,,True
+Agnes,[],,human,female,,,,True,,,,,,,,False,False,,True
+Miriam Strout,[],,human,female,,,,True,,,,,,,,False,False,,True
+Madam Puddifoot,[],,human,female,,,,True,,,black,,,,,False,False,,True
+Summerby,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Marietta Edgecombe,[],,human,female,Ravenclaw,,,True,,,blonde,,,,,True,False,,True
+Madam Edgecombe,[],,human,female,,,,True,,,,,,,,False,False,,True
+John Dawlish,[],Richard Leaf,human,male,,,,True,,,grey,,,,,False,False,Richard Leaf,True
+Williamson,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bradley,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Roger Davies,[],Henry Lloyd-Hughes,human,male,Ravenclaw,,,True,,,,,,,,True,False,Henry Lloyd-Hughes,True
+Grawp,[],Tony Maudsley,giant,male,,,,False,,green,brown,,,,,False,False,Tony Maudsley,True
+Griselda Marchbanks,['Madam Professor Griselda Marchbanks'],,human,female,,,,True,,,,,,,,False,False,,True
+Eddie Carmichael,[],,human,male,Ravenclaw,,,True,,,,,,,,True,False,,True
+Daphne Greengrass,[],,human,female,Slytherin,,,True,pure-blood,,,,,,,True,False,,True
+Tofty,['Professor Tofty'],,human,male,,,,True,,brown,grey,,,,,False,False,,True
+Tiberius Ogden,[],,human,male,,,,True,,,,,,,,False,False,,True
+Pierre Bonaccord,[],,human,male,,,,True,,,,,,,,False,False,,True
+Stubby Boardman,['Sirius Black'],,human,male,,,,True,,,,,,,,False,False,,True
+Magorian,[],Michael Wildman,centaur,male,,,,True,,,black,,,,,False,False,Michael Wildman,True
+Emmeline Vance,[],Brigitte Millar,human,female,,,,True,,,,,,,,False,False,Brigitte Millar,False
+Herbert Chorley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+The British Prime Minister,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Ulick Gamp,[],,human,male,,,,True,,yellow,silver,,,,,False,False,,False
+Rufus Scrimgeour,[],Bill Nighy,human,male,,,,True,,yellowish,tawny,,,,,False,False,Bill Nighy,False
+Corban Yaxley,[],Peter Mullan,human,male,,,,True,,blue,blond,,,,,False,False,Peter Mullan,True
+Fenrir Greyback,[],Dave Legeno,werewolf,male,,,,True,,,grey,,,,,False,False,Dave Legeno,True
+Dirk Cresswell,[],,human,male,,,,True,muggleborn,,,,,,,False,False,,False
+Barnabas Cuffe,[],Roger C. Bailey,human,male,,,,True,,,,,,,,False,False,Roger C. Bailey,True
+Ambrosius Flume,[],,human,male,,,,True,,,bald,,,,,False,False,,True
+Gwenog Jones,[],,human,female,,,,True,,brown,brown,,,,,False,False,,True
+Arkie Philpott,[],,human,male,,,,True,,,,,,,,False,False,,True
+Verity,[],,human,female,,,,True,,,blonde,,,,,False,False,,True
+Arnold,[],,pygmy puff,male,,,,False,,,purple,,,,,False,False,,True
+Romilda Vane,[],Anna Shaffer,human,female,Gryffindor,,,True,,dark,black,,,,,True,False,Anna Shaffer,True
+Cormac McLaggen,[],Freddie Stroma,human,male,Gryffindor,,,True,,,,,,,,True,False,Freddie Stroma,True
+Marcus Belby,[],Robert Knox,human,male,Ravenclaw,,,True,,,,,,,,True,False,Robert Knox,True
+Damocles Belby,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tiberius,[],,human,male,,,,True,,,,,,,,True,False,,False
+Bertie Higgs,[],,human,male,,,,True,,,,,,,,False,False,,False
+Proudfoot,[],,human,male,,,,True,,,,,,,,False,False,,True
+Savage,[],,human,male,,,,True,,,,,,,,False,False,,True
+Humphrey Belcher,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bob Ogden,[],,human,male,,,,True,,,,,,,,False,False,,False
+Morfin Gaunt,[],,human,male,,,,True,pure-blood,dark,,,,,,False,False,,False
+Marvolo Gaunt,[],,human,male,,,,True,pure-blood,brown,grey,,,,,False,False,,False
+Merope Gaunt,['Merope Riddle'],,human,female,,,,True,pure-blood,,dull,,,,,False,False,,False
+Cecilia,[],,human,female,,,,False,muggle,,,,,,,False,False,,False
+Tom Riddle,['Tom Riddle Senior'],,human,male,,,,False,muggle,,dark,,,,,False,False,,False
+Demelza Robins,[],Katy Huxley-Golden,human,female,Gryffindor,,,True,,,,,,,,True,False,Katy Huxley-Golden,True
+Jimmy Peakes,[],,human,male,Gryffindor,,,True,,,,,,,,True,False,,True
+Ritchie Coote,[],Ashley Virgil,human,male,Gryffindor,,,True,,,,,,,,True,False,Ashley Virgil,True
+Melinda Bobbin,[],,human,female,,,,True,,,,,,,,True,False,,True
+Leanne,[],Isabella Laughland,human,female,Hufflepuff,,,True,,,,,,,,True,False,Isabella Laughland,True
+Caractacus Burke,[],,human,male,,,,True,,,,,,,,False,False,,False
+Billy Stubbs,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Amy Benson,[],,human,female,,,,False,muggle,,,,,,,False,False,,True
+Dennis Bishop,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Mrs Cole,[],Amelda Brown,human,female,,,,False,muggle,,,,,,,False,False,Amelda Brown,True
+Eric Whalley,[],,human,male,,,,False,muggle,,,,,,,False,False,,True
+Vaisey,[],,human,male,Slytherin,,,True,,,dark,,,,,True,False,,True
+Harper,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Urquhart,[],,human,male,Slytherin,,,True,,,,,,,,True,False,,True
+Eldred Worple,[],Paul Ritter,human,male,,,,True,,,,,,,,False,False,Paul Ritter,True
+Sanguini,[],Charlie Bennison,vampire,male,,,,True,,,dark,,,,,False,False,Charlie Bennison,True
+Gawain Robards,[],,human,male,,,,True,,,,,,,,False,False,,True
+Fergus,[],,human,male,,,,True,,,,,,,,False,False,,True
+Wilkie Twycross,[],,human,male,,,,True,,,,,,,,False,False,,True
+Cadwallader,[],,human,male,Hufflepuff,,,True,,,,,,,,True,False,,True
+Galatea Merrythought,[],,human,female,,,,True,,,,,,,,False,True,,False
+Hepzibah Smith,[],,human,female,,,,True,,,,,,,,False,False,,False
+Hokey,[],,house-elf,female,,,,False,,,,,,,,False,False,,False
+Octavius Pepper,[],,human,male,,,,False,,,,,,,,False,False,,False
+Bertram Aubrey,[],,human,male,,,,False,,,,,,,,False,False,,False
+Eileen Prince,[],,human,female,,,,False,pure-blood,,,,,,,False,False,,False
+Amycus Carrow,[],Ralph Ineson,human,male,Slytherin,,,True,,,,,,,,False,False,Ralph Ineson,True
+Alecto Carrow,[],Suzie Toase,human,female,Slytherin,,,True,,,,,,,,False,False,Suzie Toase,True
+Gibbon,[],,human,male,,,,True,,,,,,,,False,False,,False
+Tobias Snape,[],,human,male,,,,False,,,,,,,,False,False,,True
+Pius Thicknesse,[],Guy Henry,human,male,,,,True,,,black,,,,,False,False,Guy Henry,True
+Wakanda,[],Harriet Thorpe,human,female,,,,True,,,blonde,,,,,False,False,Harriet Thorpe,True
+Charity Burbage,[],Carolyn Pickles,human,female,,,,True,,,,,,,,False,True,Carolyn Pickles,False
+Percival Dumbledore,[],,human,male,,,,True,,,,,,,,False,False,,False
+Kendra Dumbledore,[],,human,female,,,,True,muggleborn,dark,black,,,,,False,False,,False
+Ariana Dumbledore,[],Hebe Beardsall,human,female,,,,True,half-blood,,,,,,,False,False,Hebe Beardsall,False
+Betty Braithwaite,[],,human,female,,,,True,,,,,,,,False,False,,True
+Apolline Delacour,[],,half-human,female,,,,True,half-veela,,blonde,,,,,False,False,,True
+Gabrielle Delacour,[],Angelica Mandy,human,female,,,,True,quarter-veela,,blonde,,,,,False,False,Angelica Mandy,True
+Monsieur Delacour,[],,human,male,,,,True,,,black,,,,,False,False,,True
+Dragomir Gorgovitch,[],,human,male,,,,True,,,,,,,,False,False,,True
+Xenophilius Lovegood,[],Rhys Ifans,human,male,Ravenclaw,,,True,,,white,,,,,False,False,Rhys Ifans,True
+Pandora Lovegood,[],,human,female,Ravenclaw,,,True,,,,,,,,False,False,,False
+Muriel,"['Aunt Muriel', 'Auntie Muriel']",Matyelok Gibbs,human,female,,,,True,,,grey,,,,,False,False,Matyelok Gibbs,True
+Bilius,['Uncle Bilius'],,human,male,,,,True,,,,,,,,False,False,,False
+Thorfinn Rowle,[],Rod Hunt,human,male,,,,True,,,blond,,,,,False,False,Rod Hunt,True
+Reg Cattermole,['Reginald Cattermole'],Steffan Rhodri,human,male,,,,True,,,,,,,,False,False,Steffan Rhodri,True
+Albert Runcorn,[],David O'Hara,human,male,,,,True,,,black,,,,,False,False,David O'Hara,True
+Arkie Alderton,[],,human,male,,,,True,,,,,,,,False,False,,True
+Mary Cattermole,['Mary Elizabeth Cattermole'],Kate Fleetwood,human,female,,,,True,muggleborn,,,cherry,unicorn hair,8.75,,False,False,Kate Fleetwood,True
+Maisie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Ellie Cattermole,[],,human,female,,,,True,,,,,,,,False,False,,True
+Alfred Cattermole,[],,human,male,,,,True,,,,,,,,False,False,,True
+Gornuk,[],,goblin,male,,,,False,,,,,,,,False,False,,False
+Bowman Wright,[],,human,male,,,,True,,,,,,,,False,False,,False
+Ivor Dillonsby,[],,human,male,,,,True,,,,,,,,False,False,,True
+Enid Smeek,[],,human,female,,,,True,,,,,,,,False,False,,True
+Egbert the Egregious,[],,human,male,,,,True,,,,,,,,False,False,,False
+Godelot,[],,human,male,,,,True,,,,,,,,False,False,,False
+Hereward,[],,human,male,,,,True,,,,,,,,False,False,,False
+Loxias,[],,human,male,,,,True,,,,,,,,False,False,,False
+Barnabas Deverill,[],,human,male,,,,True,,,,,,,,False,False,,False
+Arcus,[],,human,male,,,,True,,,,,,,,False,False,,False
+Livius,[],,human,male,,,,True,,,,,,,,False,False,,False
+Antioch Peverell,['First Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Cadmus Peverell,['Second Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Ignotus Peverell,['Third Brother'],,human,male,,,,True,pure-blood,,,,,,,False,False,,False
+Selwyn,[],,human,male,,,,True,pure-blood,,,,,,,False,False,,True
+Scabior,[],Nick Moran,human,male,Slytherin,,,True,,,,,,,,False,False,Nick Moran,True
+Ragnuk the First,['King Ragnuk the First'],,goblin,male,,,,False,,,,,,,,False,False,,False
+Ted Lupin,['Edward Remus Teddy Lupin'],Luke Newberry,human,male,Hufflepuff,,,True,half-blood,,,,,,,False,False,Luke Newberry,True
+Marius,[],,human,male,,,,True,,,,,,,,False,False,,True
+Bogrod,[],Jon Key,goblin,male,,,,False,,black,white,,,,,False,False,Jon Key,True
+The Grey Lady,['Helena Ravenclaw'],Nina Young,ghost,female,,,,True,,,,,,,,False,False,Nina Young,False
+Dexter Fortescue,['Professor Dexter Fortescue'],,human,male,,,,True,,,,,,,,False,False,,False
+Lily Potter,['Lily Luna Potter'],Daphne de Beistegui,human,female,Gryffindor,,,True,half-blood,,red,,,,,False,False,Daphne de Beistegui,True
+James Potter,['James Sirius Potter'],Will Dunn,human,male,Gryffindor,,,True,half-blood,,,,,,,True,False,Will Dunn,True
+Albus Severus Potter,['Al'],Arthur Bowen,human,male,Slytherin,,,True,half-blood,green,black,,,,,True,False,Arthur Bowen,True
+Rose Weasley,[],Helena Barlow,human,female,Gryffindor,,,True,half-blood,,red,,,,,True,False,Helena Barlow,True
+Hugo Weasley,[],Ryan Turner,human,male,,,,True,half-blood,,brown,,,,,True,False,Ryan Turner,True
+Scorpius Malfoy,['Scorpius Hyperion Malfoy'],Bertie Gilbert,human,male,Slytherin,,,True,pure-blood,grey,blond,,,,,True,False,Bertie Gilbert,True
+Victoire Weasley,[],,human,female,,,,True,,,blonde,,,,,True,False,,True
